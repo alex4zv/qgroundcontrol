@@ -3983,47 +3983,47 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="285"/>
       <source>Advisories based on the selected rules.</source>
-      <translation type="unfinished">Advisories based on the selected rules.</translation>
+      <translation>Советы, основанные на выбранных правилах.</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="326"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Нет</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="372"/>
       <source>File Flight Plan</source>
-      <translation type="unfinished">File Flight Plan</translation>
+      <translation>Файл плана полета</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="372"/>
       <source>Flight Brief</source>
-      <translation type="unfinished">Flight Brief</translation>
+      <translation>Бриф полета</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="384"/>
       <source>Powered by &lt;b&gt;AIRMAP&lt;/b&gt;</source>
-      <translation type="unfinished">Powered by &lt;b&gt;AIRMAP&lt;/b&gt;</translation>
+      <translation>Работает на &lt;b&gt;AIRMAP&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="434"/>
       <source>Airspace Regulation Options</source>
-      <translation type="unfinished">Airspace Regulation Options</translation>
+      <translation>Опции регулирования воздушного пространства</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="456"/>
       <source>PICK ONE REGULATION</source>
-      <translation type="unfinished">PICK ONE REGULATION</translation>
+      <translation>ПРИДЕРЖИВАЙТЕСЬ ОДНОГО КУРСА</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="477"/>
       <source>OPTIONAL</source>
-      <translation type="unfinished">OPTIONAL</translation>
+      <translation>НЕОБЯЗАТЕЛЬНЫЙ</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirspaceControl.qml" line="497"/>
       <source>REQUIRED</source>
-      <translation type="unfinished">REQUIRED</translation>
+      <translation>ОБЯЗАТЕЛЬНО</translation>
     </message>
   </context>
   <context>
@@ -4031,57 +4031,57 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="20"/>
       <source>Select Altitude Mode</source>
-      <translation type="unfinished">Select Altitude Mode</translation>
+      <translation>Выберите режим Удержания высоты</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="47"/>
       <source>Relative To Launch</source>
-      <translation type="unfinished">Relative To Launch</translation>
+      <translation>Относительно запуска</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="48"/>
       <source>Specified altitudes are relative to launch position height.</source>
-      <translation type="unfinished">Specified altitudes are relative to launch position height.</translation>
+      <translation>Указанные высоты относительно высоты запуска.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="52"/>
       <source>AMSL</source>
-      <translation type="unfinished">AMSL</translation>
+      <translation>AMSL</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="53"/>
       <source>Specified altitudes are Above Mean Sea Level.</source>
-      <translation type="unfinished">Specified altitudes are Above Mean Sea Level.</translation>
+      <translation>Указанные высоты находятся выше среднего уровня моря.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="57"/>
       <source>Calculated Above Terrain</source>
-      <translation type="unfinished">Calculated Above Terrain</translation>
+      <translation>Вычислено Над землей</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="58"/>
       <source>Specified altitudes are distance above terrain. Actual altitudes sent to vehicle are calculated from terrain data and sent as AMSL values.</source>
-      <translation type="unfinished">Specified altitudes are distance above terrain. Actual altitudes sent to vehicle are calculated from terrain data and sent as AMSL values.</translation>
+      <translation>Установленные высоты выше местности. Высоты, отправленные на аппарат, рассчитываются на основе данных о местности и отправляются в виде значений AMSL.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="62"/>
       <source>Terrain Frame</source>
-      <translation type="unfinished">Terrain Frame</translation>
+      <translation>Рельефный каркас</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="63"/>
       <source>Specified altitudes are distance above terrain. The actual altitude flown is controlled by the vehicle either from terrain height maps being sent to vehicle or a distance sensor.</source>
-      <translation type="unfinished">Specified altitudes are distance above terrain. The actual altitude flown is controlled by the vehicle either from terrain height maps being sent to vehicle or a distance sensor.</translation>
+      <translation>Указанная высота выше местности. Фактические данные высоты контролируются аппаратом либо из карт высоты местности, которые посылаются на аппарат или  берутся с лидара.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="67"/>
       <source>Mixed Modes</source>
-      <translation type="unfinished">Mixed Modes</translation>
+      <translation>Смешанный режим</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AltModeDialog.qml" line="68"/>
       <source>The altitude mode can differ for each individual item.</source>
-      <translation type="unfinished">The altitude mode can differ for each individual item.</translation>
+      <translation>Режим высоты может отличаться для каждого отдельного элемента.</translation>
     </message>
   </context>
   <context>
@@ -4089,7 +4089,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/QmlControls/AppMessages.cc" line="108"/>
       <source>Open console log output file failed %1 : %2</source>
-      <translation type="unfinished">Open console log output file failed %1 : %2</translation>
+      <translation>Не удалось открыть исходный файл журнала консоли%1:%2</translation>
     </message>
   </context>
   <context>
@@ -4097,57 +4097,57 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="115"/>
       <source>GStreamer Debug Level</source>
-      <translation type="unfinished">GStreamer Debug Level</translation>
+      <translation>Уровень отладки GStreamer</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="159"/>
       <source>Logging categories</source>
-      <translation type="unfinished">Logging categories</translation>
+      <translation>Категории логов</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="170"/>
       <source>Search:</source>
-      <translation type="unfinished">Search:</translation>
+      <translation>Поиск:</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="181"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Очистить</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="189"/>
       <source>Clear All</source>
-      <translation type="unfinished">Clear All</translation>
+      <translation>Очистить всё</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="87"/>
       <source>Log files (*.txt)</source>
-      <translation type="unfinished">Log files (*.txt)</translation>
+      <translation>Файлы логов (*.txt)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="87"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>Все файлы (*)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="89"/>
       <source>Select log save file</source>
-      <translation type="unfinished">Select log save file</translation>
+      <translation>Выберите файл для сохранения лога</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="107"/>
       <source>Save App Log</source>
-      <translation type="unfinished">Save App Log</translation>
+      <translation>Сохранить лог приложения</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="134"/>
       <source>Show Latest</source>
-      <translation type="unfinished">Show Latest</translation>
+      <translation>Показать последние</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AppMessages.qml" line="149"/>
       <source>Set Logging</source>
-      <translation type="unfinished">Set Logging</translation>
+      <translation>Установка логирования</translation>
     </message>
   </context>
   <context>
@@ -4155,47 +4155,47 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/Settings/AppSettings.cc" line="30"/>
       <source>Parameters</source>
-      <translation type="unfinished">Parameters</translation>
+      <translation>Параметры</translation>
     </message>
     <message>
       <location filename="../src/Settings/AppSettings.cc" line="31"/>
       <source>Telemetry</source>
-      <translation type="unfinished">Telemetry</translation>
+      <translation>Телеметрия</translation>
     </message>
     <message>
       <location filename="../src/Settings/AppSettings.cc" line="32"/>
       <source>Missions</source>
-      <translation type="unfinished">Missions</translation>
+      <translation>Миссии</translation>
     </message>
     <message>
       <location filename="../src/Settings/AppSettings.cc" line="33"/>
       <source>Logs</source>
-      <translation type="unfinished">Logs</translation>
+      <translation>Логи</translation>
     </message>
     <message>
       <location filename="../src/Settings/AppSettings.cc" line="34"/>
       <source>Video</source>
-      <translation type="unfinished">Video</translation>
+      <translation>Видео</translation>
     </message>
     <message>
       <location filename="../src/Settings/AppSettings.cc" line="35"/>
       <source>Photo</source>
-      <translation type="unfinished">Photo</translation>
+      <translation>Фото</translation>
     </message>
     <message>
       <location filename="../src/Settings/AppSettings.cc" line="36"/>
       <source>CrashLogs</source>
-      <translation type="unfinished">CrashLogs</translation>
+      <translation>Журнал аварий</translation>
     </message>
     <message>
       <location filename="../src/Settings/AppSettings.cc" line="182"/>
       <source> (Partial)</source>
-      <translation type="unfinished"> (Partial)</translation>
+      <translation> (частично)</translation>
     </message>
     <message>
       <location filename="../src/Settings/AppSettings.cc" line="191"/>
       <source> (Test only)</source>
-      <translation type="unfinished"> (Test only)</translation>
+      <translation>(Только тест)</translation>
     </message>
   </context>
   <context>
@@ -4203,22 +4203,22 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/ui/toolbar/ArmedIndicator.qml" line="24"/>
       <source>Armed</source>
-      <translation type="unfinished">Armed</translation>
+      <translation>Активирован (Arm)</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/ArmedIndicator.qml" line="24"/>
       <source>Disarmed</source>
-      <translation type="unfinished">Disarmed</translation>
+      <translation>Отключено (Disarmed)</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/ArmedIndicator.qml" line="25"/>
       <source>Arm</source>
-      <translation type="unfinished">Arm</translation>
+      <translation>Включить (Arm)</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/ArmedIndicator.qml" line="25"/>
       <source>Disarm</source>
-      <translation type="unfinished">Disarm</translation>
+      <translation>Отключить (Disarm)</translation>
     </message>
   </context>
   <context>
@@ -4226,7 +4226,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/Audio/AudioOutput.cc" line="155"/>
       <source> negative </source>
-      <translation type="unfinished"> negative </translation>
+      <translation> отрицательный </translation>
     </message>
     <message>
       <location filename="../src/Audio/AudioOutput.cc" line="166"/>
