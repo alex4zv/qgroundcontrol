@@ -11134,73 +11134,73 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="68"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="68"/>
       <source>Position Control</source>
-      <translation type="unfinished">Position Control</translation>
+      <translation>Контроль Позиций</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="69"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="69"/>
       <source>Roll stick controls banking, pitch stick controls altitude. </source>
-      <translation type="unfinished">Roll stick controls banking, pitch stick controls altitude. </translation>
+      <translation>Стик крена управляет наклоном, стик тангажа высотой. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="70"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="70"/>
       <source>Throttle stick controls speed.</source>
-      <translation type="unfinished">Throttle stick controls speed.</translation>
+      <translation>Стик газа регулирует скорость.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="71"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="71"/>
       <source>With no stick inputs the plane flies a straight line, even in wind. </source>
-      <translation type="unfinished">With no stick inputs the plane flies a straight line, even in wind. </translation>
+      <translation>Без ввода со стиков самолет летит по прямой, даже при ветре. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="72"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="72"/>
       <source>Roll and Pitch sticks control sideways and forward speed </source>
-      <translation type="unfinished">Roll and Pitch sticks control sideways and forward speed </translation>
+      <translation>Стики крена и тангажа регулируют боковую и поступательную(вперед) скорость </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="73"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="73"/>
       <source>Throttle stick controls climb / sink rade. </source>
-      <translation type="unfinished">Throttle stick controls climb / sink rade. </translation>
+      <translation>Стик Газа управляет скоростью набора высоты / снижения. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="75"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="75"/>
       <source>Mission</source>
-      <translation type="unfinished">Mission</translation>
+      <translation>Миссия</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="76"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="76"/>
       <source>The aircraft obeys the programmed mission sent by QGroundControl. </source>
-      <translation type="unfinished">The aircraft obeys the programmed mission sent by QGroundControl. </translation>
+      <translation>Самолет выполняет запрограммированную миссию, отправленную с НСУ. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="78"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="78"/>
       <source>Hold</source>
-      <translation type="unfinished">Hold</translation>
+      <translation>Удержание</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="79"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="79"/>
       <source>The aircraft flies in a circle around the current position at the current altitude. </source>
-      <translation type="unfinished">The aircraft flies in a circle around the current position at the current altitude. </translation>
+      <translation>Аппарат летит по кругу вокруг текущего положения на текущей высоте. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="80"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="80"/>
       <source>The multirotor hovers at the current position and altitude. </source>
-      <translation type="unfinished">The multirotor hovers at the current position and altitude. </translation>
+      <translation>Мультиротор зависает в текущем положении и на текущей высоте. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="82"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="82"/>
       <source>Return</source>
-      <translation type="unfinished">Return</translation>
+      <translation>Возврат</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="83"/>
@@ -11491,37 +11491,37 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="109"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="109"/>
       <source>Limit the horizonal velocity (applies to all modes).</source>
-      <translation type="unfinished">Limit the horizonal velocity (applies to all modes).</translation>
+      <translation>Ограничить горизонзональную скорость (применяется ко всем режимам).</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="124"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="124"/>
       <source>Enable vertical velocity slider (if enabled, individual velocity limit parameters are automatically set)</source>
-      <translation type="unfinished">Enable vertical velocity slider (if enabled, individual velocity limit parameters are automatically set)</translation>
+      <translation>Включить горизонтальный слайдер скорости (если включено, автоматически задаются параметры ограничения скорости)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="143"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="143"/>
       <source>Vertial velocity (m/s)</source>
-      <translation type="unfinished">Vertial velocity (m/s)</translation>
+      <translation>Вертикальная скорость (м/с)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="144"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="144"/>
       <source>Limit the vertical velocity (applies to all modes).</source>
-      <translation type="unfinished">Limit the vertical velocity (applies to all modes).</translation>
+      <translation>Ограничить вертикальную скорость (применяется ко всем режимам).</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="159"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="159"/>
       <source>Mission Turning Radius</source>
-      <translation type="unfinished">Mission Turning Radius</translation>
+      <translation>Радиус поворота в миссии</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="160"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="160"/>
       <source>Increasing this leads to rounder turns in missions (corner cutting). Use the minimum value for accurate corner tracking.</source>
-      <translation type="unfinished">Increasing this leads to rounder turns in missions (corner cutting). Use the minimum value for accurate corner tracking.</translation>
+      <translation>Увеличение приводит к округлению поворотов в миссиях (угловой резки). Используйте минимальное значение для точного углового перемещения.</translation>
     </message>
   </context>
   <context>
@@ -11529,7 +11529,7 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/VehicleSetup/PX4FlowSensor.qml" line="23"/>
       <source>PX4Flow Camera</source>
-      <translation type="unfinished">PX4Flow Camera</translation>
+      <translation>Камера PX4Flow</translation>
     </message>
   </context>
   <context>
@@ -11537,12 +11537,12 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4ParameterMetaData.cc" line="340"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>Включено</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4ParameterMetaData.cc" line="342"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>Выкл.</translation>
     </message>
   </context>
   <context>
@@ -11550,12 +11550,12 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponent.cc" line="16"/>
       <source>Radio</source>
-      <translation type="unfinished">Radio</translation>
+      <translation>Радио</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponent.cc" line="27"/>
       <source>Radio Setup is used to calibrate your transmitter. It also assign channels for Roll, Pitch, Yaw and Throttle vehicle control as well as determining whether they are reversed.</source>
-      <translation type="unfinished">Radio Setup is used to calibrate your transmitter. It also assign channels for Roll, Pitch, Yaw and Throttle vehicle control as well as determining whether they are reversed.</translation>
+      <translation>Настройка радио используется для калибровки вашего передатчика. Он также назначает каналы для управления аппаратом по крену, тангажу, рысканию и газу, а также определяет, являются ли они реверсивными.</translation>
     </message>
   </context>
   <context>
@@ -11564,7 +11564,7 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="26"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="26"/>
       <source>Roll</source>
-      <translation type="unfinished">Roll</translation>
+      <translation>Крен Roll</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="27"/>
@@ -11576,31 +11576,31 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="37"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="42"/>
       <source>Setup required</source>
-      <translation type="unfinished">Setup required</translation>
+      <translation>Требуется настройка</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="31"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="31"/>
       <source>Pitch</source>
-      <translation type="unfinished">Pitch</translation>
+      <translation>Тангаж Pitch</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="36"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="36"/>
       <source>Yaw</source>
-      <translation type="unfinished">Yaw</translation>
+      <translation>Рысканье yaw</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="41"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="41"/>
       <source>Throttle</source>
-      <translation type="unfinished">Throttle</translation>
+      <translation>Газ</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="46"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="46"/>
       <source>Flaps</source>
-      <translation type="unfinished">Flaps</translation>
+      <translation>Закрылки</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="47"/>
@@ -11610,19 +11610,19 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="53"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="58"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>Выкл.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="52"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="52"/>
       <source>Aux1</source>
-      <translation type="unfinished">Aux1</translation>
+      <translation>Aux1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="57"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4RadioComponentSummary.qml" line="57"/>
       <source>Aux2</source>
-      <translation type="unfinished">Aux2</translation>
+      <translation>Aux2</translation>
     </message>
   </context>
   <context>
@@ -11631,25 +11631,25 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4SimpleFlightModes.qml" line="67"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4SimpleFlightModes.qml" line="67"/>
       <source>Flight Mode Settings</source>
-      <translation type="unfinished">Flight Mode Settings</translation>
+      <translation>Настройки полетных режимов</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4SimpleFlightModes.qml" line="89"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4SimpleFlightModes.qml" line="89"/>
       <source>Mode Channel</source>
-      <translation type="unfinished">Mode Channel</translation>
+      <translation>Канал Режимов</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4SimpleFlightModes.qml" line="97"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4SimpleFlightModes.qml" line="97"/>
       <source>Flight Mode %1</source>
-      <translation type="unfinished">Flight Mode %1</translation>
+      <translation>Полетный режим %1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4SimpleFlightModes.qml" line="128"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4SimpleFlightModes.qml" line="128"/>
       <source>Switch Settings</source>
-      <translation type="unfinished">Switch Settings</translation>
+      <translation>Настройки переключателя</translation>
     </message>
   </context>
   <context>
@@ -11657,12 +11657,12 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponent.cc" line="17"/>
       <source>PID Tuning</source>
-      <translation type="unfinished">PID Tuning</translation>
+      <translation>PID настройки</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponent.cc" line="28"/>
       <source>Tuning Setup is used to tune the flight controllers.</source>
-      <translation type="unfinished">Tuning Setup is used to tune the flight controllers.</translation>
+      <translation>Тюнинг настроек используется для подстройки контроллеров полета.</translation>
     </message>
   </context>
   <context>
@@ -11671,25 +11671,25 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAll.qml" line="31"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAll.qml" line="31"/>
       <source>Rate Controller</source>
-      <translation type="unfinished">Rate Controller</translation>
+      <translation>Управление рейтами</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAll.qml" line="34"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAll.qml" line="34"/>
       <source>Attitude Controller</source>
-      <translation type="unfinished">Attitude Controller</translation>
+      <translation>Контроллер высоты</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAll.qml" line="37"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAll.qml" line="37"/>
       <source>Velocity Controller</source>
-      <translation type="unfinished">Velocity Controller</translation>
+      <translation>Контроллер скорости</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAll.qml" line="40"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAll.qml" line="40"/>
       <source>Position Controller</source>
-      <translation type="unfinished">Position Controller</translation>
+      <translation>Контроллер позиции</translation>
     </message>
   </context>
   <context>
@@ -11698,13 +11698,13 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="29"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="29"/>
       <source>Roll</source>
-      <translation type="unfinished">Roll</translation>
+      <translation>Крен Roll</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="36"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="36"/>
       <source>Proportional Gain (MC_ROLL_P)</source>
-      <translation type="unfinished">Proportional Gain (MC_ROLL_P)</translation>
+      <translation>Пропорциональное усиление (MC_ROLL_P)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="37"/>
@@ -11712,37 +11712,37 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="37"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="54"/>
       <source>Increase for more responsiveness, reduce if the attitude overshoots.</source>
-      <translation type="unfinished">Increase for more responsiveness, reduce if the attitude overshoots.</translation>
+      <translation>Увеличьте для большей отзывчивости, уменьшите, если отношение выходит за рамки нормы.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="46"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="46"/>
       <source>Pitch</source>
-      <translation type="unfinished">Pitch</translation>
+      <translation>Тангаж Pitch</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="53"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="53"/>
       <source>Proportional Gain (MC_PITCH_P)</source>
-      <translation type="unfinished">Proportional Gain (MC_PITCH_P)</translation>
+      <translation>Пропорциональное усиленный (MC_PITCH_P)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="63"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="63"/>
       <source>Yaw</source>
-      <translation type="unfinished">Yaw</translation>
+      <translation>Рысканье yaw</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="70"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="70"/>
       <source>Proportional Gain (MC_YAW_P)</source>
-      <translation type="unfinished">Proportional Gain (MC_YAW_P)</translation>
+      <translation>Пропорциональное усиление (MC_YAW_P)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="71"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterAttitude.qml" line="71"/>
       <source>Increase for more responsiveness, reduce if the attitude overshoots (there is only a setpoint when yaw is fixed, i.e. when centering the stick).</source>
-      <translation type="unfinished">Increase for more responsiveness, reduce if the attitude overshoots (there is only a setpoint when yaw is fixed, i.e. when centering the stick).</translation>
+      <translation>Увеличьте для большей отзывчивости, уменьшите, если угол наклона превышает заданное значение (заданное значение существует только при фиксированном рыскании, т.е. при центровке ручки).</translation>
     </message>
   </context>
   <context>
@@ -11751,25 +11751,25 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="30"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="30"/>
       <source>Position control mode (set this to &apos;simple&apos; during tuning):</source>
-      <translation type="unfinished">Position control mode (set this to &apos;simple&apos; during tuning):</translation>
+      <translation>Режим удержания позиции (установите это значение &apos;simple&apos; во время тюнинга):</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="43"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="43"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Горизонтально</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="44"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="44"/>
       <source>Horizontal (Y direction, sidewards)</source>
-      <translation type="unfinished">Horizontal (Y direction, sidewards)</translation>
+      <translation>Горизонтальный (направление Y, в сторону)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="51"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="51"/>
       <source>Proportional gain (MPC_XY_P)</source>
-      <translation type="unfinished">Proportional gain (MPC_XY_P)</translation>
+      <translation>Пропорциональное усиление (MPC_XY_P)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="52"/>
@@ -11777,19 +11777,19 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="52"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="69"/>
       <source>Increase for more responsiveness, reduce if the position overshoots (there is only a setpoint when hovering, i.e. when centering the stick).</source>
-      <translation type="unfinished">Increase for more responsiveness, reduce if the position overshoots (there is only a setpoint when hovering, i.e. when centering the stick).</translation>
+      <translation>Увеличьте для большей отзывчивости, уменьшите, если положение выходит за пределы допустимого (заданное значение существует только при наведении стика, т.е. при центрировании ручки).</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="61"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="61"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>Вертикальный</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="68"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterPosition.qml" line="68"/>
       <source>Proportional gain (MPC_Z_P)</source>
-      <translation type="unfinished">Proportional gain (MPC_Z_P)</translation>
+      <translation>Пропорциональное усиление (MPC_Z_P)</translation>
     </message>
   </context>
   <context>
@@ -11798,25 +11798,25 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="32"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="32"/>
       <source>Airmode (disable during tuning) &lt;b&gt;&lt;a href=&quot;https://docs.px4.io/master/en/config_mc/pid_tuning_guide_multicopter.html#airmode-mixer-saturation&quot;&gt;?&lt;/a&gt;&lt;/b&gt;:</source>
-      <translation type="unfinished">Airmode (disable during tuning) &lt;b&gt;&lt;a href=&quot;https://docs.px4.io/master/en/config_mc/pid_tuning_guide_multicopter.html#airmode-mixer-saturation&quot;&gt;?&lt;/a&gt;&lt;/b&gt;:</translation>
+      <translation>Airmode (отключить во время тюнинга) &lt;b&gt;&lt;a href=&quot;https://docs.px4.io/master/en/config_mc/pid_tuning_guide_multicopter.html#airmode-mixer-saturation&quot;&gt;?&lt;/a&gt;&lt;/b&gt;:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="44"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="44"/>
       <source>Thrust curve &lt;b&gt;&lt;a href=&quot;https://docs.px4.io/master/en/config_mc/pid_tuning_guide_multicopter.html#thrust-curve&quot;&gt;?&lt;/a&gt;&lt;/b&gt;:</source>
-      <translation type="unfinished">Thrust curve &lt;b&gt;&lt;a href=&quot;https://docs.px4.io/master/en/config_mc/pid_tuning_guide_multicopter.html#thrust-curve&quot;&gt;?&lt;/a&gt;&lt;/b&gt;:</translation>
+      <translation>Кривая тяги &lt;b&gt;&lt;a href=&quot;https://docs.px4.io/master/en/config_mc/pid_tuning_guide_multicopter.html#thrust-curve&quot;&gt;?&lt;/a&gt;&lt;/b&gt;:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="57"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="57"/>
       <source>Roll</source>
-      <translation type="unfinished">Roll</translation>
+      <translation>Крен Roll</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="64"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="64"/>
       <source>Overall Multiplier (MC_ROLLRATE_K)</source>
-      <translation type="unfinished">Overall Multiplier (MC_ROLLRATE_K)</translation>
+      <translation>Общий мультипликатор (MC_ROLLRATE_K)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="65"/>
@@ -11826,7 +11826,7 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="98"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="131"/>
       <source>Multiplier for P, I and D gains: increase for more responsiveness, reduce if the rates overshoot (and increasing D does not help).</source>
-      <translation type="unfinished">Multiplier for P, I and D gains: increase for more responsiveness, reduce if the rates overshoot (and increasing D does not help).</translation>
+      <translation>Множитель для подстройки P, I и D: увеличьте для большей отзывчивости, уменьшите, если показатели превышают допустимые (и увеличение D не помогает).</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="72"/>
@@ -12145,12 +12145,12 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="90"/>
       <source>Vehicle</source>
-      <translation type="unfinished">Vehicle</translation>
+      <translation>Аппарат</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="93"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>Н/Д</translation>
     </message>
   </context>
   <context>
@@ -12158,108 +12158,108 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="63"/>
       <source>Search:</source>
-      <translation type="unfinished">Search:</translation>
+      <translation>Поиск:</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="74"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Очистить</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="85"/>
       <source>Show modified only</source>
-      <translation type="unfinished">Show modified only</translation>
+      <translation>Показать только измененные</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="97"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>Инструменты</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="105"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>Обновить</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="109"/>
       <source>Reset all to firmware&apos;s defaults</source>
-      <translation type="unfinished">Reset all to firmware&apos;s defaults</translation>
+      <translation>Сбросить все в прошивке до значений по умолчанию</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="110"/>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="115"/>
       <source>Reset All</source>
-      <translation type="unfinished">Reset All</translation>
+      <translation>Сбросить все</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="113"/>
       <source>Reset to vehicle&apos;s configuration defaults</source>
-      <translation type="unfinished">Reset to vehicle&apos;s configuration defaults</translation>
+      <translation>Сбросить аппарат к настройкам по умолчанию</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="119"/>
       <source>Load from file...</source>
-      <translation type="unfinished">Load from file...</translation>
+      <translation>Загрузить из файла...</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="121"/>
       <source>Load Parameters</source>
-      <translation type="unfinished">Load Parameters</translation>
+      <translation>Загрузка параметров</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="127"/>
       <source>Save to file...</source>
-      <translation type="unfinished">Save to file...</translation>
+      <translation>Сохранить в файл...</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="129"/>
       <source>Save Parameters</source>
-      <translation type="unfinished">Save Parameters</translation>
+      <translation>Сохранить параметры</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="136"/>
       <source>Clear all RC to Param</source>
-      <translation type="unfinished">Clear all RC to Param</translation>
+      <translation>Очистите все RC от параметров</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="284"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>Все файлы (*)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="318"/>
       <source>Select Reset to reset all parameters to their defaults.
 
 Note that this will also completely reset everything, including UAVCAN nodes, all vehicle settings, setup and calibrations.</source>
-      <translation type="unfinished">Select Reset to reset all parameters to their defaults.
+      <translation>Выберите «Восстановить», чтобы сбросить все параметры к значениям по умолчанию.
 
-Note that this will also completely reset everything, including UAVCAN nodes, all vehicle settings, setup and calibrations.</translation>
+Обратите внимание, что это также полностью сбросит все данные, включая узлы UAVCAN, все настройки, настройки и калибровки.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="142"/>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="143"/>
       <source>Reboot Vehicle</source>
-      <translation type="unfinished">Reboot Vehicle</translation>
+      <translation>Перезагрузить аппарат</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="275"/>
       <source>Parameter Editor</source>
-      <translation type="unfinished">Parameter Editor</translation>
+      <translation>Редактор параметров</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="284"/>
       <source>Parameter Files (*.%1)</source>
-      <translation type="unfinished">Parameter Files (*.%1)</translation>
+      <translation>Файлы параметров (*.%1)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="333"/>
       <source>Select Reset to reset all parameters to the vehicle&apos;s configuration defaults.</source>
-      <translation type="unfinished">Select Reset to reset all parameters to the vehicle&apos;s configuration defaults.</translation>
+      <translation>Выберите Сброс для сброса всех параметров аппарата настройками по умолчанию.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditor.qml" line="350"/>
       <source>Select Ok to reboot vehicle.</source>
-      <translation type="unfinished">Select Ok to reboot vehicle.</translation>
+      <translation>Выберите Ok для перезагрузки аппарата.</translation>
     </message>
   </context>
   <context>
@@ -12267,12 +12267,12 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/QmlControls/ParameterEditorController.cc" line="217"/>
       <source>Unable to create file: %1</source>
-      <translation type="unfinished">Unable to create file: %1</translation>
+      <translation>Невозможно создать файл: %1</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorController.cc" line="258"/>
       <source>Unable to open file: %1</source>
-      <translation type="unfinished">Unable to open file: %1</translation>
+      <translation>Не удается открыть файл: %1</translation>
     </message>
   </context>
   <context>
@@ -12280,57 +12280,57 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="135"/>
       <source>Reset to default</source>
-      <translation type="unfinished">Reset to default</translation>
+      <translation>Сброс к умолчаниям</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="209"/>
       <source>Min: </source>
-      <translation type="unfinished">Min: </translation>
+      <translation>Мин: </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="214"/>
       <source>Max: </source>
-      <translation type="unfinished">Max: </translation>
+      <translation>Макс: </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="219"/>
       <source>Default: </source>
-      <translation type="unfinished">Default: </translation>
+      <translation>По умолчанию: </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="225"/>
       <source>Parameter name: </source>
-      <translation type="unfinished">Parameter name: </translation>
+      <translation>Название параметра: </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="242"/>
       <source>Warning: Modifying values while vehicle is in flight can lead to vehicle instability and possible vehicle loss. </source>
-      <translation type="unfinished">Warning: Modifying values while vehicle is in flight can lead to vehicle instability and possible vehicle loss. </translation>
+      <translation>Предупреждение: Изменение значений во время полета может привести к нестабильности аппарата и возможной его потере. </translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="243"/>
       <source>Make sure you know what you are doing and double-check your values before Save!</source>
-      <translation type="unfinished">Make sure you know what you are doing and double-check your values before Save!</translation>
+      <translation>Убедитесь, что вы знаете, что вы делаете и дважды перепроверьте свои значения перед сохранением!</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="250"/>
       <source>Force save (dangerous!)</source>
-      <translation type="unfinished">Force save (dangerous!)</translation>
+      <translation>Все равно сохранить (опасно!)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="267"/>
       <source>Advanced settings</source>
-      <translation type="unfinished">Advanced settings</translation>
+      <translation>Расширенные настройки</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="282"/>
       <source>Manual Entry</source>
-      <translation type="unfinished">Manual Entry</translation>
+      <translation>Ввод вручную</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterEditorDialog.qml" line="290"/>
       <source>Set RC to Param</source>
-      <translation type="unfinished">Set RC to Param</translation>
+      <translation>Установите RC в значение Param</translation>
     </message>
   </context>
   <context>
