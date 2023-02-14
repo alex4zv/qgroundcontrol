@@ -967,47 +967,47 @@
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="135"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="135"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>Выкл.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="143"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="143"/>
       <source>Channel </source>
-      <translation type="unfinished">Channel </translation>
+      <translation>Канал </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="167"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="167"/>
       <source>Light Output Channels</source>
-      <translation type="unfinished">Light Output Channels</translation>
+      <translation>Выходные каналы подсветки</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="184"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="184"/>
       <source>Lights 1:</source>
-      <translation type="unfinished">Lights 1:</translation>
+      <translation>Свет 1:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="205"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="205"/>
       <source>Lights 2:</source>
-      <translation type="unfinished">Lights 2:</translation>
+      <translation>Свет 2:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="226"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.qml" line="226"/>
       <source>Brightness Steps:</source>
-      <translation type="unfinished">Brightness Steps:</translation>
+      <translation>Уровни яркости:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.cc" line="21"/>
       <source>Lights</source>
-      <translation type="unfinished">Lights</translation>
+      <translation>Подсветка</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponent.cc" line="32"/>
       <source>Lights setup is used to adjust light output channels.</source>
-      <translation type="unfinished">Lights setup is used to adjust light output channels.</translation>
+      <translation>"Настройка подсветки" используется для установки выходных каналов.</translation>
     </message>
   </context>
   <context>
@@ -1016,79 +1016,79 @@
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="63"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="63"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>Выкл.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="64"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="64"/>
       <source>Channel 5</source>
-      <translation type="unfinished">Channel 5</translation>
+      <translation>Канал 5</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="65"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="65"/>
       <source>Channel 6</source>
-      <translation type="unfinished">Channel 6</translation>
+      <translation>Канал 6</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="66"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="66"/>
       <source>Channel 7</source>
-      <translation type="unfinished">Channel 7</translation>
+      <translation>Канал 7</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="67"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="67"/>
       <source>Channel 8</source>
-      <translation type="unfinished">Channel 8</translation>
+      <translation>Канал 8</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="68"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="68"/>
       <source>Channel 9</source>
-      <translation type="unfinished">Channel 9</translation>
+      <translation>Канал 9</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="69"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="69"/>
       <source>Channel 10</source>
-      <translation type="unfinished">Channel 10</translation>
+      <translation>Канал 10</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="70"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="70"/>
       <source>Channel 11</source>
-      <translation type="unfinished">Channel 11</translation>
+      <translation>Канал 11</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="71"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="71"/>
       <source>Channel 12</source>
-      <translation type="unfinished">Channel 12</translation>
+      <translation>Канал 12</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="72"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="72"/>
       <source>Channel 13</source>
-      <translation type="unfinished">Channel 13</translation>
+      <translation>Канал 13</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="73"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="73"/>
       <source>Channel 14</source>
-      <translation type="unfinished">Channel 14</translation>
+      <translation>Канал 14</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="89"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="89"/>
       <source>Lights Output 1</source>
-      <translation type="unfinished">Lights Output 1</translation>
+      <translation>Вывод подсветки 1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="94"/>
       <location filename="../src/AutoPilotPlugins/APM/APMLightsComponentSummary.qml" line="94"/>
       <source>Lights Output 2</source>
-      <translation type="unfinished">Lights Output 2</translation>
+      <translation>Вывод подсветки 2</translation>
     </message>
   </context>
   <context>
@@ -1096,37 +1096,37 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.cc" line="15"/>
       <source>Motors</source>
-      <translation type="unfinished">Motors</translation>
+      <translation>Моторы</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="39"/>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="39"/>
       <source>Warning: Unable to determine motor count</source>
-      <translation type="unfinished">Warning: Unable to determine motor count</translation>
+      <translation>Предупреждение: Не удалось определить количество моторов</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="96"/>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="96"/>
       <source>All</source>
-      <translation type="unfinished">All</translation>
+      <translation>Все</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="122"/>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="122"/>
       <source>Moving the sliders will causes the motors to spin. Make sure you remove all props.</source>
-      <translation type="unfinished">Moving the sliders will causes the motors to spin. Make sure you remove all props.</translation>
+      <translation>Перемещение ползунков приведет к вращению двигателей. Убедитесь, что вы сняли все пропеллеры.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="142"/>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="142"/>
       <source>Careful: Motor sliders are enabled</source>
-      <translation type="unfinished">Careful: Motor sliders are enabled</translation>
+      <translation>Внимание: Ползунки двигателей включены</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="142"/>
       <location filename="../src/AutoPilotPlugins/APM/APMMotorComponent.qml" line="142"/>
       <source>Propellers are removed - Enable motor sliders</source>
-      <translation type="unfinished">Propellers are removed - Enable motor sliders</translation>
+      <translation>Пропеллеры сняты - Включить моторные слайдеры</translation>
     </message>
   </context>
   <context>
@@ -1135,7 +1135,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMNotSupported.qml" line="17"/>
       <location filename="../src/AutoPilotPlugins/APM/APMNotSupported.qml" line="17"/>
       <source>Not supported</source>
-      <translation type="unfinished">Not supported</translation>
+      <translation>Не поддерживается</translation>
     </message>
   </context>
   <context>
@@ -1144,7 +1144,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="50"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="50"/>
       <source>Requires vehicle reboot</source>
-      <translation type="unfinished">Requires vehicle reboot</translation>
+      <translation>Требует перезагрузки аппарата</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="60"/>
@@ -1152,13 +1152,13 @@
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="60"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="110"/>
       <source>Battery 1</source>
-      <translation type="unfinished">Battery 1</translation>
+      <translation>Батарея 1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="80"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="80"/>
       <source>Battery1 monitor:</source>
-      <translation type="unfinished">Battery1 monitor:</translation>
+      <translation>Монитор батареи 1:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="95"/>
@@ -1166,7 +1166,7 @@
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="95"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="182"/>
       <source>Reboot vehicle</source>
-      <translation type="unfinished">Reboot vehicle</translation>
+      <translation>Перезагрузить аппарат</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="147"/>
@@ -1174,79 +1174,79 @@
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="147"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="197"/>
       <source>Battery 2</source>
-      <translation type="unfinished">Battery 2</translation>
+      <translation>Батерея 2</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="167"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="167"/>
       <source>Battery2 monitor:</source>
-      <translation type="unfinished">Battery2 monitor:</translation>
+      <translation>Монитор батареи 2:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="233"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="233"/>
       <source>ESC Calibration</source>
-      <translation type="unfinished">ESC Calibration</translation>
+      <translation>Калибровка регуляторов</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="252"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="252"/>
       <source>WARNING: Remove props prior to calibration!</source>
-      <translation type="unfinished">WARNING: Remove props prior to calibration!</translation>
+      <translation>ВНИМАНИЕ: Снимите пропеллеры перед калибровкой!</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="260"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="260"/>
       <source>Calibrate</source>
-      <translation type="unfinished">Calibrate</translation>
+      <translation>Калибровка</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="267"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="267"/>
       <source>Now perform these steps:</source>
-      <translation type="unfinished">Now perform these steps:</translation>
+      <translation>Теперь выполните эти шаги:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="267"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="267"/>
       <source>Click Calibrate to start, then:</source>
-      <translation type="unfinished">Click Calibrate to start, then:</translation>
+      <translation>Нажмите "Калибровка" чтобы начать, затем:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="268"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="268"/>
       <source>- Disconnect USB and battery so flight controller powers down</source>
-      <translation type="unfinished">- Disconnect USB and battery so flight controller powers down</translation>
+      <translation>- Отсоедините USB-провод и аккумулятор, чтобы отключить контроллер полёта</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="269"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="269"/>
       <source>- Connect the battery</source>
-      <translation type="unfinished">- Connect the battery</translation>
+      <translation>- Подключите аккумулятор</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="270"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="270"/>
       <source>- The arming tone will be played (if the vehicle has a buzzer attached)</source>
-      <translation type="unfinished">- The arming tone will be played (if the vehicle has a buzzer attached)</translation>
+      <translation>- Прозвучит тон соответствующий состоянию "armed", (если подключен зуммер)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="271"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="271"/>
       <source>- If using a flight controller with a safety button press it until it displays solid red</source>
-      <translation type="unfinished">- If using a flight controller with a safety button press it until it displays solid red</translation>
+      <translation>- Если ваш полетный контроллер имеет кнопку безопасности, удерживаете ее пока она не станет красной</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="272"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="272"/>
       <source>- You will hear a musical tone then two beeps</source>
-      <translation type="unfinished">- You will hear a musical tone then two beeps</translation>
+      <translation>- После музыкального тона вы услышите два сигнала</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="273"/>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="273"/>
       <source>- A few seconds later you should hear a number of beeps (one for each battery cell you&apos;re using)</source>
-      <translation type="unfinished">- A few seconds later you should hear a number of beeps (one for each battery cell you&apos;re using)</translation>
+      <translation>- После паузы вы должны услышать несколько сигналов (по одному на каждую ячейку установленного аккумулятора)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMPowerComponent.qml" line="274"/>
@@ -1544,31 +1544,31 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="79"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="79"/>
       <source>Low action:</source>
-      <translation type="unfinished">Low action:</translation>
+      <translation>Действие при низком заряде:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="86"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="86"/>
       <source>Critical action:</source>
-      <translation type="unfinished">Critical action:</translation>
+      <translation>Действие при критическом заряде:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="93"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="93"/>
       <source>Low voltage threshold:</source>
-      <translation type="unfinished">Low voltage threshold:</translation>
+      <translation>Порог низкого напряжения:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="101"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="101"/>
       <source>Critical voltage threshold:</source>
-      <translation type="unfinished">Critical voltage threshold:</translation>
+      <translation>Порог критического напряжения:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="108"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="108"/>
       <source>Low mAh threshold:</source>
-      <translation type="unfinished">Low mAh threshold:</translation>
+      <translation>Нижний порог мАч:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponent.qml" line="115"/>
@@ -1875,7 +1875,7 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="318"/>
       <source>Altitude GeoFence enabled</source>
-      <translation type="unfinished">Altitude GeoFence enabled</translation>
+      <translation>Включен высотный GeoFence</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="343"/>
