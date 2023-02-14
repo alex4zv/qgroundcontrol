@@ -1880,62 +1880,62 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="343"/>
       <source>Report only</source>
-      <translation type="unfinished">Report only</translation>
+      <translation>Только сообщить</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="355"/>
       <source>RTL or Land</source>
-      <translation type="unfinished">RTL or Land</translation>
+      <translation>RTL или посадка</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="366"/>
       <source>Max radius:</source>
-      <translation type="unfinished">Max radius:</translation>
+      <translation>Макс. радиус:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="382"/>
       <source>Max altitude:</source>
-      <translation type="unfinished">Max altitude:</translation>
+      <translation>Макс. высота:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="402"/>
       <source>Return to Launch</source>
-      <translation type="unfinished">Return to Launch</translation>
+      <translation>Возврат на точку старта</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="438"/>
       <source>Return at current altitude</source>
-      <translation type="unfinished">Return at current altitude</translation>
+      <translation>Возврат на текущую высоту</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="450"/>
       <source>Return at specified altitude:</source>
-      <translation type="unfinished">Return at specified altitude:</translation>
+      <translation>Возврат на указанную высоту:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="472"/>
       <source>Loiter above Home for:</source>
-      <translation type="unfinished">Loiter above Home for:</translation>
+      <translation>Зависнуть над точкой старта на:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="491"/>
       <source>Land with descent speed:</source>
-      <translation type="unfinished">Land with descent speed:</translation>
+      <translation>Посадка с вертикальной скоростью:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="512"/>
       <source>Final loiter altitude:</source>
-      <translation type="unfinished">Final loiter altitude:</translation>
+      <translation>Окончательная высота зависания:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="534"/>
       <source>Arming Checks</source>
-      <translation type="unfinished">Arming Checks</translation>
+      <translation>Предстартовые проверки</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentCopter.qml" line="565"/>
       <source>Warning: Turning off arming checks can lead to loss of Vehicle control.</source>
-      <translation type="unfinished">Warning: Turning off arming checks can lead to loss of Vehicle control.</translation>
+      <translation>Внимание! Отключение предстартовых проверок может привести к потере управления.</translation>
     </message>
   </context>
   <context>
@@ -1943,42 +1943,42 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentPlane.qml" line="53"/>
       <source>Failsafe Triggers</source>
-      <translation type="unfinished">Failsafe Triggers</translation>
+      <translation>Триггеры отказа (Failsafe)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentPlane.qml" line="67"/>
       <source>Throttle PWM threshold:</source>
-      <translation type="unfinished">Throttle PWM threshold:</translation>
+      <translation>Порог ШИМ газа:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentPlane.qml" line="88"/>
       <source>Voltage threshold:</source>
-      <translation type="unfinished">Voltage threshold:</translation>
+      <translation>Порог напряжения:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentPlane.qml" line="109"/>
       <source>MAH threshold:</source>
-      <translation type="unfinished">MAH threshold:</translation>
+      <translation>Порог мА·ч:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentPlane.qml" line="130"/>
       <source>GCS failsafe</source>
-      <translation type="unfinished">GCS failsafe</translation>
+      <translation>Потеря связи с НСУ</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentPlane.qml" line="142"/>
       <source>Return to Launch</source>
-      <translation type="unfinished">Return to Launch</translation>
+      <translation>Возврат на точку старта</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentPlane.qml" line="156"/>
       <source>Return at current altitude</source>
-      <translation type="unfinished">Return at current altitude</translation>
+      <translation>Возврат на текущую высоту</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentPlane.qml" line="168"/>
       <source>Return at specified altitude:</source>
-      <translation type="unfinished">Return at specified altitude:</translation>
+      <translation>Возврат на указанную высоту:</translation>
     </message>
   </context>
   <context>
@@ -1986,52 +1986,52 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentRover.qml" line="53"/>
       <source>Failsafe Triggers</source>
-      <translation type="unfinished">Failsafe Triggers</translation>
+      <translation>Триггеры отказа (Failsafe)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentRover.qml" line="68"/>
       <source>Ground Station failsafe:</source>
-      <translation type="unfinished">Ground Station failsafe:</translation>
+      <translation>Потеря связи с НСУ:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentRover.qml" line="87"/>
       <source>Throttle failsafe:</source>
-      <translation type="unfinished">Throttle failsafe:</translation>
+      <translation>Отказ газа (Failsafe):</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentRover.qml" line="105"/>
       <source>PWM threshold:</source>
-      <translation type="unfinished">PWM threshold:</translation>
+      <translation>Предельное значение ШИМ сигнала:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentRover.qml" line="122"/>
       <source>Failsafe Crash Check:</source>
-      <translation type="unfinished">Failsafe Crash Check:</translation>
+      <translation>Провека аварийного предохранителя:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentRover.qml" line="131"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>Выкл.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentRover.qml" line="131"/>
       <source>Hold</source>
-      <translation type="unfinished">Hold</translation>
+      <translation>Удержание</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentRover.qml" line="131"/>
       <source>Hold and Disarm</source>
-      <translation type="unfinished">Hold and Disarm</translation>
+      <translation>Удержать и перевести в состояние "disarm"</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentRover.qml" line="143"/>
       <source>Arming Checks</source>
-      <translation type="unfinished">Arming Checks</translation>
+      <translation>Предстартовые проверки</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentRover.qml" line="174"/>
       <source>Warning: Turning off arming checks can lead to loss of Vehicle control.</source>
-      <translation type="unfinished">Warning: Turning off arming checks can lead to loss of Vehicle control.</translation>
+      <translation>Внимание! Отключение предстартовых проверок может привести к потере управления.</translation>
     </message>
   </context>
   <context>
@@ -2040,79 +2040,79 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="69"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="69"/>
       <source>Failsafe Actions</source>
-      <translation type="unfinished">Failsafe Actions</translation>
+      <translation>Действия при fail-safe</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="95"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="95"/>
       <source>GCS Heartbeat:</source>
-      <translation type="unfinished">GCS Heartbeat:</translation>
+      <translation>Heartbeat'ы наземной станции:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="114"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="114"/>
       <source>Leak:</source>
-      <translation type="unfinished">Leak:</translation>
+      <translation>Утечка:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="126"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="126"/>
       <source>Detector Pin:</source>
-      <translation type="unfinished">Detector Pin:</translation>
+      <translation>Контакт детектора:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="141"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="141"/>
       <source>Logic when Dry:</source>
-      <translation type="unfinished">Logic when Dry:</translation>
+      <translation>Логика при сухом баке:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="164"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="164"/>
       <source>Battery:</source>
-      <translation type="unfinished">Battery:</translation>
+      <translation>Батарея:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="176"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="176"/>
       <source>Voltage:</source>
-      <translation type="unfinished">Voltage:</translation>
+      <translation>Напряжение:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="190"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="190"/>
       <source>Remaining Capacity:</source>
-      <translation type="unfinished">Remaining Capacity:</translation>
+      <translation>Оставшаяся емкость:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="212"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="212"/>
       <source>EKF:</source>
-      <translation type="unfinished">EKF:</translation>
+      <translation>EKF:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="246"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="246"/>
       <source>Pilot Input:</source>
-      <translation type="unfinished">Pilot Input:</translation>
+      <translation>Управление пилота:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="258"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="258"/>
       <source>Timeout:</source>
-      <translation type="unfinished">Timeout:</translation>
+      <translation>Таймаут:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="281"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="281"/>
       <source>Internal Temperature:</source>
-      <translation type="unfinished">Internal Temperature:</translation>
+      <translation>Внутренняя температура:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="314"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="314"/>
       <source>Internal Pressure:</source>
-      <translation type="unfinished">Internal Pressure:</translation>
+      <translation>Внутреннее давление:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="293"/>
@@ -2120,19 +2120,19 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="293"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="326"/>
       <source>Threshold:</source>
-      <translation type="unfinished">Threshold:</translation>
+      <translation>Порог:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="347"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="347"/>
       <source>Arming Checks</source>
-      <translation type="unfinished">Arming Checks</translation>
+      <translation>Предстартовые проверки</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="378"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSub.qml" line="378"/>
       <source>Warning: Turning off arming checks can lead to loss of Vehicle control.</source>
-      <translation type="unfinished">Warning: Turning off arming checks can lead to loss of Vehicle control.</translation>
+      <translation>Внимание! Отключение предстартовых проверок может привести к потере управления.</translation>
     </message>
   </context>
   <context>
@@ -2141,19 +2141,19 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml" line="37"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml" line="37"/>
       <source>Arming Checks:</source>
-      <translation type="unfinished">Arming Checks:</translation>
+      <translation>Предстартовые проверки:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml" line="38"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml" line="38"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>Включено</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml" line="38"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml" line="38"/>
       <source>Some disabled</source>
-      <translation type="unfinished">Some disabled</translation>
+      <translation>Частично отключено</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummary.qml" line="44"/>
@@ -2450,17 +2450,17 @@
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummaryRover.qml" line="92"/>
       <source>Throttle failsafe:</source>
-      <translation type="unfinished">Throttle failsafe:</translation>
+      <translation>Отказ газа (Failsafe):</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummaryRover.qml" line="97"/>
       <source>Failsafe Action:</source>
-      <translation type="unfinished">Failsafe Action:</translation>
+      <translation>Действия при fail-safe:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummaryRover.qml" line="102"/>
       <source>Failsafe Crash Check:</source>
-      <translation type="unfinished">Failsafe Crash Check:</translation>
+      <translation>Провека аварийного предохранителя:</translation>
     </message>
   </context>
   <context>
@@ -2469,61 +2469,61 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="42"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="42"/>
       <source>Arming Checks:</source>
-      <translation type="unfinished">Arming Checks:</translation>
+      <translation>Предстартовые проверки:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="43"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="43"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>Включено</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="43"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="43"/>
       <source>Some disabled</source>
-      <translation type="unfinished">Some disabled</translation>
+      <translation>Частично отключено</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="46"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="46"/>
       <source>GCS failsafe:</source>
-      <translation type="unfinished">GCS failsafe:</translation>
+      <translation>Потеря связи с НСУ:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="50"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="50"/>
       <source>Leak failsafe:</source>
-      <translation type="unfinished">Leak failsafe:</translation>
+      <translation>Failsafe при утечке:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="55"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="55"/>
       <source>Battery failsafe:</source>
-      <translation type="unfinished">Battery failsafe:</translation>
+      <translation>Отказ аккумулятора:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="70"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="70"/>
       <source>EKF failsafe:</source>
-      <translation type="unfinished">EKF failsafe:</translation>
+      <translation>Проверка EKF:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="75"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="75"/>
       <source>Pilot Input failsafe:</source>
-      <translation type="unfinished">Pilot Input failsafe:</translation>
+      <translation>Filesafe ввод пилота:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="79"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="79"/>
       <source>Int. Temperature failsafe:</source>
-      <translation type="unfinished">Int. Temperature failsafe:</translation>
+      <translation>Прдхр. внутр. темп.:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="83"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSafetyComponentSummarySub.qml" line="83"/>
       <source>Int. Pressure failsafe:</source>
-      <translation type="unfinished">Int. Pressure failsafe:</translation>
+      <translation>Прдхр. внутр. давлния:</translation>
     </message>
   </context>
   <context>
@@ -2532,43 +2532,43 @@
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="40"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="40"/>
       <source>If mounted in the direction of flight, select None.</source>
-      <translation type="unfinished">If mounted in the direction of flight, select None.</translation>
+      <translation>Если установлено по направлению полета, выберите None.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="41"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="41"/>
       <source>Before calibrating make sure rotation settings are correct. </source>
-      <translation type="unfinished">Before calibrating make sure rotation settings are correct. </translation>
+      <translation>Перед калибровкой убедитесь, что настройки ориентации верные. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="42"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="42"/>
       <source>If the compass or GPS module is mounted in flight direction, leave the default value (None)</source>
-      <translation type="unfinished">If the compass or GPS module is mounted in flight direction, leave the default value (None)</translation>
+      <translation>Если компас или модуль GPS установлен в направлении полета, оставьте значение по умолчанию (None)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="44"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="44"/>
       <source>For Compass calibration you will need to rotate your vehicle through a number of positions.</source>
-      <translation type="unfinished">For Compass calibration you will need to rotate your vehicle through a number of positions.</translation>
+      <translation>Для калибровки компаса вам понадобится повернуть аппарат в несколько позиций.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="45"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="45"/>
       <source>For Gyroscope calibration you will need to place your vehicle on a surface and leave it still.</source>
-      <translation type="unfinished">For Gyroscope calibration you will need to place your vehicle on a surface and leave it still.</translation>
+      <translation>Для калибровки гироскопа вам понадобится установить аппарат на плоскую поверхность и оставить неподвижным.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="46"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="46"/>
       <source>For Accelerometer calibration you will need to place your vehicle on all six sides on a perfectly level surface and hold it still in each orientation for a few seconds.</source>
-      <translation type="unfinished">For Accelerometer calibration you will need to place your vehicle on all six sides on a perfectly level surface and hold it still in each orientation for a few seconds.</translation>
+      <translation>Для калибровки акселерометра вам понадобится устанавливать аппарат на 6 его сторон на идеально горизонтальной поверхности и держать его в каждом положении несколько секунд.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="47"/>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="47"/>
       <source>To level the horizon you need to place the vehicle in its level flight position and press OK.</source>
-      <translation type="unfinished">To level the horizon you need to place the vehicle in its level flight position and press OK.</translation>
+      <translation>Чтобы выровнять горизонт, вам необходимо установить дрон в горизонтальное положение и нажать "Ок".</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/APM/APMSensorsComponent.qml" line="49"/>
