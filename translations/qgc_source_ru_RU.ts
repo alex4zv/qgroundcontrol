@@ -7331,37 +7331,37 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="216"/>
       <source>Go To Location Max Distance</source>
-      <translation type="unfinished">Go To Location Max Distance</translation>
+      <translation>Максимальное расстояние до места</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="233"/>
       <source>Video Settings</source>
-      <translation type="unfinished">Video Settings</translation>
+      <translation>Настройки видео</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="240"/>
       <source>Source</source>
-      <translation type="unfinished">Source</translation>
+      <translation>Источник</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="296"/>
       <source>File Format</source>
-      <translation type="unfinished">File Format</translation>
+      <translation>Формат файла</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="318"/>
       <source>Video decode priority</source>
-      <translation type="unfinished">Video decode priority</translation>
+      <translation>Приоритет декодирования видео</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="345"/>
       <source>Auto-Delete Saved Recordings</source>
-      <translation type="unfinished">Auto-Delete Saved Recordings</translation>
+      <translation>Автоудаление сохраненных записей</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="356"/>
       <source>Plan View</source>
-      <translation type="unfinished">Plan View</translation>
+      <translation>Проекция профиля</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="378"/>
@@ -7629,32 +7629,32 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="222"/>
       <source>Circular Fences</source>
-      <translation type="unfinished">Circular Fences</translation>
+      <translation>Круговое ограничение</translation>
     </message>
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="278"/>
       <source>Radius</source>
-      <translation type="unfinished">Radius</translation>
+      <translation>Радиус</translation>
     </message>
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="314"/>
       <source>Breach Return Point</source>
-      <translation type="unfinished">Breach Return Point</translation>
+      <translation>Точки возврата при нарушении</translation>
     </message>
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="318"/>
       <source>Add Breach Return Point</source>
-      <translation type="unfinished">Add Breach Return Point</translation>
+      <translation>Добавить точку возврата при нарушении</translation>
     </message>
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="327"/>
       <source>Remove Breach Return Point</source>
-      <translation type="unfinished">Remove Breach Return Point</translation>
+      <translation>Удалить точку возврата при нарушении</translation>
     </message>
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="342"/>
       <source>Altitude</source>
-      <translation type="unfinished">Altitude</translation>
+      <translation>Высота</translation>
     </message>
   </context>
   <context>
@@ -7662,22 +7662,22 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/GeoFenceManager.cc" line="161"/>
       <source>GeoFence load: Vertex count change mid-polygon - actual:expected</source>
-      <translation type="unfinished">GeoFence load: Vertex count change mid-polygon - actual:expected</translation>
+      <translation>Загрузка GeoFence: Изменение количества вершин в середине полигона - фактическое: ожидаемое</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/GeoFenceManager.cc" line="165"/>
       <source>GeoFence load: Polygon type changed before last load complete - actual:expected</source>
-      <translation type="unfinished">GeoFence load: Polygon type changed before last load complete - actual:expected</translation>
+      <translation>Загрузка GeoFence: Тип полигона изменен до завершения последней загрузки - фактический: ожидаемый</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/GeoFenceManager.cc" line="178"/>
       <source>GeoFence load: Incomplete polygon loaded</source>
-      <translation type="unfinished">GeoFence load: Incomplete polygon loaded</translation>
+      <translation>GeoFence загрузка: загружен неполный многоугольник</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/GeoFenceManager.cc" line="186"/>
       <source>GeoFence load: Unsupported command %1</source>
-      <translation type="unfinished">GeoFence load: Unsupported command %1</translation>
+      <translation>Загрузка GeoFence: Неподдерживаемая команда %1</translation>
     </message>
   </context>
   <context>
@@ -7686,7 +7686,7 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/PlanView/GeoFenceMapVisuals.qml" line="170"/>
       <source>B</source>
       <comment>Breach Return Point item indicator</comment>
-      <translation type="unfinished">B</translation>
+      <translation>B</translation>
     </message>
   </context>
   <context>
@@ -7694,27 +7694,27 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="58"/>
       <source>Images have alreay been tagged. Existing images will be removed.</source>
-      <translation type="unfinished">Images have alreay been tagged. Existing images will be removed.</translation>
+      <translation>Изображения уже были помечены. Существующие изображения будут удалены.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="81"/>
       <source>The save folder already contains images.</source>
-      <translation type="unfinished">The save folder already contains images.</translation>
+      <translation>Папка сохранения уже содержит изображения.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="95"/>
       <source>Cannot find the image directory.</source>
-      <translation type="unfinished">Cannot find the image directory.</translation>
+      <translation>Не удается найти каталог изображений.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="103"/>
       <source>Couldn&apos;t replace the previously tagged images</source>
-      <translation type="unfinished">Couldn&apos;t replace the previously tagged images</translation>
+      <translation>Не удалось заменить ранее отмеченные изображения</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagController.cc" line="110"/>
       <source>Cannot find the save directory.</source>
-      <translation type="unfinished">Cannot find the save directory.</translation>
+      <translation>Не удается найти каталог для сохранения.</translation>
     </message>
   </context>
   <context>
@@ -7722,7 +7722,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/GeoTagPage.qml" line="26"/>
       <source>Used to tag a set of images from a survey mission with gps coordinates. You must provide the binary log from the flight as well as the directory which contains the images to tag.</source>
-      <translation type="unfinished">Used to tag a set of images from a survey mission with gps coordinates. You must provide the binary log from the flight as well as the directory which contains the images to tag.</translation>
+      <translation>Используется для пометки набора изображений из исследовательской миссии координатами gps. Вы должны предоставить двоичный журнал полета, а также каталог, содержащий изображения для пометки.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/GeoTagPage.qml" line="67"/>
