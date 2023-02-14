@@ -7226,107 +7226,107 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="685"/>
       <source>Telemetry Logs from Vehicle</source>
-      <translation type="unfinished">Telemetry Logs from Vehicle</translation>
+      <translation>Журнал телеметрии из аппарата</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="703"/>
       <source>Save log after each flight</source>
-      <translation type="unfinished">Save log after each flight</translation>
+      <translation>Сохранить лог после каждого полета</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="711"/>
       <source>Save logs even if vehicle was not armed</source>
-      <translation type="unfinished">Save logs even if vehicle was not armed</translation>
+      <translation>Сохранять логи, даже если БПЛА не Активировано(arm)</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="84"/>
       <source>Fly View</source>
-      <translation type="unfinished">Fly View</translation>
+      <translation>Fly View</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="145"/>
       <source>Auto-Center Throttle</source>
-      <translation type="unfinished">Auto-Center Throttle</translation>
+      <translation>Авто-центр газа</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="177"/>
       <source>Show simple camera controls (DIGICAM_CONTROL)</source>
-      <translation type="unfinished">Show simple camera controls (DIGICAM_CONTROL)</translation>
+      <translation>Показать простые элементы управления камерой (DIGICAM_CONTROL)</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="188"/>
       <source>Guided Command Settings</source>
-      <translation type="unfinished">Guided Command Settings</translation>
+      <translation>Управляемые настройки команд</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="194"/>
       <source>Minimum Altitude</source>
-      <translation type="unfinished">Minimum Altitude</translation>
+      <translation>Минимальная высота</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="205"/>
       <source>Maximum Altitude</source>
-      <translation type="unfinished">Maximum Altitude</translation>
+      <translation>Максимальная высота</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="539"/>
       <source>UI Scaling</source>
-      <translation type="unfinished">UI Scaling</translation>
+      <translation>Масштаб пользовательского интерфейса</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="604"/>
       <source>Use Vehicle Pairing</source>
-      <translation type="unfinished">Use Vehicle Pairing</translation>
+      <translation>Используйте сопряжение с аппаратом</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="618"/>
       <source>Check for Internet connection</source>
-      <translation type="unfinished">Check for Internet connection</translation>
+      <translation>Проверьте подключение к Интернету</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="719"/>
       <source>Save CSV log of telemetry data</source>
-      <translation type="unfinished">Save CSV log of telemetry data</translation>
+      <translation>Сохранить CSV журнал телеметрических данных</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="103"/>
       <source>Use Preflight Checklist</source>
-      <translation type="unfinished">Use Preflight Checklist</translation>
+      <translation>Использовать предполетный чеклист</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="111"/>
       <source>Enforce Preflight Checklist</source>
-      <translation type="unfinished">Enforce Preflight Checklist</translation>
+      <translation>Принудительная проверка чек-листа</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="120"/>
       <source>Keep Map Centered On Vehicle</source>
-      <translation type="unfinished">Keep Map Centered On Vehicle</translation>
+      <translation>Держать аппарат по центру карты</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="128"/>
       <source>Show Telemetry Log Replay Status Bar</source>
-      <translation type="unfinished">Show Telemetry Log Replay Status Bar</translation>
+      <translation>Показывать строку состояния реплея журнала телеметрии</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="139"/>
       <source>Virtual Joystick</source>
-      <translation type="unfinished">Virtual Joystick</translation>
+      <translation>Виртуальный джойстик</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="153"/>
       <source>Use Vertical Instrument Panel</source>
-      <translation type="unfinished">Use Vertical Instrument Panel</translation>
+      <translation>Использовать вертикальную панель инструментов</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="161"/>
       <source>Show additional heading indicators on Compass</source>
-      <translation type="unfinished">Show additional heading indicators on Compass</translation>
+      <translation>Показать дополнительные заголовки индикаторов на компасе</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="169"/>
       <source>Lock Compass Nose-Up</source>
-      <translation type="unfinished">Lock Compass Nose-Up</translation>
+      <translation>Зафиксировать компас носом вверх</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="216"/>
