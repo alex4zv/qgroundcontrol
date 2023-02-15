@@ -4458,12 +4458,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/BluetoothSettings.qml" line="67"/>
       <source>Scan</source>
-      <translation type="unfinished">Scan</translation>
+      <translation>Сканировать</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/BluetoothSettings.qml" line="73"/>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>Стоп</translation>
     </message>
   </context>
   <context>
@@ -4471,69 +4471,69 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="224"/>
       <source>Write failed: %1</source>
-      <translation type="unfinished">Write failed: %1</translation>
+      <translation>Ошибка записи: %1</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="229"/>
       <source>Incorrect number of bytes returned for write: actual(%1) expected(%2)</source>
-      <translation type="unfinished">Incorrect number of bytes returned for write: actual(%1) expected(%2)</translation>
+      <translation>Некорректное число возвращаемых байт для записи: ожидается (%1) - фактическое (%2)</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="250"/>
       <source>Timeout waiting for bytes to be available</source>
-      <translation type="unfinished">Timeout waiting for bytes to be available</translation>
+      <translation>Время ожидания признака доступности ВЫШЛО</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="260"/>
       <source>Read failed: error: %1</source>
-      <translation type="unfinished">Read failed: error: %1</translation>
+      <translation>Ошибка чтения: %1</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="274"/>
       <source>Get Command Response: </source>
-      <translation type="unfinished">Get Command Response: </translation>
+      <translation>Получение ответа команды: </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="280"/>
       <source>Invalid sync response: 0x%1 0x%2</source>
-      <translation type="unfinished">Invalid sync response: 0x%1 0x%2</translation>
+      <translation>Некорректный ответ синхронизации: 0x%1 0x%2</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="283"/>
       <source>This board is using a microcontroller with faulty silicon and an incorrect configuration and should be put out of service.</source>
-      <translation type="unfinished">This board is using a microcontroller with faulty silicon and an incorrect configuration and should be put out of service.</translation>
+      <translation>Эта плата использует микроконтроллер с аппаратными проблемами на уровне "кремния" и должны быть выведена из эксплуатации.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="286"/>
       <source>Unknown response code</source>
-      <translation type="unfinished">Unknown response code</translation>
+      <translation>Неизвестный код ответа</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="292"/>
       <source>Command failed: 0x%1 (%2)</source>
-      <translation type="unfinished">Command failed: 0x%1 (%2)</translation>
+      <translation>Не удалось выполнить команду: 0x%1 (%2)</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="156"/>
       <source>Get Board Info: </source>
-      <translation type="unfinished">Get Board Info: </translation>
+      <translation>Получить информацию о плате: </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="342"/>
       <source>Send Command: </source>
-      <translation type="unfinished">Send Command: </translation>
+      <translation>Отправить команду: </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="350"/>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="516"/>
       <source>Unable to open firmware file %1: %2</source>
-      <translation type="unfinished">Unable to open firmware file %1: %2</translation>
+      <translation>Не удалось открыть файл прошивки %1: %2</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="371"/>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="541"/>
       <source>Firmware file read failed: %1</source>
-      <translation type="unfinished">Firmware file read failed: %1</translation>
+      <translation>Не удалось прочитать файл прошивки: %1</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/Bootloader.cc" line="387"/>
@@ -5971,81 +5971,81 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="430"/>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="446"/>
       <source>Parrot</source>
-      <translation type="unfinished">Parrot</translation>
+      <translation>Parrot</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="431"/>
       <source>Sequioa RGB</source>
-      <translation type="unfinished">Sequioa RGB</translation>
+      <translation>Sequioa RGB</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="440"/>
       <source>Parrot Sequioa RGB</source>
-      <translation type="unfinished">Parrot Sequioa RGB</translation>
+      <translation>Parrot Sequioa RGB</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="447"/>
       <source>Sequioa Monochrome</source>
-      <translation type="unfinished">Sequioa Monochrome</translation>
+      <translation>Sequioa Monochrome</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="456"/>
       <source>Parrot Sequioa Monochrome</source>
-      <translation type="unfinished">Parrot Sequioa Monochrome</translation>
+      <translation>Parrot Sequioa Monochrome</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="462"/>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="463"/>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="472"/>
       <source>RedEdge</source>
-      <translation type="unfinished">RedEdge</translation>
+      <translation>RedEdge</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="479"/>
       <source>Ricoh</source>
-      <translation type="unfinished">Ricoh</translation>
+      <translation>Ricoh</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="480"/>
       <source>GR II</source>
-      <translation type="unfinished">GR II</translation>
+      <translation>GR II</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="489"/>
       <source>Ricoh GR II</source>
-      <translation type="unfinished">Ricoh GR II</translation>
+      <translation>Ricoh GR II</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="495"/>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="511"/>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="527"/>
       <source>Sentera</source>
-      <translation type="unfinished">Sentera</translation>
+      <translation>Sentera</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="496"/>
       <source>Double 4K Sensor</source>
-      <translation type="unfinished">Double 4K Sensor</translation>
+      <translation>Double 4K Sensor</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="505"/>
       <source>Sentera Double 4K Sensor</source>
-      <translation type="unfinished">Sentera Double 4K Sensor</translation>
+      <translation>Sentera Double 4K Sensor</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="512"/>
       <source>NDVI Single Sensor</source>
-      <translation type="unfinished">NDVI Single Sensor</translation>
+      <translation>NDVI Single Sensor</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="521"/>
       <source>Sentera NDVI Single Sensor</source>
-      <translation type="unfinished">Sentera NDVI Single Sensor</translation>
+      <translation>Sentera NDVI Single Sensor</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="528"/>
       <source>6X Sensor</source>
-      <translation type="unfinished">6X Sensor</translation>
+      <translation>6X Sensor</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="545"/>
@@ -6063,27 +6063,27 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="742"/>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="759"/>
       <source>Sony</source>
-      <translation type="unfinished">Sony</translation>
+      <translation>Sony</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="546"/>
       <source>a6000 16mm</source>
-      <translation type="unfinished">a6000 16mm</translation>
+      <translation>a6000 16 мм</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="555"/>
       <source>Sony a6000 16mm</source>
-      <translation type="unfinished">Sony a6000 16mm</translation>
+      <translation>Sony a6000 16 мм</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="562"/>
       <source>a6000 35mm</source>
-      <translation type="unfinished">a6000 35mm</translation>
+      <translation>a6000 35мм</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="578"/>
       <source>a6300 Zeiss 21mm f/2.8</source>
-      <translation type="unfinished">a6300 Zeiss 21mm f/2.8</translation>
+      <translation>a6300 Zeiss 21мм f/2.8</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="587"/>
@@ -6930,34 +6930,34 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/FlightDisplay/FlyViewMap.qml" line="371"/>
       <source>Go here</source>
       <comment>Go to location waypoint</comment>
-      <translation type="unfinished">Go here</translation>
+      <translation>Перейти сюда</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMap.qml" line="474"/>
       <source>ROI here</source>
       <comment>Make this a Region Of Interest</comment>
-      <translation type="unfinished">ROI here</translation>
+      <translation>ROI здесь</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMap.qml" line="510"/>
       <source>Orbit</source>
       <comment>Orbit waypoint</comment>
-      <translation type="unfinished">Orbit</translation>
+      <translation>Орбита</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMap.qml" line="522"/>
       <source>Go to location</source>
-      <translation type="unfinished">Go to location</translation>
+      <translation>Перейти к позиции</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMap.qml" line="531"/>
       <source>Orbit at location</source>
-      <translation type="unfinished">Orbit at location</translation>
+      <translation>Кружить над местом</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMap.qml" line="540"/>
       <source>ROI at location</source>
-      <translation type="unfinished">ROI at location</translation>
+      <translation>ROI в точке</translation>
     </message>
   </context>
   <context>
@@ -6965,37 +6965,37 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewMissionCompleteDialog.qml" line="44"/>
       <source>Flight Plan complete</source>
-      <translation type="unfinished">Flight Plan complete</translation>
+      <translation>Полетный план завершен</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMissionCompleteDialog.qml" line="80"/>
       <source>%1 Images Taken</source>
-      <translation type="unfinished">%1 Images Taken</translation>
+      <translation>%1 Фото сделано</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMissionCompleteDialog.qml" line="87"/>
       <source>Remove plan from vehicle</source>
-      <translation type="unfinished">Remove plan from vehicle</translation>
+      <translation>Удалить полетное задание из контроллера</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMissionCompleteDialog.qml" line="98"/>
       <source>Leave plan on vehicle</source>
-      <translation type="unfinished">Leave plan on vehicle</translation>
+      <translation>Оставить полетный план на аппарате</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMissionCompleteDialog.qml" line="116"/>
       <source>Resume Mission From Waypoint %1</source>
-      <translation type="unfinished">Resume Mission From Waypoint %1</translation>
+      <translation>Возобновить миссию от путевой точки %1</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMissionCompleteDialog.qml" line="127"/>
       <source>Resume Mission will rebuild the current mission from the last flown waypoint and upload it to the vehicle for the next flight.</source>
-      <translation type="unfinished">Resume Mission will rebuild the current mission from the last flown waypoint and upload it to the vehicle for the next flight.</translation>
+      <translation>Возобновление Миссии восстановит текущую миссию из последней летной точки и загрузит ее на аппарат для следующего полета.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMissionCompleteDialog.qml" line="135"/>
       <source>If you are changing batteries for Resume Mission do not disconnect from the vehicle.</source>
-      <translation type="unfinished">If you are changing batteries for Resume Mission do not disconnect from the vehicle.</translation>
+      <translation>Если вы меняете батареи для Продолжения Миссии не отключайтесь от аппарата.</translation>
     </message>
   </context>
   <context>
@@ -7003,7 +7003,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewPreFlightChecklistPopup.qml" line="21"/>
       <source>Pre-Flight Checklist</source>
-      <translation type="unfinished">Pre-Flight Checklist</translation>
+      <translation>Предполетный чек-лист</translation>
     </message>
   </context>
   <context>
@@ -7011,7 +7011,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewToolStrip.qml" line="18"/>
       <source>Fly</source>
-      <translation type="unfinished">Fly</translation>
+      <translation>Полёт</translation>
     </message>
   </context>
   <context>
@@ -7019,7 +7019,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewToolStripActionList.qml" line="22"/>
       <source>Plan</source>
-      <translation type="unfinished">Plan</translation>
+      <translation>План</translation>
     </message>
   </context>
   <context>
@@ -7027,7 +7027,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewVideo.qml" line="68"/>
       <source>Double-click to exit full screen</source>
-      <translation type="unfinished">Double-click to exit full screen</translation>
+      <translation>Дважды щелкните для выхода из полноэкранного режима</translation>
     </message>
   </context>
   <context>
@@ -7035,12 +7035,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewWidgetLayer.qml" line="89"/>
       <source>Single</source>
-      <translation type="unfinished">Single</translation>
+      <translation>Одиночный</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewWidgetLayer.qml" line="95"/>
       <source>Multi-Vehicle</source>
-      <translation type="unfinished">Multi-Vehicle</translation>
+      <translation>Мультиаппаратный</translation>
     </message>
   </context>
   <context>
@@ -7048,34 +7048,34 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="50"/>
       <source>GPS Status</source>
-      <translation type="unfinished">GPS Status</translation>
+      <translation>GPS Статус</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="50"/>
       <source>GPS Data Unavailable</source>
-      <translation type="unfinished">GPS Data Unavailable</translation>
+      <translation>Данные GPS недоступны</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="63"/>
       <source>GPS Count:</source>
-      <translation type="unfinished">GPS Count:</translation>
+      <translation>Кол-во спутников GPS:</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="64"/>
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="66"/>
       <source>N/A</source>
       <comment>No data to display</comment>
-      <translation type="unfinished">N/A</translation>
+      <translation>Н/Д</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="65"/>
       <source>GPS Lock:</source>
-      <translation type="unfinished">GPS Lock:</translation>
+      <translation>GPS захват:</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="67"/>
       <source>HDOP:</source>
-      <translation type="unfinished">HDOP:</translation>
+      <translation>HDOP:</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="68"/>
@@ -7083,17 +7083,17 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="72"/>
       <source>--.--</source>
       <comment>No data to display</comment>
-      <translation type="unfinished">--.--</translation>
+      <translation>--.--</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="69"/>
       <source>VDOP:</source>
-      <translation type="unfinished">VDOP:</translation>
+      <translation>VDOP:</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/GPSIndicator.qml" line="71"/>
       <source>Course Over Ground:</source>
-      <translation type="unfinished">Course Over Ground:</translation>
+      <translation>Курс относительно земли:</translation>
     </message>
   </context>
   <context>
@@ -7101,12 +7101,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/toolbar/GPSRTKIndicator.qml" line="47"/>
       <source>Survey-in Active</source>
-      <translation type="unfinished">Survey-in Active</translation>
+      <translation>Обследование активно</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/GPSRTKIndicator.qml" line="47"/>
       <source>RTK Streaming</source>
-      <translation type="unfinished">RTK Streaming</translation>
+      <translation>Трансляция RTK</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/GPSRTKIndicator.qml" line="61"/>
@@ -7366,103 +7366,103 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="378"/>
       <source>Default Mission Altitude</source>
-      <translation type="unfinished">Default Mission Altitude</translation>
+      <translation>Высота полета по умолчанию</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="384"/>
       <source>VTOL TransitionDistance</source>
-      <translation type="unfinished">VTOL TransitionDistance</translation>
+      <translation>Расстояние перехода VTOL</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="392"/>
       <source>Use MAV_CMD_CONDITION_GATE for pattern generation</source>
-      <translation type="unfinished">Use MAV_CMD_CONDITION_GATE for pattern generation</translation>
+      <translation>Использовать MAV_CMD_CONDITION_GATE для генерации шаблонов</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="397"/>
       <source>Missions Do Not Require Takeoff Item</source>
-      <translation type="unfinished">Missions Do Not Require Takeoff Item</translation>
+      <translation>Задания не требуют взлета</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
       <source>Horizontal Distance</source>
-      <translation type="unfinished">Horizontal Distance</translation>
+      <translation>Гор. расстояние</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
       <source>Vertical Distance</source>
-      <translation type="unfinished">Vertical Distance</translation>
+      <translation>Верт. расстояние</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="731"/>
       <source>AutoConnect to the following devices</source>
-      <translation type="unfinished">AutoConnect to the following devices</translation>
+      <translation>Автоподключение к следующим устройствам</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="762"/>
       <source>Pixhawk</source>
-      <translation type="unfinished">Pixhawk</translation>
+      <translation>Pixhawk</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="762"/>
       <source>SiK Radio</source>
-      <translation type="unfinished">SiK Radio</translation>
+      <translation>SiK Radio</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="762"/>
       <source>PX4 Flow</source>
-      <translation type="unfinished">PX4 Flow</translation>
+      <translation>PX4 Flow</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="762"/>
       <source>LibrePilot</source>
-      <translation type="unfinished">LibrePilot</translation>
+      <translation>LibrePilot</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="762"/>
       <source>UDP</source>
-      <translation type="unfinished">UDP</translation>
+      <translation>UDP</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="762"/>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="847"/>
       <source>RTK GPS</source>
-      <translation type="unfinished">RTK GPS</translation>
+      <translation>RTK GPS</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="762"/>
       <source>Zero-Conf</source>
-      <translation type="unfinished">Zero-Conf</translation>
+      <translation>Zero-Conf</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="781"/>
       <source>NMEA GPS Device</source>
-      <translation type="unfinished">NMEA GPS Device</translation>
+      <translation>Устройство NMEA GPS</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="812"/>
       <source>NMEA GPS Baudrate</source>
-      <translation type="unfinished">NMEA GPS Baudrate</translation>
+      <translation>NMEA GPS Baudrate</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="832"/>
       <source>NMEA stream UDP port</source>
-      <translation type="unfinished">NMEA stream UDP port</translation>
+      <translation>Порт UDP потока NMEA</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="870"/>
       <source>Perform Survey-In</source>
-      <translation type="unfinished">Perform Survey-In</translation>
+      <translation>Выполнить обследование</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="904"/>
       <source>Use Specified Base Position</source>
-      <translation type="unfinished">Use Specified Base Position</translation>
+      <translation>Использовать указанное базовое положение</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="965"/>
       <source>Save Current Base Position</source>
-      <translation type="unfinished">Save Current Base Position</translation>
+      <translation>Сохранить текущую базовую позицию</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="981"/>
@@ -8012,62 +8012,62 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="69"/>
       <source>Move the vehicle to the specified location.</source>
-      <translation type="unfinished">Move the vehicle to the specified location.</translation>
+      <translation>Двигаться к указанному местоположению.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="70"/>
       <source>Adjust current waypoint to %1.</source>
-      <translation type="unfinished">Adjust current waypoint to %1.</translation>
+      <translation>Изменить текущую путевую точку на %1.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="71"/>
       <source>Orbit the vehicle around the specified location.</source>
-      <translation type="unfinished">Orbit the vehicle around the specified location.</translation>
+      <translation>Кружить вокруг указанного местоположения.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="72"/>
       <source>Abort the landing sequence.</source>
-      <translation type="unfinished">Abort the landing sequence.</translation>
+      <translation>Отменить посадку.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="73"/>
       <source>Pause the vehicle at it&apos;s current position, adjusting altitude up or down as needed.</source>
-      <translation type="unfinished">Pause the vehicle at it&apos;s current position, adjusting altitude up or down as needed.</translation>
+      <translation>Приостановить аппарат в его текущем положении, регулировать высоту вверх или вниз по мере необходимости.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="74"/>
       <source>Pause all vehicles at their current position.</source>
-      <translation type="unfinished">Pause all vehicles at their current position.</translation>
+      <translation>Остановить все аппараты в их текущих местоположениях.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="75"/>
       <source>Transition VTOL to fixed wing flight.</source>
-      <translation type="unfinished">Transition VTOL to fixed wing flight.</translation>
+      <translation>Переход VTOL на крыло.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="76"/>
       <source>Transition VTOL to multi-rotor flight.</source>
-      <translation type="unfinished">Transition VTOL to multi-rotor flight.</translation>
+      <translation>Переход VTOL на мультиротор.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="77"/>
       <source>Make the specified location a Region Of Interest.</source>
-      <translation type="unfinished">Make the specified location a Region Of Interest.</translation>
+      <translation>Сделать указанное местоположение Объектом интереса (ROI). </translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="163"/>
       <source>_activeVehicle(%1) _vehicleArmed(%2) guidedModeSupported(%3) _vehicleFlying(%4) _vehicleWasFlying(%5) _vehicleInRTLMode(%6) pauseVehicleSupported(%7) _vehiclePaused(%8) _flightMode(%9) _missionItemCount(%10) roiSupported(%11) orbitSupported(%12) _missionActive(%13) _hideROI(%14) _hideOrbit(%15)</source>
-      <translation type="unfinished">_activeVehicle(%1) _vehicleArmed(%2) guidedModeSupported(%3) _vehicleFlying(%4) _vehicleWasFlying(%5) _vehicleInRTLMode(%6) pauseVehicleSupported(%7) _vehiclePaused(%8) _flightMode(%9) _missionItemCount(%10) roiSupported(%11) orbitSupported(%12) _missionActive(%13) _hideROI(%14) _hideOrbit(%15)</translation>
+      <translation>_activeVehicle(%1) _vehicleArmed(%2) guidedModeSupported(%3) _vehicleFlying(%4) _vehicleWasFlying(%5) _vehicleInRTLMode(%6) pauseVehicleSupported(%7) _vehiclePaused(%8) _flightMode(%9) _missionItemCount(%10) roiSupported(%11) orbitSupported(%12) _missionActive(%13) _hideROI(%14) _hideOrbit(%15)</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="392"/>
       <source>Smart RTL</source>
-      <translation type="unfinished">Smart RTL</translation>
+      <translation>Smart RTL</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="536"/>
       <source>Internal error: unknown actionCode</source>
-      <translation type="unfinished">Internal error: unknown actionCode</translation>
+      <translation>Внутренняя ошибка: unknown actionCode</translation>
     </message>
   </context>
   <context>
@@ -8075,7 +8075,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/GuidedAltitudeSlider.qml" line="65"/>
       <source>New Alt(rel)</source>
-      <translation type="unfinished">New Alt(rel)</translation>
+      <translation>Новая высота (отн.)</translation>
     </message>
   </context>
   <context>
@@ -8083,17 +8083,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/HelpSettings.qml" line="37"/>
       <source>QGroundControl User Guide</source>
-      <translation type="unfinished">QGroundControl User Guide</translation>
+      <translation>Руководство пользователя GroundControl</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/HelpSettings.qml" line="44"/>
       <source>PX4 Users Discussion Forum</source>
-      <translation type="unfinished">PX4 Users Discussion Forum</translation>
+      <translation>Дискуссионный форум пользователей PX4</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/HelpSettings.qml" line="51"/>
       <source>ArduPilot Users Discussion Forum</source>
-      <translation type="unfinished">ArduPilot Users Discussion Forum</translation>
+      <translation>Форум пользователей ArduPilot</translation>
     </message>
   </context>
   <context>
@@ -8102,13 +8102,13 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/QmlControls/HorizontalFactValueGrid.qml" line="128"/>
       <location filename="../src/QmlControls/HorizontalFactValueGrid.qml" line="153"/>
       <source>+</source>
-      <translation type="unfinished">+</translation>
+      <translation>+</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/HorizontalFactValueGrid.qml" line="136"/>
       <location filename="../src/QmlControls/HorizontalFactValueGrid.qml" line="160"/>
       <source>-</source>
-      <translation type="unfinished">-</translation>
+      <translation>-</translation>
     </message>
   </context>
   <context>
