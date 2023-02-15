@@ -4357,7 +4357,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/AxisMonitor.qml" line="69"/>
       <source>Not Mapped</source>
-      <translation type="unfinished">Not Mapped</translation>
+      <translation>Не привязан</translation>
     </message>
   </context>
   <context>
@@ -4365,48 +4365,48 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="82"/>
       <source>100%</source>
-      <translation type="unfinished">100%</translation>
+      <translation>100%</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="145"/>
       <source>Battery Status</source>
-      <translation type="unfinished">Battery Status</translation>
+      <translation>Статус батареи</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="168"/>
       <source>Battery %1</source>
-      <translation type="unfinished">Battery %1</translation>
+      <translation>Батарея %1</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="169"/>
       <source>Charge State</source>
-      <translation type="unfinished">Charge State</translation>
+      <translation>Состояние зарядки</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="170"/>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="171"/>
       <source>Remaining</source>
-      <translation type="unfinished">Remaining</translation>
+      <translation>Осталось</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="172"/>
       <source>Voltage</source>
-      <translation type="unfinished">Voltage</translation>
+      <translation>Напряжение</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="173"/>
       <source>Consumed</source>
-      <translation type="unfinished">Consumed</translation>
+      <translation>Израсходовано</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="174"/>
       <source>Temperature</source>
-      <translation type="unfinished">Temperature</translation>
+      <translation>Температура</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="175"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>Функция</translation>
     </message>
   </context>
   <context>
@@ -4414,7 +4414,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/BlankPlanCreator.cc" line="16"/>
       <source>Blank</source>
-      <translation type="unfinished">Blank</translation>
+      <translation>Пусто</translation>
     </message>
   </context>
   <context>
@@ -4422,12 +4422,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/BluetoothLink.cc" line="222"/>
       <source>Bluetooth Link Settings</source>
-      <translation type="unfinished">Bluetooth Link Settings</translation>
+      <translation>Параметры Bluetooth-соединения</translation>
     </message>
     <message>
       <location filename="../src/comm/BluetoothLink.cc" line="224"/>
       <source>Bluetooth Not Available</source>
-      <translation type="unfinished">Bluetooth Not Available</translation>
+      <translation>Bluetooth недоступен</translation>
     </message>
   </context>
   <context>
@@ -4435,7 +4435,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/BluetoothLink.cc" line="185"/>
       <source>Bluetooth Link Error</source>
-      <translation type="unfinished">Bluetooth Link Error</translation>
+      <translation>Ошибка соединения Bluetooth</translation>
     </message>
   </context>
   <context>
@@ -4443,17 +4443,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/BluetoothSettings.qml" line="31"/>
       <source>Device</source>
-      <translation type="unfinished">Device</translation>
+      <translation>Устройство</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/BluetoothSettings.qml" line="37"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Адрес</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/BluetoothSettings.qml" line="44"/>
       <source>Bluetooth Devices</source>
-      <translation type="unfinished">Bluetooth Devices</translation>
+      <translation>Bluetooth устройства</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/BluetoothSettings.qml" line="67"/>
