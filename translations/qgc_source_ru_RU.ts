@@ -6088,102 +6088,102 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="587"/>
       <source>Sony a6300 Zeiss 21mm f/2.8</source>
-      <translation type="unfinished">Sony a6300 Zeiss 21mm f/2.8</translation>
+      <translation>Sony a6300 Zeiss 21мм f/2.8</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="594"/>
       <source>a6300 Sony 28mm f/2.0</source>
-      <translation type="unfinished">a6300 Sony 28mm f/2.0</translation>
+      <translation>a6300 Sony 28mm f/2.0</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="603"/>
       <source>Sony a6300 Sony 28mm f/2.0</source>
-      <translation type="unfinished">Sony a6300 Sony 28mm f/2.0</translation>
+      <translation>Sony a6300 28mm f/2.0</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="610"/>
       <source>a7R II Zeiss 21mm f/2.8</source>
-      <translation type="unfinished">a7R II Zeiss 21mm f/2.8</translation>
+      <translation>a7R II Zeiss 21mm f/2.8</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="619"/>
       <source>Sony a7R II Zeiss 21mm f/2.8</source>
-      <translation type="unfinished">Sony a7R II Zeiss 21mm f/2.8</translation>
+      <translation>Sony a7R II Zeiss 21mm f/2.8</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="626"/>
       <source>a7R II Sony 28mm f/2.0</source>
-      <translation type="unfinished">a7R II Sony 28mm f/2.0</translation>
+      <translation>a7R II Sony 28мм f/2.0</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="635"/>
       <source>Sony a7R II Sony 28mm f/2.0</source>
-      <translation type="unfinished">Sony a7R II Sony 28mm f/2.0</translation>
+      <translation>Sony a7R II Sony 28mm f/2.0</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="642"/>
       <source>a7r III 35mm</source>
-      <translation type="unfinished">a7r III 35mm</translation>
+      <translation>a7r III 35mm</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="658"/>
       <source>a7r IV 35mm</source>
-      <translation type="unfinished">a7r IV 35mm</translation>
+      <translation>a7r IV 35mm</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="674"/>
       <source>DSC-QX30U @ 4.3mm f/3.5</source>
-      <translation type="unfinished">DSC-QX30U @ 4.3mm f/3.5</translation>
+      <translation>DSC-QX30U @ 4,3 мм f/3,5</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="683"/>
       <source>Sony DSC-QX30U @ 4.3mm f/3.5</source>
-      <translation type="unfinished">Sony DSC-QX30U @ 4.3mm f/3.5</translation>
+      <translation>Sony DSC-QX30U @ 4,3 мм f/3.5</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="690"/>
       <source>DSC-RX0</source>
-      <translation type="unfinished">DSC-RX0</translation>
+      <translation>DSC-RX0</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="699"/>
       <source>Sony DSC-RX0</source>
-      <translation type="unfinished">Sony DSC-RX0</translation>
+      <translation>Sony DSC-RX0</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="706"/>
       <source>DSC-RX1R II 35mm</source>
-      <translation type="unfinished">DSC-RX1R II 35mm</translation>
+      <translation>DSC-RX1R II 35mm</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="725"/>
       <source>ILCE-QX1</source>
-      <translation type="unfinished">ILCE-QX1</translation>
+      <translation>ILCE-QX1</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="734"/>
       <source>Sony ILCE-QX1</source>
-      <translation type="unfinished">Sony ILCE-QX1</translation>
+      <translation>Sony ILCE-QX1</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="743"/>
       <source>NEX-5R 20mm</source>
-      <translation type="unfinished">NEX-5R 20mm</translation>
+      <translation>NEX-5R 20mm</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="752"/>
       <source>Sony NEX-5R 20mm</source>
-      <translation type="unfinished">Sony NEX-5R 20mm</translation>
+      <translation>Sony NEX-5R 20mm</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="760"/>
       <source>RX100 II 28mm</source>
-      <translation type="unfinished">RX100 II 28mm</translation>
+      <translation>RX100 II 28mm</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="769"/>
       <source>Sony RX100 II 28mm</source>
-      <translation type="unfinished">Sony RX100 II 28mm</translation>
+      <translation>Sony RX100 II 28mm</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="775"/>
@@ -6191,53 +6191,53 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="807"/>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="823"/>
       <source>Yuneec</source>
-      <translation type="unfinished">Yuneec</translation>
+      <translation>Yuneec</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="776"/>
       <source>CGOET</source>
-      <translation type="unfinished">CGOET</translation>
+      <translation>CGOET</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="785"/>
       <source>Yuneec CGOET</source>
-      <translation type="unfinished">Yuneec CGOET</translation>
+      <translation>Yuneec CGOET</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="792"/>
       <source>E10T</source>
-      <translation type="unfinished">E10T</translation>
+      <translation>E10T</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="801"/>
       <source>Yuneec E10T</source>
-      <translation type="unfinished">Yuneec E10T</translation>
+      <translation>Yuneec E10T</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="808"/>
       <source>E50</source>
-      <translation type="unfinished">E50</translation>
+      <translation>Е50</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="817"/>
       <source>Yuneec E50</source>
-      <translation type="unfinished">Yuneec E50</translation>
+      <translation>Yuneec E50</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="824"/>
       <source>E90</source>
-      <translation type="unfinished">E90</translation>
+      <translation>Е90</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="833"/>
       <source>Yuneec E90</source>
-      <translation type="unfinished">Yuneec E90</translation>
+      <translation>Yuneec E90</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="839"/>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="855"/>
       <source>Flir</source>
-      <translation type="unfinished">Flir</translation>
+      <translation>Flir</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/FirmwarePlugin.cc" line="840"/>
@@ -6787,12 +6787,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/Airmap/FlightDetails.qml" line="146"/>
       <source>Duration</source>
-      <translation type="unfinished">Duration</translation>
+      <translation>Длительность</translation>
     </message>
     <message>
       <location filename="../src/Airmap/FlightDetails.qml" line="186"/>
       <source>Flight Context</source>
-      <translation type="unfinished">Flight Context</translation>
+      <translation>Контекст полета</translation>
     </message>
   </context>
   <context>
@@ -6800,12 +6800,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlightDisplayViewVideo.qml" line="47"/>
       <source>WAITING FOR VIDEO</source>
-      <translation type="unfinished">WAITING FOR VIDEO</translation>
+      <translation>ОЖИДАНИЕ ВИДЕО</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlightDisplayViewVideo.qml" line="47"/>
       <source>VIDEO DISABLED</source>
-      <translation type="unfinished">VIDEO DISABLED</translation>
+      <translation>ВИДЕО ОТКЛЮЧЕНО</translation>
     </message>
   </context>
   <context>
@@ -6813,7 +6813,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightMap/FlightMap.qml" line="69"/>
       <source>Specify Position</source>
-      <translation type="unfinished">Specify Position</translation>
+      <translation>Указать местоположение</translation>
     </message>
   </context>
   <context>
@@ -6822,7 +6822,7 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/QmlControls/FlightModeDropdown.qml" line="22"/>
       <source>N/A</source>
       <comment>No data to display</comment>
-      <translation type="unfinished">N/A</translation>
+      <translation>Н/Д</translation>
     </message>
   </context>
   <context>
@@ -6831,7 +6831,7 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/QmlControls/FlightModeMenu.qml" line="20"/>
       <source>N/A</source>
       <comment>No data to display</comment>
-      <translation type="unfinished">N/A</translation>
+      <translation>Н/Д</translation>
     </message>
   </context>
   <context>
@@ -6839,12 +6839,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponent.cc" line="24"/>
       <source>Flight Modes</source>
-      <translation type="unfinished">Flight Modes</translation>
+      <translation>Режимы полета</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponent.cc" line="35"/>
       <source>Flight Modes Setup is used to configure the transmitter switches associated with Flight Modes.</source>
-      <translation type="unfinished">Flight Modes Setup is used to configure the transmitter switches associated with Flight Modes.</translation>
+      <translation>Настройки полетных режимов используются для конфигурирования переключателей радиопульта, управляющих полетными режимами.</translation>
     </message>
   </context>
   <context>
@@ -6855,7 +6855,7 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="29"/>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="49"/>
       <source>Mode switch</source>
-      <translation type="unfinished">Mode switch</translation>
+      <translation>Переключатель режимов</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="30"/>
@@ -6863,19 +6863,19 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="30"/>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="50"/>
       <source>Setup required</source>
-      <translation type="unfinished">Setup required</translation>
+      <translation>Требуется настройка</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="35"/>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="35"/>
       <source>Flight Mode %1 </source>
-      <translation type="unfinished">Flight Mode %1 </translation>
+      <translation>Полетный режим %1 </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="53"/>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="53"/>
       <source>Position Ctl switch</source>
-      <translation type="unfinished">Position Ctl switch</translation>
+      <translation>Переключатель POSITION CTL</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="54"/>
@@ -6885,19 +6885,19 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="58"/>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="62"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>Выкл.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="57"/>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="57"/>
       <source>Loiter switch</source>
-      <translation type="unfinished">Loiter switch</translation>
+      <translation>Переключатель LOITER</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="61"/>
       <location filename="../src/AutoPilotPlugins/PX4/FlightModesComponentSummary.qml" line="61"/>
       <source>Return switch</source>
-      <translation type="unfinished">Return switch</translation>
+      <translation>Переключатель возврата</translation>
     </message>
   </context>
   <context>
@@ -6905,17 +6905,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewAirspaceIndicator.qml" line="46"/>
       <source>Approval Pending</source>
-      <translation type="unfinished">Approval Pending</translation>
+      <translation>Ожидается подтверждение</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewAirspaceIndicator.qml" line="48"/>
       <source>Flight Approved</source>
-      <translation type="unfinished">Flight Approved</translation>
+      <translation>Полет одобрен</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewAirspaceIndicator.qml" line="50"/>
       <source>Flight Rejected</source>
-      <translation type="unfinished">Flight Rejected</translation>
+      <translation>Полет отклонен</translation>
     </message>
   </context>
   <context>
@@ -6924,7 +6924,7 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/FlightDisplay/FlyViewMap.qml" line="346"/>
       <source>R</source>
       <comment>rally point map item label</comment>
-      <translation type="unfinished">R</translation>
+      <translation>R</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/FlyViewMap.qml" line="371"/>
@@ -8116,17 +8116,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/InstrumentValueData.cc" line="21"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Нет</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueData.cc" line="22"/>
       <source>Color</source>
-      <translation type="unfinished">Color</translation>
+      <translation>Цвет</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueData.cc" line="23"/>
       <source>Opacity</source>
-      <translation type="unfinished">Opacity</translation>
+      <translation>Непрозрачность</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueData.cc" line="24"/>
