@@ -4235,7 +4235,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/Audio/AudioOutput.cc" line="177"/>
       <source> meters</source>
-      <translation type="unfinished"> meters</translation>
+      <translation> метров</translation>
     </message>
   </context>
   <context>
@@ -4243,7 +4243,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/AutoPilotPlugins/AutoPilotPlugin.cc" line="74"/>
       <source>One or more vehicle components require setup prior to flight.</source>
-      <translation type="unfinished">One or more vehicle components require setup prior to flight.</translation>
+      <translation>Один или несколько компонентов аппарата требует настройки перед полетом.</translation>
     </message>
   </context>
   <context>
@@ -4251,72 +4251,72 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="37"/>
       <source>Autotune: In progress</source>
-      <translation type="unfinished">Autotune: In progress</translation>
+      <translation>Автотюнинг: в процессе</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="90"/>
       <source>Autotune: initializing</source>
-      <translation type="unfinished">Autotune: initializing</translation>
+      <translation>Автотюнинг: инициализация</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="93"/>
       <source>Autotune: roll</source>
-      <translation type="unfinished">Autotune: roll</translation>
+      <translation>Автотюнинг: roll</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="96"/>
       <source>Autotune: pitch</source>
-      <translation type="unfinished">Autotune: pitch</translation>
+      <translation>Автотюнинг: pitch</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="99"/>
       <source>Autotune: yaw</source>
-      <translation type="unfinished">Autotune: yaw</translation>
+      <translation>Автотюнинг: yaw</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="102"/>
       <source>Wait for disarm</source>
-      <translation type="unfinished">Wait for disarm</translation>
+      <translation>Дождитесь деактивации (disarm)</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="105"/>
       <source>Land and disarm the vehicle in order to apply the parameters.</source>
-      <translation type="unfinished">Land and disarm the vehicle in order to apply the parameters.</translation>
+      <translation>Приземлите и деактивируйте (disarm) для применения параметров.</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="110"/>
       <source>Autotune: in progress</source>
-      <translation type="unfinished">Autotune: in progress</translation>
+      <translation>Автотюнинг: в процессе</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="117"/>
       <source>Autotune: Success</source>
-      <translation type="unfinished">Autotune: Success</translation>
+      <translation>Автотюнинг: Успешно</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="119"/>
       <source>Autotune successful.</source>
-      <translation type="unfinished">Autotune successful.</translation>
+      <translation>Автотюнинг завершен успешно.</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="122"/>
       <source>Autotune: Unknown error</source>
-      <translation type="unfinished">Autotune: Unknown error</translation>
+      <translation>Автотюнинг: неизвестная ошибка</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="134"/>
       <source>Autotune: Failed</source>
-      <translation type="unfinished">Autotune: Failed</translation>
+      <translation>Автотюнинг: Ошибка</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.cpp" line="144"/>
       <source>Autotune: Ack error %1</source>
-      <translation type="unfinished">Autotune: Ack error %1</translation>
+      <translation>Автонастройка: Ошибка Ack %1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Autotune.h" line="59"/>
       <source>Autotune: Not performed</source>
-      <translation type="unfinished">Autotune: Not performed</translation>
+      <translation>Автотюнинг: Не выполнено</translation>
     </message>
   </context>
   <context>
@@ -4324,7 +4324,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/QmlControls/AutotuneUI.qml" line="27"/>
       <source>Autotune</source>
-      <translation type="unfinished">Autotune</translation>
+      <translation>Автотюнинг</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/AutotuneUI.qml" line="37"/>
@@ -4339,16 +4339,16 @@ Before starting the auto-tuning process, make sure that:
 
 Click Ok to start the auto-tuning process.
 </source>
-      <translation type="unfinished">WARNING!
+      <translation>ПРЕДУПРЕЖДЕНИЕ!
 
-The auto-tuning procedure should be executed with caution and requires the vehicle to fly stable enough before attempting the procedure!
+Процедура Автотюнинга должна выполняться с осторожностью и требует достаточно стабильного полета, прежде чем пытаться пройти процедуру!
 
-Before starting the auto-tuning process, make sure that: 
-1. You have read the auto-tuning guide and have followed the preliminary steps 
-2. The current control gains are good enough to stabilize the drone in presence of medium disturbances 
-3. You are ready to abort the auto-tuning sequence by moving the RC sticks, if anything unexpected happens. 
+Перед началом процесса Автотюнинга, убедитесь, что: 
+1. Вы прочитали руководство по автонастройке и выполнили предварительные шаги 
+2. Нынешний уровень контроля достаточно хороший, чтобы стабилизировать дрон при наличии умеренной нестабильности. 
+3. Вы готовы прервать автоматическую настройку, перемещая стики RC, если случится что-то непредвиденное. 
 
-Click Ok to start the auto-tuning process.
+Нажмите кнопку Ok, чтобы запустить процесс автоматической настройки
 </translation>
     </message>
   </context>
