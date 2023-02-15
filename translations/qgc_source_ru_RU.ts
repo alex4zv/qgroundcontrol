@@ -8131,7 +8131,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/InstrumentValueData.cc" line="24"/>
       <source>Icon</source>
-      <translation type="unfinished">Icon</translation>
+      <translation>Иконки</translation>
     </message>
   </context>
   <context>
@@ -8140,18 +8140,18 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/QmlControls/InstrumentValueArea.qml" line="85"/>
       <location filename="../src/QmlControls/InstrumentValueArea.qml" line="109"/>
       <source>+</source>
-      <translation type="unfinished">+</translation>
+      <translation>+</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueArea.qml" line="93"/>
       <location filename="../src/QmlControls/InstrumentValueArea.qml" line="116"/>
       <source>-</source>
-      <translation type="unfinished">-</translation>
+      <translation>-</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueArea.qml" line="127"/>
       <source>Reset To Defaults</source>
-      <translation type="unfinished">Reset To Defaults</translation>
+      <translation>Восстановить значения по умолчанию</translation>
     </message>
   </context>
   <context>
@@ -8159,27 +8159,27 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="25"/>
       <source>Value Display</source>
-      <translation type="unfinished">Value Display</translation>
+      <translation>Отображение значения</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="41"/>
       <source>Valuec requires a connected vehicle for setup.</source>
-      <translation type="unfinished">Valuec requires a connected vehicle for setup.</translation>
+      <translation>Для настройки Valuec требуется подключить аппарат.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="89"/>
       <source>Icon</source>
-      <translation type="unfinished">Icon</translation>
+      <translation>Иконка</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="129"/>
       <source>Text</source>
-      <translation type="unfinished">Text</translation>
+      <translation>Текст</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="133"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>Метка</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/InstrumentValueEditDialog.qml" line="146"/>
@@ -8450,17 +8450,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="181"/>
       <source>step of calibration by gently wiggling each axis. </source>
-      <translation type="unfinished">step of calibration by gently wiggling each axis. </translation>
+      <translation>этап калибровки путем мягкого покачивания каждой оси.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="182"/>
       <source>Deadband can also be adjusted by clicking and </source>
-      <translation type="unfinished">Deadband can also be adjusted by clicking and </translation>
+      <translation>Мертвую зону также можно отрегулировать, нажав и</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigAdvanced.qml" line="183"/>
       <source>dragging vertically on the corresponding axis monitor.</source>
-      <translation type="unfinished">dragging vertically on the corresponding axis monitor.</translation>
+      <translation>перетаскивание по вертикали на соответствующий монитор оси.</translation>
     </message>
   </context>
   <context>
@@ -8468,32 +8468,32 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="45"/>
       <source>Assigning the same action to multiple buttons requires the press of all those buttons for the action to be taken. This is useful to prevent accidental button presses for critical actions like Arm or Emergency Stop.</source>
-      <translation type="unfinished">Assigning the same action to multiple buttons requires the press of all those buttons for the action to be taken. This is useful to prevent accidental button presses for critical actions like Arm or Emergency Stop.</translation>
+      <translation>Назначение одного и того же действия нескольким кнопкам требует нажатия всех этих кнопок для проверки выполнения действия. Это полезно для предотвращения случайных нажатий кнопок при выполнении таких важных действий, как включение(Arm) или аварийная остановка.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="94"/>
       <source>Repeat</source>
-      <translation type="unfinished">Repeat</translation>
+      <translation>Повторить</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="124"/>
       <source>#</source>
-      <translation type="unfinished">#</translation>
+      <translation>#</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="128"/>
       <source>Function: </source>
-      <translation type="unfinished">Function: </translation>
+      <translation>Функция: </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="132"/>
       <source>Shift Function: </source>
-      <translation type="unfinished">Shift Function: </translation>
+      <translation>Функция смены: </translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigButtons.qml" line="185"/>
       <source>No firmware support</source>
-      <translation type="unfinished">No firmware support</translation>
+      <translation>Нет поддержки прошивки</translation>
     </message>
   </context>
   <context>
@@ -8501,22 +8501,22 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigCalibration.qml" line="169"/>
       <source>Skip</source>
-      <translation type="unfinished">Skip</translation>
+      <translation>Пропустить</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigCalibration.qml" line="175"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Отмена</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigCalibration.qml" line="187"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Следующий</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigCalibration.qml" line="187"/>
       <source>Start</source>
-      <translation type="unfinished">Start</translation>
+      <translation>Начать</translation>
     </message>
   </context>
   <context>
@@ -8524,7 +8524,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigController.cc" line="197"/>
       <source>Detected %1 joystick axes. To operate PX4, you need at least %2 axes.</source>
-      <translation type="unfinished">Detected %1 joystick axes. To operate PX4, you need at least %2 axes.</translation>
+      <translation>Обнаружены %1 осей джойстика. Для работы с PX4 необходимо не менее %2 осей.</translation>
     </message>
   </context>
   <context>
@@ -8532,57 +8532,57 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="38"/>
       <source>Enable joystick input</source>
-      <translation type="unfinished">Enable joystick input</translation>
+      <translation>Включить ввод с джойстика</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="38"/>
       <source>Enable not allowed (Calibrate First)</source>
-      <translation type="unfinished">Enable not allowed (Calibrate First)</translation>
+      <translation>Включение недоступно (необходима калибровка)</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="67"/>
       <source>Active joystick:</source>
-      <translation type="unfinished">Active joystick:</translation>
+      <translation>Активный джойстик:</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="79"/>
       <source>Active joystick name not in combo</source>
-      <translation type="unfinished">Active joystick name not in combo</translation>
+      <translation>Имя активного джойстика не в комбо</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="97"/>
       <source>RC Mode:</source>
-      <translation type="unfinished">RC Mode:</translation>
+      <translation> Режим ПДУ:</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="151"/>
       <source>Lateral</source>
-      <translation type="unfinished">Lateral</translation>
+      <translation>Поперечный</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="151"/>
       <source>Roll</source>
-      <translation type="unfinished">Roll</translation>
+      <translation>Крен Roll</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="165"/>
       <source>Forward</source>
-      <translation type="unfinished">Forward</translation>
+      <translation>Вперёд</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="165"/>
       <source>Pitch</source>
-      <translation type="unfinished">Pitch</translation>
+      <translation>Тангаж Pitch</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="178"/>
       <source>Yaw</source>
-      <translation type="unfinished">Yaw</translation>
+      <translation>Рысканье yaw</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/JoystickConfigGeneral.qml" line="191"/>
       <source>Throttle</source>
-      <translation type="unfinished">Throttle</translation>
+      <translation>Газ</translation>
     </message>
   </context>
   <context>
@@ -8590,17 +8590,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="47"/>
       <source>Joystick Status</source>
-      <translation type="unfinished">Joystick Status</translation>
+      <translation>Статус джойстика</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="59"/>
       <source>Connected:</source>
-      <translation type="unfinished">Connected:</translation>
+      <translation>Подключен:</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/JoystickIndicator.qml" line="64"/>
       <source>Enabled:</source>
-      <translation type="unfinished">Enabled:</translation>
+      <translation>Включено:</translation>
     </message>
   </context>
   <context>
@@ -8608,27 +8608,27 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/JsonHelper.cc" line="181"/>
       <source>File open failed: file:error %1 %2</source>
-      <translation type="unfinished">File open failed: file:error %1 %2</translation>
+      <translation>Не удалось открыть файл: file:error %1 %2</translation>
     </message>
     <message>
       <location filename="../src/JsonHelper.cc" line="334"/>
       <source>Unable to open file: &apos;%1&apos;, error: %2</source>
-      <translation type="unfinished">Unable to open file: &apos;%1&apos;, error: %2</translation>
+      <translation>Не удается открыть файл: &apos;%1&apos;, ошибка: %2</translation>
     </message>
     <message>
       <location filename="../src/JsonHelper.cc" line="343"/>
       <source>Unable to parse json file: %1 error: %2 offset: %3</source>
-      <translation type="unfinished">Unable to parse json file: %1 error: %2 offset: %3</translation>
+      <translation>Не удалось разобрать файл json: %1 ошибка: %2 смещение: %3</translation>
     </message>
     <message>
       <location filename="../src/JsonHelper.cc" line="348"/>
       <source>Root of json file is not object: %1</source>
-      <translation type="unfinished">Root of json file is not object: %1</translation>
+      <translation>Корень json файла не является объектом %1</translation>
     </message>
     <message>
       <location filename="../src/JsonHelper.cc" line="355"/>
       <source>Json file: &apos;%1&apos;. %2</source>
-      <translation type="unfinished">Json file: &apos;%1&apos;. %2</translation>
+      <translation>Json файл: &apos;%1&apos;. %2</translation>
     </message>
   </context>
   <context>
@@ -8636,27 +8636,27 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/KMLHelper.cc" line="15"/>
       <source>KML file load failed. %1</source>
-      <translation type="unfinished">KML file load failed. %1</translation>
+      <translation>Ошибка загрузки файла KML. %1</translation>
     </message>
     <message>
       <location filename="../src/KMLHelper.cc" line="24"/>
       <source>File not found: %1</source>
-      <translation type="unfinished">File not found: %1</translation>
+      <translation>Файл не найден: %1</translation>
     </message>
     <message>
       <location filename="../src/KMLHelper.cc" line="29"/>
       <source>Unable to open file: %1 error: $%2</source>
-      <translation type="unfinished">Unable to open file: %1 error: $%2</translation>
+      <translation>Невозможно открыт файл %1, ошибка: $%2</translation>
     </message>
     <message>
       <location filename="../src/KMLHelper.cc" line="37"/>
       <source>Unable to parse KML file: %1 error: %2 line: %3</source>
-      <translation type="unfinished">Unable to parse KML file: %1 error: %2 line: %3</translation>
+      <translation>Невозможно прочитать KML файл %1, ошибка: %2, строка: %3</translation>
     </message>
     <message>
       <location filename="../src/KMLHelper.cc" line="61"/>
       <source>No supported type found in KML file.</source>
-      <translation type="unfinished">No supported type found in KML file.</translation>
+      <translation>В файле KML не найден поддерживаемый тип.</translation>
     </message>
     <message>
       <location filename="../src/KMLHelper.cc" line="77"/>
@@ -9209,57 +9209,57 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="214"/>
       <source>Magnetometer 2</source>
-      <translation type="unfinished">Magnetometer 2</translation>
+      <translation>Магнитометр 2</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="215"/>
       <source>GeoFence</source>
-      <translation type="unfinished">GeoFence</translation>
+      <translation>Зона ограничения (GeoFence)</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="216"/>
       <source>AHRS</source>
-      <translation type="unfinished">AHRS</translation>
+      <translation>AHRS</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="217"/>
       <source>Terrain</source>
-      <translation type="unfinished">Terrain</translation>
+      <translation>Ландшафт</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="218"/>
       <source>Motors reversed</source>
-      <translation type="unfinished">Motors reversed</translation>
+      <translation>Моторы реверсированы</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="219"/>
       <source>Logging</source>
-      <translation type="unfinished">Logging</translation>
+      <translation>Логирование</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="220"/>
       <source>Battery</source>
-      <translation type="unfinished">Battery</translation>
+      <translation>Батарея</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="221"/>
       <source>Proximity</source>
-      <translation type="unfinished">Proximity</translation>
+      <translation>Датчик приближения</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="222"/>
       <source>Satellite Communication</source>
-      <translation type="unfinished">Satellite Communication</translation>
+      <translation>Спутниковые средства связи</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="223"/>
       <source>Pre-Arm Check</source>
-      <translation type="unfinished">Pre-Arm Check</translation>
+      <translation>Предполетная проверка</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="224"/>
       <source>Avoidance/collision prevention</source>
-      <translation type="unfinished">Avoidance/collision prevention</translation>
+      <translation>Предотвращение столкновений</translation>
     </message>
   </context>
   <context>
@@ -9267,7 +9267,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="236"/>
       <source>Unknown sensor</source>
-      <translation type="unfinished">Unknown sensor</translation>
+      <translation>Неизвестный датчик</translation>
     </message>
   </context>
   <context>
@@ -9551,37 +9551,37 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="136"/>
       <source>MR(vtol)</source>
-      <translation type="unfinished">MR(vtol)</translation>
+      <translation>MR(vtol)</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="196"/>
       <source>Sensor Status</source>
-      <translation type="unfinished">Sensor Status</translation>
+      <translation>Состояние датчика</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="173"/>
       <source>Disarm</source>
-      <translation type="unfinished">Disarm</translation>
+      <translation>Отключить (Disarm)</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="173"/>
       <source>Force Arm</source>
-      <translation type="unfinished">Force Arm</translation>
+      <translation>Принудительная активация (Arm)</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="173"/>
       <source>Arm</source>
-      <translation type="unfinished">Arm</translation>
+      <translation>Включить (Arm)</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="241"/>
       <source>Transition to Multi-Rotor</source>
-      <translation type="unfinished">Transition to Multi-Rotor</translation>
+      <translation>Переход на мульти-ротор</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="241"/>
       <source>Transition to Fixed Wing</source>
-      <translation type="unfinished">Transition to Fixed Wing</translation>
+      <translation>Переход на Крыло</translation>
     </message>
   </context>
   <context>
@@ -9589,17 +9589,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/toolbar/MainToolBar.qml" line="201"/>
       <source>Downloading</source>
-      <translation type="unfinished">Downloading</translation>
+      <translation>Загружается</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainToolBar.qml" line="209"/>
       <source>Click anywhere to hide</source>
-      <translation type="unfinished">Click anywhere to hide</translation>
+      <translation>Нажмите в любое место, чтобы скрыть</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainToolBar.qml" line="82"/>
       <source>Disconnect</source>
-      <translation type="unfinished">Disconnect</translation>
+      <translation>Отключиться</translation>
     </message>
   </context>
   <context>
@@ -9607,42 +9607,42 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightMap/MapScale.qml" line="46"/>
       <source> km</source>
-      <translation type="unfinished"> km</translation>
+      <translation> км</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapScale.qml" line="48"/>
       <source> m</source>
-      <translation type="unfinished"> m</translation>
+      <translation> м</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapScale.qml" line="59"/>
       <source> mile</source>
-      <translation type="unfinished"> mile</translation>
+      <translation> миля</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapScale.qml" line="61"/>
       <source> miles</source>
-      <translation type="unfinished"> miles</translation>
+      <translation> миль</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapScale.qml" line="64"/>
       <source> ft</source>
-      <translation type="unfinished"> ft</translation>
+      <translation> фут</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapScale.qml" line="193"/>
       <source>T</source>
-      <translation type="unfinished">T</translation>
+      <translation>T</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapScale.qml" line="206"/>
       <source>+</source>
-      <translation type="unfinished">+</translation>
+      <translation>+</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapScale.qml" line="219"/>
       <source>-</source>
-      <translation type="unfinished">-</translation>
+      <translation>-</translation>
     </message>
   </context>
   <context>
@@ -9650,22 +9650,22 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/AnalyzeView/MavlinkConsolePage.qml" line="27"/>
       <source>Provides a connection to the vehicle&apos;s system shell.</source>
-      <translation type="unfinished">Provides a connection to the vehicle&apos;s system shell.</translation>
+      <translation>Обеспечивает подключение к системной оболочке аппарата.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MavlinkConsolePage.qml" line="140"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Копировать</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MavlinkConsolePage.qml" line="146"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>Вставить</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/MavlinkConsolePage.qml" line="290"/>
       <source>Send</source>
-      <translation type="unfinished">Send</translation>
+      <translation>Отправить</translation>
     </message>
   </context>
   <context>
@@ -9673,82 +9673,82 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="82"/>
       <source>MAVLink Logging</source>
-      <translation type="unfinished">MAVLink Logging</translation>
+      <translation>Логирование MAVLink</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="83"/>
       <source>Please enter an email address before uploading MAVLink log files.</source>
-      <translation type="unfinished">Please enter an email address before uploading MAVLink log files.</translation>
+      <translation>Пожалуйста, введите E-Mail перед тем, как отправлять логи MAVLink.</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="108"/>
       <source>Ground Station</source>
-      <translation type="unfinished">Ground Station</translation>
+      <translation>Наземная станция</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="127"/>
       <source>MAVLink System ID:</source>
-      <translation type="unfinished">MAVLink System ID:</translation>
+      <translation>ID системы MAVLink:</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="142"/>
       <source>Emit heartbeat</source>
-      <translation type="unfinished">Emit heartbeat</translation>
+      <translation>Отправлять heartbeat'ы</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="150"/>
       <source>Only accept MAVs with same protocol version</source>
-      <translation type="unfinished">Only accept MAVs with same protocol version</translation>
+      <translation>Принимать только аппараты с той же версией протокола</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="159"/>
       <source>Enable MAVLink forwarding</source>
-      <translation type="unfinished">Enable MAVLink forwarding</translation>
+      <translation>Включить пересылку MAVLink</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="170"/>
       <source>Host name:</source>
-      <translation type="unfinished">Host name:</translation>
+      <translation>Имя хоста:</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="183"/>
       <source>&lt;i&gt; Changing the host name requires restart of application. &lt;/i&gt;</source>
-      <translation type="unfinished">&lt;i&gt; Changing the host name requires restart of application. &lt;/i&gt;</translation>
+      <translation>&lt;i&gt; Изменение имени хоста требует перезапуска приложения. &lt;/i&gt;</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="199"/>
       <source>Telemetry Stream Rates (ArduPilot Only)</source>
-      <translation type="unfinished">Telemetry Stream Rates (ArduPilot Only)</translation>
+      <translation>Скорость потока телеметрии (только для ArduPilot)</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="219"/>
       <source>All Streams Controlled By Vehicle Settings</source>
-      <translation type="unfinished">All Streams Controlled By Vehicle Settings</translation>
+      <translation>Все потоки, управляемые по настройкам аппарата</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="228"/>
       <source>Raw Sensors</source>
-      <translation type="unfinished">Raw Sensors</translation>
+      <translation>Raw датчики</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="235"/>
       <source>Extended Status</source>
-      <translation type="unfinished">Extended Status</translation>
+      <translation>Расширенный Статус</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="242"/>
       <source>RC Channel</source>
-      <translation type="unfinished">RC Channel</translation>
+      <translation>RC канал</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="249"/>
       <source>Position</source>
-      <translation type="unfinished">Position</translation>
+      <translation>Позиция</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="256"/>
       <source>Extra 1</source>
-      <translation type="unfinished">Extra 1</translation>
+      <translation>Экстра 1</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="263"/>
@@ -10301,27 +10301,27 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/MockLink.qml" line="63"/>
       <source>APM ArduSub Vehicle</source>
-      <translation type="unfinished">APM ArduSub Vehicle</translation>
+      <translation>APM ArduSub Аппарат</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MockLink.qml" line="69"/>
       <source>APM ArduRover Vehicle</source>
-      <translation type="unfinished">APM ArduRover Vehicle</translation>
+      <translation>APM ArduRover Аппарат</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MockLink.qml" line="75"/>
       <source>Generic Vehicle</source>
-      <translation type="unfinished">Generic Vehicle</translation>
+      <translation>Типовой Аппарат</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MockLink.qml" line="43"/>
       <source>Send status text + voice</source>
-      <translation type="unfinished">Send status text + voice</translation>
+      <translation>Отправлять статус текст + голос</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MockLink.qml" line="80"/>
       <source>Stop One MockLink</source>
-      <translation type="unfinished">Stop One MockLink</translation>
+      <translation>Остановить One MockLink</translation>
     </message>
   </context>
   <context>
@@ -10329,22 +10329,22 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/MockLinkOptionsDlg.qml" line="23"/>
       <source>MockLink Options</source>
-      <translation type="unfinished">MockLink Options</translation>
+      <translation>Параметры MockLink</translation>
     </message>
     <message>
       <location filename="../src/comm/MockLinkOptionsDlg.qml" line="33"/>
       <source>Stop Heartbeats</source>
-      <translation type="unfinished">Stop Heartbeats</translation>
+      <translation>Остановить Heartbeats</translation>
     </message>
     <message>
       <location filename="../src/comm/MockLinkOptionsDlg.qml" line="42"/>
       <source>Start Heartbeats</source>
-      <translation type="unfinished">Start Heartbeats</translation>
+      <translation>Начать Heartbeats</translation>
     </message>
     <message>
       <location filename="../src/comm/MockLinkOptionsDlg.qml" line="51"/>
       <source>Connection Removed</source>
-      <translation type="unfinished">Connection Removed</translation>
+      <translation>Соединение удалено</translation>
     </message>
   </context>
   <context>
@@ -10352,17 +10352,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/MockLinkSettings.qml" line="73"/>
       <source>Send Status Text and Voice</source>
-      <translation type="unfinished">Send Status Text and Voice</translation>
+      <translation>Отправлять текст статуса и голос</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MockLinkSettings.qml" line="80"/>
       <source>Increment Vehicle Id</source>
-      <translation type="unfinished">Increment Vehicle Id</translation>
+      <translation>Увеличить ID Аппарата</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MockLinkSettings.qml" line="84"/>
       <source>Firmware</source>
-      <translation type="unfinished">Firmware</translation>
+      <translation>Прошивка</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MockLinkSettings.qml" line="88"/>
@@ -10638,103 +10638,103 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="392"/>
       <source>Custom Map URL</source>
-      <translation type="unfinished">Custom Map URL</translation>
+      <translation>Пользовательский URL карты</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="403"/>
       <source>URL with {x} {y} {z} or {zoom} substitutions</source>
-      <translation type="unfinished">URL with {x} {y} {z} or {zoom} substitutions</translation>
+      <translation>URL с {x} {y} {z} или {zoom} подстановками</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="418"/>
       <source>This will delete all tiles INCLUDING the tile sets you have created yourself.
 
 Is this really what you want?</source>
-      <translation type="unfinished">This will delete all tiles INCLUDING the tile sets you have created yourself.
+      <translation>Это удалит все тайлы, ВКЛЮЧАЯ созданные вами наборы тайлов.
 
-Is this really what you want?</translation>
+Это действительно то, что вы хотите?</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="420"/>
       <source>Delete %1 and all its tiles.
 
 Is this really what you want?</source>
-      <translation type="unfinished">Delete %1 and all its tiles.
+      <translation>Удалить %1 и все его тайлы.
 
-Is this really what you want?</translation>
+Это действительно то, что вы хотите?</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="525"/>
       <source>System Wide Tile Cache</source>
-      <translation type="unfinished">System Wide Tile Cache</translation>
+      <translation>Системный кэш тайлов</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="538"/>
       <source>Zoom Levels:</source>
-      <translation type="unfinished">Zoom Levels:</translation>
+      <translation>Уровни масштабирования:</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="545"/>
       <source>Total:</source>
-      <translation type="unfinished">Total:</translation>
+      <translation>Всего:</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="552"/>
       <source>Unique:</source>
-      <translation type="unfinished">Unique:</translation>
+      <translation>Уникал.:</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="560"/>
       <source>Downloaded:</source>
-      <translation type="unfinished">Downloaded:</translation>
+      <translation>Загружено: </translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="567"/>
       <source>Error Count:</source>
-      <translation type="unfinished">Error Count:</translation>
+      <translation>Количество ошибок:</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="575"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Размер:</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="582"/>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="957"/>
       <source>Tile Count:</source>
-      <translation type="unfinished">Tile Count:</translation>
+      <translation>Количество тайлов:</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="589"/>
       <source>Resume Download</source>
-      <translation type="unfinished">Resume Download</translation>
+      <translation>Возобновить загрузку</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="598"/>
       <source>Cancel Download</source>
-      <translation type="unfinished">Cancel Download</translation>
+      <translation>Отменить загрузку</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="607"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Удалить</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="609"/>
       <source>Confirm Delete</source>
-      <translation type="unfinished">Confirm Delete</translation>
+      <translation>Подтвердите удаление</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="612"/>
       <source>Ok</source>
-      <translation type="unfinished">Ok</translation>
+      <translation>OK</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="625"/>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1209"/>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1289"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>Закрыть</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="625"/>
@@ -10742,105 +10742,105 @@ Is this really what you want?</translation>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1159"/>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1313"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Отмена</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="686"/>
       <source>Min Zoom: %1</source>
-      <translation type="unfinished">Min Zoom: %1</translation>
+      <translation>Мин. зум: %1</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="726"/>
       <source>Max Zoom: %1</source>
-      <translation type="unfinished">Max Zoom: %1</translation>
+      <translation>Макс. зум: %1</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="772"/>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1034"/>
       <source>Add New Set</source>
-      <translation type="unfinished">Add New Set</translation>
+      <translation>Добавить новый набор</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="800"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Имя:</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="813"/>
       <source>Map type:</source>
-      <translation type="unfinished">Map type:</translation>
+      <translation>Тип карты:</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="836"/>
       <source>Fetch elevation data</source>
-      <translation type="unfinished">Fetch elevation data</translation>
+      <translation>Получить данные о высотах</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="862"/>
       <source>Min/Max Zoom Levels</source>
-      <translation type="unfinished">Min/Max Zoom Levels</translation>
+      <translation>Мин/макс. масштаб</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="966"/>
       <source>Est Size:</source>
-      <translation type="unfinished">Est Size:</translation>
+      <translation>Est Size:</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="978"/>
       <source>Too many tiles</source>
-      <translation type="unfinished">Too many tiles</translation>
+      <translation>Слишком много тайлов</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="989"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>Загрузить</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1072"/>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1303"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>Импорт</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1081"/>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1149"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>Экспорт</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1087"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>Опции</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1089"/>
       <source>Offline Maps Options</source>
-      <translation type="unfinished">Offline Maps Options</translation>
+      <translation>Опции оффлайн карт</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1110"/>
       <source>Select Tile Sets to Export</source>
-      <translation type="unfinished">Select Tile Sets to Export</translation>
+      <translation>Выберите наборы тайлов для экспорта</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1139"/>
       <source>Select All</source>
-      <translation type="unfinished">Select All</translation>
+      <translation>Выбрать все</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1144"/>
       <source>Select None</source>
-      <translation type="unfinished">Select None</translation>
+      <translation>Ничего не выбирать</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1153"/>
       <source>Export Tile Set</source>
-      <translation type="unfinished">Export Tile Set</translation>
+      <translation>Набор тайлов для экспорта</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1188"/>
       <source>Tile Set Export Progress</source>
-      <translation type="unfinished">Tile Set Export Progress</translation>
+      <translation>Прогресс экспорта набора тайлов</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1188"/>
@@ -11419,27 +11419,27 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/VehicleSetup/PX4FirmwareUpgradeThread.cc" line="163"/>
       <source>Verifying program...</source>
-      <translation type="unfinished">Verifying program...</translation>
+      <translation>Проверка программы...</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/PX4FirmwareUpgradeThread.cc" line="167"/>
       <source>Verify complete</source>
-      <translation type="unfinished">Verify complete</translation>
+      <translation>Проверка окончена</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/PX4FirmwareUpgradeThread.cc" line="174"/>
       <source>Rebooting board</source>
-      <translation type="unfinished">Rebooting board</translation>
+      <translation>Перезагрузка полетного контроллера</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/PX4FirmwareUpgradeThread.cc" line="198"/>
       <source>Erasing previous program...</source>
-      <translation type="unfinished">Erasing previous program...</translation>
+      <translation>Очистка предыдущей программы...</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/PX4FirmwareUpgradeThread.cc" line="202"/>
       <source>Erase complete</source>
-      <translation type="unfinished">Erase complete</translation>
+      <translation>Удаление завершено</translation>
     </message>
   </context>
   <context>
@@ -11447,12 +11447,12 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehavior.cc" line="17"/>
       <source>Flight Behavior</source>
-      <translation type="unfinished">Flight Behavior</translation>
+      <translation>Поведение в полете</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehavior.cc" line="28"/>
       <source>Flight Behavior is used to configure flight characteristics.</source>
-      <translation type="unfinished">Flight Behavior is used to configure flight characteristics.</translation>
+      <translation>Поведение в полете используется для настройки характеристик полета.</translation>
     </message>
   </context>
   <context>
@@ -11461,31 +11461,31 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="49"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="49"/>
       <source>Enable responsiveness slider (if enabled, acceleration limit parameters and others are automatically set)</source>
-      <translation type="unfinished">Enable responsiveness slider (if enabled, acceleration limit parameters and others are automatically set)</translation>
+      <translation>Включить чувствительность слайдера (если включено, параметры ограничения ускорения и другие установятся автоматически)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="68"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="68"/>
       <source>Responsiveness</source>
-      <translation type="unfinished">Responsiveness</translation>
+      <translation>Отзывчивость</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="69"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="69"/>
       <source>A higher value makes the vehicle react faster. Be aware that this affects braking as well, and a combination of slow responsiveness with high maximum velocity will lead to long braking distances.</source>
-      <translation type="unfinished">A higher value makes the vehicle react faster. Be aware that this affects braking as well, and a combination of slow responsiveness with high maximum velocity will lead to long braking distances.</translation>
+      <translation>Более высокое значение заставляет аппарат реагировать быстрее. Имейте в виду, что это также влияет на торможение, и сочетание медленной реакции с высокой максимальной скоростью приведет к увеличению тормозного пути.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="89"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="89"/>
       <source>Enable horizontal velocity slider (if enabled, individual velocity limit parameters are automatically set)</source>
-      <translation type="unfinished">Enable horizontal velocity slider (if enabled, individual velocity limit parameters are automatically set)</translation>
+      <translation>Включить горизонтальный слайдер скорости (если включено, автоматически задаются параметры ограничения скорости)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="108"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="108"/>
       <source>Horizontal velocity (m/s)</source>
-      <translation type="unfinished">Horizontal velocity (m/s)</translation>
+      <translation>Горизонтальная скорость (м/с)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4FlightBehaviorCopter.qml" line="109"/>
@@ -11832,7 +11832,7 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="72"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="72"/>
       <source>Differential Gain (MC_ROLLRATE_D)</source>
-      <translation type="unfinished">Differential Gain (MC_ROLLRATE_D)</translation>
+      <translation>Дифференциальное усиление (MC_ROLLRATE_D)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="73"/>
@@ -11840,13 +11840,13 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="73"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="106"/>
       <source>Damping: increase to reduce overshoots and oscillations, but not higher than really needed.</source>
-      <translation type="unfinished">Damping: increase to reduce overshoots and oscillations, but not higher than really needed.</translation>
+      <translation>Damping: увеличьте для сокращения сильных колебаний, но не выше, чем это действительно необходимо.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="80"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="80"/>
       <source>Integral Gain (MC_ROLLRATE_I)</source>
-      <translation type="unfinished">Integral Gain (MC_ROLLRATE_I)</translation>
+      <translation>Интегральное Усиление (MC_ROLLRATE_I)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="81"/>
@@ -11856,49 +11856,49 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="114"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="139"/>
       <source>Generally does not need much adjustment, reduce this when seeing slow oscillations.</source>
-      <translation type="unfinished">Generally does not need much adjustment, reduce this when seeing slow oscillations.</translation>
+      <translation>Как правило, не нуждается в значительной корректировке, уменьшите при небольших колебаниях.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="90"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="90"/>
       <source>Pitch</source>
-      <translation type="unfinished">Pitch</translation>
+      <translation>Тангаж Pitch</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="97"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="97"/>
       <source>Overall Multiplier (MC_PITCHRATE_K)</source>
-      <translation type="unfinished">Overall Multiplier (MC_PITCHRATE_K)</translation>
+      <translation>Общий мультипликатор (MC_PITCHRATE_K)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="105"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="105"/>
       <source>Differential Gain (MC_PITCHRATE_D)</source>
-      <translation type="unfinished">Differential Gain (MC_PITCHRATE_D)</translation>
+      <translation>Дифференциальное усиление (MC_PITCHRATE_D)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="113"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="113"/>
       <source>Integral Gain (MC_PITCHRATE_I)</source>
-      <translation type="unfinished">Integral Gain (MC_PITCHRATE_I)</translation>
+      <translation>Интегральное усиление (MC_PITCHRATE_I)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="123"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="123"/>
       <source>Yaw</source>
-      <translation type="unfinished">Yaw</translation>
+      <translation>Рысканье yaw</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="130"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="130"/>
       <source>Overall Multiplier (MC_YAWRATE_K)</source>
-      <translation type="unfinished">Overall Multiplier (MC_YAWRATE_K)</translation>
+      <translation>Общий мультипликатор (MC_YAWRATE_K)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="138"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterRate.qml" line="138"/>
       <source>Integral Gain (MC_YAWRATE_I)</source>
-      <translation type="unfinished">Integral Gain (MC_YAWRATE_I)</translation>
+      <translation>Интегральное усиление (MC_YAWRATE_I)</translation>
     </message>
   </context>
   <context>
@@ -11907,25 +11907,25 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="30"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="30"/>
       <source>Position control mode (set this to &apos;simple&apos; during tuning):</source>
-      <translation type="unfinished">Position control mode (set this to &apos;simple&apos; during tuning):</translation>
+      <translation>Режим удержания позиции (установите это значение &apos;simple&apos; во время тюнинга):</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="43"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="43"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Горизонталь.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="44"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="44"/>
       <source>Horizontal (Y direction, sidewards)</source>
-      <translation type="unfinished">Horizontal (Y direction, sidewards)</translation>
+      <translation>Горизонтальный (направление Y, в сторону)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="51"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="51"/>
       <source>Proportional gain (MPC_XY_VEL_P_ACC)</source>
-      <translation type="unfinished">Proportional gain (MPC_XY_VEL_P_ACC)</translation>
+      <translation>Пропорциональное усиление (MPC_XY_VEL_P_ACC)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="52"/>
@@ -11933,25 +11933,25 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="52"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="85"/>
       <source>Increase for more responsiveness, reduce if the velocity overshoots (and increasing D does not help).</source>
-      <translation type="unfinished">Increase for more responsiveness, reduce if the velocity overshoots (and increasing D does not help).</translation>
+      <translation>Увеличьте для большей отзывчивости, уменьшите, если скорость превышает допустимую (и увеличение D не помогает).</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="59"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="59"/>
       <source>Integral gain (MPC_XY_VEL_I_ACC)</source>
-      <translation type="unfinished">Integral gain (MPC_XY_VEL_I_ACC)</translation>
+      <translation>Интегральное усиление (MPC_XY_VEL_I_ACC)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="60"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="60"/>
       <source>Increase to reduce steady-state error (e.g. wind)</source>
-      <translation type="unfinished">Increase to reduce steady-state error (e.g. wind)</translation>
+      <translation>Увеличить для уменьшения накопленной ошибки постоянного состояния (например, ветра)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="67"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="67"/>
       <source>Differential gain (MPC_XY_VEL_D_ACC)</source>
-      <translation type="unfinished">Differential gain (MPC_XY_VEL_D_ACC)</translation>
+      <translation>Дифференциальное усиление (MPC_XY_VEL_D_ACC)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="68"/>
@@ -11959,37 +11959,37 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="68"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="101"/>
       <source>Damping: increase to reduce overshoots and oscillations, but not higher than really needed.</source>
-      <translation type="unfinished">Damping: increase to reduce overshoots and oscillations, but not higher than really needed.</translation>
+      <translation>Damping: увеличьте для сокращения сильных колебаний, но не выше, чем это действительно необходимо.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="77"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="77"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>Вертикальный</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="84"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="84"/>
       <source>Proportional gain (MPC_Z_VEL_P_ACC)</source>
-      <translation type="unfinished">Proportional gain (MPC_Z_VEL_P_ACC)</translation>
+      <translation>Пропорциональное усиление (MPC_Z_VEL_P_ACC)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="92"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="92"/>
       <source>Integral gain (MPC_Z_VEL_I_ACC)</source>
-      <translation type="unfinished">Integral gain (MPC_Z_VEL_I_ACC)</translation>
+      <translation>Интегральное усиление (MPC_Z_VEL_I_ACC)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="93"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="93"/>
       <source>Increase to reduce steady-state error</source>
-      <translation type="unfinished">Increase to reduce steady-state error</translation>
+      <translation>Увеличить для уменьшения накопленной ошибки постоянного состояния (например, ветра)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="100"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentCopterVelocity.qml" line="100"/>
       <source>Differential gain (MPC_Z_VEL_D_ACC)</source>
-      <translation type="unfinished">Differential gain (MPC_Z_VEL_D_ACC)</translation>
+      <translation>Дифференциальное усиление (MPC_Z_VEL_D_ACC)</translation>
     </message>
   </context>
   <context>
@@ -11998,7 +11998,7 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentPlaneAll.qml" line="31"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentPlaneAll.qml" line="31"/>
       <source>TECS</source>
-      <translation type="unfinished">TECS</translation>
+      <translation>TECS</translation>
     </message>
   </context>
   <context>
@@ -12007,19 +12007,19 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentPlaneTECS.qml" line="28"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentPlaneTECS.qml" line="28"/>
       <source>Altitude &amp; Airspeed</source>
-      <translation type="unfinished">Altitude &amp; Airspeed</translation>
+      <translation>Высота и воздушная скорость</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentPlaneTECS.qml" line="37"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentPlaneTECS.qml" line="37"/>
       <source>Height rate feed forward (FW_T_HRATE_FF)</source>
-      <translation type="unfinished">Height rate feed forward (FW_T_HRATE_FF)</translation>
+      <translation>Скорость подачи по высоте вперед (FW_T_HRATE_FF)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentPlaneTECS.qml" line="38"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentPlaneTECS.qml" line="38"/>
       <source>TODO</source>
-      <translation type="unfinished">TODO</translation>
+      <translation>СДЕЛАТЬ</translation>
     </message>
   </context>
   <context>
@@ -12028,7 +12028,7 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentVTOL.qml" line="39"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4TuningComponentVTOL.qml" line="39"/>
       <source>Multirotor</source>
-      <translation type="unfinished">Multirotor</translation>
+      <translation>Мультиротор</translation>
     </message>
   </context>
   <context>
@@ -12036,44 +12036,44 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="80"/>
       <source>Pairing Successfull</source>
-      <translation type="unfinished">Pairing Successfull</translation>
+      <translation>Сопряжение выполнено</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="90"/>
       <source>Connection Successfull</source>
-      <translation type="unfinished">Connection Successfull</translation>
+      <translation>Успешно подключено</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="151"/>
       <source>Connection Rejected</source>
-      <translation type="unfinished">Connection Rejected</translation>
+      <translation>Соединение отклонено</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="154"/>
       <source>Pairing Rejected</source>
-      <translation type="unfinished">Pairing Rejected</translation>
+      <translation>Сопряжение отклонено</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="162"/>
       <source>No Response From Vehicle</source>
-      <translation type="unfinished">No Response From Vehicle</translation>
+      <translation>Нет ответа от Аппарата</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="191"/>
       <source>Connecting to %1</source>
-      <translation type="unfinished">Connecting to %1</translation>
+      <translation>Подключение к %1</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="252"/>
       <source>Invalid Pairing File</source>
-      <translation type="unfinished">Invalid Pairing File</translation>
+      <translation>Недопустимый файл сопряжения</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="257"/>
       <location filename="../src/PairingManager/PairingManager.cc" line="265"/>
       <location filename="../src/PairingManager/PairingManager.cc" line="278"/>
       <source>Error Parsing Pairing File</source>
-      <translation type="unfinished">Error Parsing Pairing File</translation>
+      <translation>Ошибка парсинга файла сопряжения</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="461"/>
@@ -12536,62 +12536,62 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="198"/>
       <source>Retrying %1 MISSION_REQUEST retry Count</source>
-      <translation type="unfinished">Retrying %1 MISSION_REQUEST retry Count</translation>
+      <translation>Повтор %1 MISSION_REQUEST кол-во попыток</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="206"/>
       <source>Mission write failed, vehicle failed to send final ack.</source>
-      <translation type="unfinished">Mission write failed, vehicle failed to send final ack.</translation>
+      <translation>Не удалось записать миссию, аппарат не  отправил подтверждение.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="211"/>
       <source>Mission write mission count failed, maximum retries exceeded.</source>
-      <translation type="unfinished">Mission write mission count failed, maximum retries exceeded.</translation>
+      <translation>Не удалось записать миссию, превышено максимальное количество попыток.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="220"/>
       <source>Vehicle did not request all items from ground station: %1</source>
-      <translation type="unfinished">Vehicle did not request all items from ground station: %1</translation>
+      <translation>Аппарат не запросил все параметры с наземной станции: %1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="228"/>
       <source>Mission remove all, maximum retries exceeded.</source>
-      <translation type="unfinished">Mission remove all, maximum retries exceeded.</translation>
+      <translation>Миссия удалила все, максимальное количество попыток превышено.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="232"/>
       <source>Retrying %1 MISSION_CLEAR_ALL retry Count</source>
-      <translation type="unfinished">Retrying %1 MISSION_CLEAR_ALL retry Count</translation>
+      <translation>Повтор %1 MISSION_CLEAR_ALL кол-во попыток</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="239"/>
       <source>Vehicle did not respond to mission item communication: %1</source>
-      <translation type="unfinished">Vehicle did not respond to mission item communication: %1</translation>
+      <translation>Аппарат не ответил на сообщение элемента миссии: %1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="350"/>
       <source>Internal Error: Call to Vehicle _requestNextMissionItem with no more indices to read</source>
-      <translation type="unfinished">Internal Error: Call to Vehicle _requestNextMissionItem with no more indices to read</translation>
+      <translation>Внутренняя ошибка: Вызов _requestNextMissionItem следующего элемента миссии, в котором больше нет индексов для чтения</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="500"/>
       <source>Vehicle requested item outside range, count:request %1:%2. Send to Vehicle failed.</source>
-      <translation type="unfinished">Vehicle requested item outside range, count:request %1:%2. Send to Vehicle failed.</translation>
+      <translation>Аппарат запросил элемент вне диапазона. Количество запросов: %1:%2. Отправка на аппарат не удалась.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="615"/>
       <source>Vehicle remove all failed. Error: %1</source>
-      <translation type="unfinished">Vehicle remove all failed. Error: %1</translation>
+      <translation>Не удалось удалить все . Ошибка: %1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="690"/>
       <source>Item #%1 Command: %2</source>
-      <translation type="unfinished">Item #%1 Command: %2</translation>
+      <translation>Элемент #%1 команда: %2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="694"/>
       <source>Frame: %1</source>
-      <translation type="unfinished">Frame: %1</translation>
+      <translation>Frame: %1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="700"/>
@@ -12602,92 +12602,92 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
       <location filename="../src/MissionManager/PlanManager.cc" line="715"/>
       <location filename="../src/MissionManager/PlanManager.cc" line="718"/>
       <source>Value: %1</source>
-      <translation type="unfinished">Value: %1</translation>
+      <translation>Значение: %1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="737"/>
       <source>Mission accepted.</source>
-      <translation type="unfinished">Mission accepted.</translation>
+      <translation>Миссия принята.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="740"/>
       <source>Unspecified error.</source>
-      <translation type="unfinished">Unspecified error.</translation>
+      <translation>Неуказанная ошибка</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="743"/>
       <source>Coordinate frame is not supported.</source>
-      <translation type="unfinished">Coordinate frame is not supported.</translation>
+      <translation>Фрейм координат не поддерживается.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="746"/>
       <source>Command is not supported.</source>
-      <translation type="unfinished">Command is not supported.</translation>
+      <translation>Команда не поддерживается.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="749"/>
       <source>Mission item exceeds storage space.</source>
-      <translation type="unfinished">Mission item exceeds storage space.</translation>
+      <translation>Объект миссии превышает место в хранилище.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="752"/>
       <source>One of the parameters has an invalid value.</source>
-      <translation type="unfinished">One of the parameters has an invalid value.</translation>
+      <translation>Один из параметров имеет неверное значение.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="755"/>
       <source>Param 1 invalid value.</source>
-      <translation type="unfinished">Param 1 invalid value.</translation>
+      <translation>Параметр 1 недопустимое значение.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="758"/>
       <source>Param 2 invalid value.</source>
-      <translation type="unfinished">Param 2 invalid value.</translation>
+      <translation>Параметр 2 недопустимое значение.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="761"/>
       <source>Param 3 invalid value.</source>
-      <translation type="unfinished">Param 3 invalid value.</translation>
+      <translation>Параметр 3 недопустимое значение.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="764"/>
       <source>Param 4 invalid value.</source>
-      <translation type="unfinished">Param 4 invalid value.</translation>
+      <translation>Параметр 4 недопустимое значение.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="767"/>
       <source>Param 5 invalid value.</source>
-      <translation type="unfinished">Param 5 invalid value.</translation>
+      <translation>Параметр 5 недопустимое значение.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="770"/>
       <source>Param 6 invalid value.</source>
-      <translation type="unfinished">Param 6 invalid value.</translation>
+      <translation>Параметр 6 недопустимое значение.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="773"/>
       <source>Param 7 invalid value.</source>
-      <translation type="unfinished">Param 7 invalid value.</translation>
+      <translation>Параметр 7 недопустимое значение.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="776"/>
       <source>Received mission item out of sequence.</source>
-      <translation type="unfinished">Received mission item out of sequence.</translation>
+      <translation>Получен элемент миссии вне последовательности.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="779"/>
       <source>Not accepting any mission commands.</source>
-      <translation type="unfinished">Not accepting any mission commands.</translation>
+      <translation>Не принимаются команды миссии.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="783"/>
       <source>Unknown error: %1.</source>
-      <translation type="unfinished">Unknown error: %1.</translation>
+      <translation>Неизвестная ошибка: %1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="626"/>
       <source>Vehicle returned error: %1. %2Vehicle did not accept guided item.</source>
-      <translation type="unfinished">Vehicle returned error: %1. %2Vehicle did not accept guided item.</translation>
+      <translation>Аппарат вернул ошибку: %1. %2Аппарат не принял переданный управляемый элемент.</translation>
     </message>
   </context>
   <context>
@@ -12695,43 +12695,43 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="223"/>
       <source>Download not supported on high latency links.</source>
-      <translation type="unfinished">Download not supported on high latency links.</translation>
+      <translation>Загрузка не поддерживается по линку с высокой задержкой.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="337"/>
       <source>Upload not supported on high latency links.</source>
-      <translation type="unfinished">Upload not supported on high latency links.</translation>
+      <translation>Закачка не поддерживается по линку с высокой задержкой.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="357"/>
       <source>Error loading Plan file (%1). %2</source>
-      <translation type="unfinished">Error loading Plan file (%1). %2</translation>
+      <translation>Ошибка загрузки файла плана (%1). %2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="481"/>
       <source>Plan save error %1 : %2</source>
-      <translation type="unfinished">Plan save error %1 : %2</translation>
+      <translation>Ошибка сохранения плана %1 : %2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="513"/>
       <source>KML save error %1 : %2</source>
-      <translation type="unfinished">KML save error %1 : %2</translation>
+      <translation>Ошибка сохранения KML %1 : %2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="584"/>
       <source>Supported types (*.%1 *.%2 *.%3 *.%4)</source>
-      <translation type="unfinished">Supported types (*.%1 *.%2 *.%3 *.%4)</translation>
+      <translation>Поддерживаемые типы (*.%1 *.%2 *.%3 *.%4)</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="585"/>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="594"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>Все файлы (*)</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanMasterController.cc" line="594"/>
       <source>Plan Files (*.%1)</source>
-      <translation type="unfinished">Plan Files (*.%1)</translation>
+      <translation>Файлы Планов (*.%1)</translation>
     </message>
   </context>
   <context>
@@ -12739,63 +12739,63 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="138"/>
       <source>Selected Waypoint</source>
-      <translation type="unfinished">Selected Waypoint</translation>
+      <translation>Выбранная путевая точка</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="143"/>
       <source>Alt diff:</source>
-      <translation type="unfinished">Alt diff:</translation>
+      <translation>Разница высот:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="152"/>
       <source>Azimuth:</source>
-      <translation type="unfinished">Azimuth:</translation>
+      <translation>Азимут:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="161"/>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="197"/>
       <source>Distance:</source>
-      <translation type="unfinished">Distance:</translation>
+      <translation>Дистанция:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="168"/>
       <source>Gradient:</source>
-      <translation type="unfinished">Gradient:</translation>
+      <translation>Градиент:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="177"/>
       <source>Heading:</source>
-      <translation type="unfinished">Heading:</translation>
+      <translation>Курс:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="192"/>
       <source>Total Mission</source>
-      <translation type="unfinished">Total Mission</translation>
+      <translation>Всего заданий</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="206"/>
       <source>Max telem dist:</source>
-      <translation type="unfinished">Max telem dist:</translation>
+      <translation>Max telem dist:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="213"/>
       <source>Time:</source>
-      <translation type="unfinished">Time:</translation>
+      <translation>Время:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="229"/>
       <source>Battery</source>
-      <translation type="unfinished">Battery</translation>
+      <translation>Батарея</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="234"/>
       <source>Batteries required:</source>
-      <translation type="unfinished">Batteries required:</translation>
+      <translation>Требуется батарей:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="246"/>
       <source>Upload Required</source>
-      <translation type="unfinished">Upload Required</translation>
+      <translation>Выгрузка необходима!</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="246"/>
@@ -13060,71 +13060,71 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/PlanView/PlanView.qml" line="236"/>
       <location filename="../src/PlanView/PlanView.qml" line="1150"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>Сохранить</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="232"/>
       <location filename="../src/PlanView/PlanView.qml" line="237"/>
       <source>Unable to %1</source>
-      <translation type="unfinished">Unable to %1</translation>
+      <translation>Не удается %1</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="232"/>
       <source>Plan has incomplete items. Complete all items and %1 again.</source>
-      <translation type="unfinished">Plan has incomplete items. Complete all items and %1 again.</translation>
+      <translation>У плана неполные элементы. Завершите все элементы и %1 повторите.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="967"/>
       <source>Are you sure you want to remove current plan and create a new plan? </source>
-      <translation type="unfinished">Are you sure you want to remove current plan and create a new plan? </translation>
+      <translation>Вы уверены, что хотите удалить текущий план и создать новый план? </translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1036"/>
       <source>You have unsaved changes. You should upload to your vehicle, or save to a file.</source>
-      <translation type="unfinished">You have unsaved changes. You should upload to your vehicle, or save to a file.</translation>
+      <translation>Имеются несохраненные изменения. Вы должны загрузить их в аппарат или сохранить их в файл.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1044"/>
       <location filename="../src/PlanView/PlanView.qml" line="1096"/>
       <source>Create Plan</source>
-      <translation type="unfinished">Create Plan</translation>
+      <translation>Создать план</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1115"/>
       <source>Storage</source>
-      <translation type="unfinished">Storage</translation>
+      <translation>Хранилище</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1164"/>
       <source>Save As...</source>
-      <translation type="unfinished">Save As...</translation>
+      <translation>Сохранить как...</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1176"/>
       <source>Save Mission Waypoints As KML...</source>
-      <translation type="unfinished">Save Mission Waypoints As KML...</translation>
+      <translation>Сохранить точки маршрута как KML...</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1181"/>
       <source>KML</source>
-      <translation type="unfinished">KML</translation>
+      <translation>KML</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="231"/>
       <location filename="../src/PlanView/PlanView.qml" line="236"/>
       <location filename="../src/PlanView/PlanView.qml" line="1202"/>
       <source>Upload</source>
-      <translation type="unfinished">Upload</translation>
+      <translation>Закачка</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1193"/>
       <source>Vehicle</source>
-      <translation type="unfinished">Vehicle</translation>
+      <translation>Аппарат</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1213"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>Скачать</translation>
     </message>
   </context>
   <context>
@@ -13132,27 +13132,27 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlightMap/MapItems/PolygonEditor.qml" line="178"/>
       <source>Click to add point %1</source>
-      <translation type="unfinished">Click to add point %1</translation>
+      <translation>Нажмите, чтобы добавить точку %1</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapItems/PolygonEditor.qml" line="178"/>
       <source>- Right Click to end polygon</source>
-      <translation type="unfinished">- Right Click to end polygon</translation>
+      <translation>- Щелкните правой кнопкой мыши для завершения многоугольника</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapItems/PolygonEditor.qml" line="185"/>
       <source>Click to add point</source>
-      <translation type="unfinished">Click to add point</translation>
+      <translation>Нажмите, чтобы добавить точку</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapItems/PolygonEditor.qml" line="192"/>
       <source>Click to add point - Right Click to end polygon</source>
-      <translation type="unfinished">Click to add point - Right Click to end polygon</translation>
+      <translation>Нажмите, чтобы добавить точку - правый клик для завершения многоугольника</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/MapItems/PolygonEditor.qml" line="198"/>
       <source>Adjust polygon by dragging corners</source>
-      <translation type="unfinished">Adjust polygon by dragging corners</translation>
+      <translation>Подгонка многоугольника перетаскиванием углов</translation>
     </message>
   </context>
   <context>
@@ -13165,67 +13165,67 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="59"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="530"/>
       <source>ESC Calibration</source>
-      <translation type="unfinished">ESC Calibration</translation>
+      <translation>Калибровка регуляторов</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="58"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="58"/>
       <source>%1 cannot perform ESC Calibration with this version of firmware. You will need to upgrade to a newer firmware.</source>
-      <translation type="unfinished">%1 cannot perform ESC Calibration with this version of firmware. You will need to upgrade to a newer firmware.</translation>
+      <translation>%1 не может выполнить калибровку ESC с этой версией прошивки. Вам нужно будет обновить прошивку.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="59"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="59"/>
       <source>%1 cannot perform ESC Calibration with this version of firmware. You will need to upgrade %1.</source>
-      <translation type="unfinished">%1 cannot perform ESC Calibration with this version of firmware. You will need to upgrade %1.</translation>
+      <translation>%1 не может выполнить калибровку ESC с этой версией прошивки. Вам нужно обновить %1.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="536"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="536"/>
       <source>Performing calibration. This will take a few seconds..</source>
-      <translation type="unfinished">Performing calibration. This will take a few seconds..</translation>
+      <translation>Выполняется калибровка. Это займет несколько секунд...</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="60"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="60"/>
       <source>ESC Calibration failed</source>
-      <translation type="unfinished">ESC Calibration failed</translation>
+      <translation>Ошибка при калибровке</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="537"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="537"/>
       <source>ESC Calibration failed. </source>
-      <translation type="unfinished">ESC Calibration failed. </translation>
+      <translation>Ошибка при калибровке</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="538"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="538"/>
       <source>Calibration complete. You can disconnect your battery now if you like.</source>
-      <translation type="unfinished">Calibration complete. You can disconnect your battery now if you like.</translation>
+      <translation>Калибровка завершена. Вы можете отключить батарею, если хотите.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="545"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="545"/>
       <source>WARNING: Props must be removed from vehicle prior to performing ESC calibration.</source>
-      <translation type="unfinished">WARNING: Props must be removed from vehicle prior to performing ESC calibration.</translation>
+      <translation>ПРЕДУПРЕЖДЕНИЕ: Перед проведением калибровки ESC следует снять пропеллеры с аппарата.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="545"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="545"/>
       <source> Connect the battery now and calibration will begin.</source>
-      <translation type="unfinished"> Connect the battery now and calibration will begin.</translation>
+      <translation> Подключите аккумулятор сейчас и калибровка начнётся.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="60"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="60"/>
       <source>You must disconnect the battery prior to performing ESC Calibration. Disconnect your battery and try again.</source>
-      <translation type="unfinished">You must disconnect the battery prior to performing ESC Calibration. Disconnect your battery and try again.</translation>
+      <translation>Перед началом калибровки ESC необходимо отключить аккумулятор. Отсоедините аккумулятор и повторите попытку.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="215"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="215"/>
       <source>Battery </source>
-      <translation type="unfinished">Battery </translation>
+      <translation>Батарея </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="255"/>
@@ -13233,55 +13233,55 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="255"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="270"/>
       <source>Source</source>
-      <translation type="unfinished">Source</translation>
+      <translation>Источник</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="433"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="433"/>
       <source>Measure battery voltage using an external voltmeter and enter the value below. Click Calculate to set the new voltage multiplier.</source>
-      <translation type="unfinished">Measure battery voltage using an external voltmeter and enter the value below. Click Calculate to set the new voltage multiplier.</translation>
+      <translation>Измерьте напряжение аккумулятора с помощью вольтметра и введите значение. Для установки коэффициента кликните на кнопку Рассчитать.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="440"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="440"/>
       <source>Measured voltage:</source>
-      <translation type="unfinished">Measured voltage:</translation>
+      <translation>Измеренное напряжение:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="443"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="443"/>
       <source>Vehicle voltage:</source>
-      <translation type="unfinished">Vehicle voltage:</translation>
+      <translation>Напряжение бортовой сети:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="446"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="446"/>
       <source>Voltage divider:</source>
-      <translation type="unfinished">Voltage divider:</translation>
+      <translation>Делитель напряжения:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="490"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="490"/>
       <source>Measure current draw using an external current meter and enter the value below. Click Calculate to set the new amps per volt value.</source>
-      <translation type="unfinished">Measure current draw using an external current meter and enter the value below. Click Calculate to set the new amps per volt value.</translation>
+      <translation>Измерьте внешним точным прибором силу тока и введите значение ниже. Нажмите кнопку Рассчитать, чтобы установить новое значение ампер на вольт.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="497"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="497"/>
       <source>Measured current:</source>
-      <translation type="unfinished">Measured current:</translation>
+      <translation>Измеренный ток:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="500"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="500"/>
       <source>Vehicle current:</source>
-      <translation type="unfinished">Vehicle current:</translation>
+      <translation>Ток бортовой сети:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="503"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="503"/>
       <source>Amps per volt:</source>
-      <translation type="unfinished">Amps per volt:</translation>
+      <translation>Ампер на Вольт:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="328"/>
@@ -13293,55 +13293,55 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="451"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="508"/>
       <source>Calculate</source>
-      <translation type="unfinished">Calculate</translation>
+      <translation>Рассчитать</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="292"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="292"/>
       <source>Number of Cells (in Series)</source>
-      <translation type="unfinished">Number of Cells (in Series)</translation>
+      <translation>Количество ячеек </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="311"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="311"/>
       <source>Full Voltage (per cell)</source>
-      <translation type="unfinished">Full Voltage (per cell)</translation>
+      <translation>Полное напряжение (на ячейку)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="298"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="298"/>
       <source>Battery Max:</source>
-      <translation type="unfinished">Battery Max:</translation>
+      <translation>Максимальный заряд батареи:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="301"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="301"/>
       <source>Empty Voltage (per cell)</source>
-      <translation type="unfinished">Empty Voltage (per cell)</translation>
+      <translation>Минимальное напряжение (на ячейку)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="307"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="307"/>
       <source>Battery Min:</source>
-      <translation type="unfinished">Battery Min:</translation>
+      <translation>Максимальный заряд батареи:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="320"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="320"/>
       <source>Voltage divider</source>
-      <translation type="unfinished">Voltage divider</translation>
+      <translation>Коэффициент напряжения</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="415"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="415"/>
       <source>Calculate Voltage Divider</source>
-      <translation type="unfinished">Calculate Voltage Divider</translation>
+      <translation>Рассчитать коэффициент напряжения</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="339"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="339"/>
       <source>If the battery voltage reported by the vehicle is largely different than the voltage read externally using a voltmeter you can adjust the voltage multiplier value to correct this. </source>
-      <translation type="unfinished">If the battery voltage reported by the vehicle is largely different than the voltage read externally using a voltmeter you can adjust the voltage multiplier value to correct this. </translation>
+      <translation>Если напряжение аккумулятора бортовой сети, сильно отличается от напряжения, измеренного с помощью вольтметра, вы можете отрегулировать значение коэффициента напряжения, чтобы исправить это.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="340"/>
@@ -13349,19 +13349,19 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="340"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="364"/>
       <source>Click the Calculate button for help with calculating a new value.</source>
-      <translation type="unfinished">Click the Calculate button for help with calculating a new value.</translation>
+      <translation>Нажмите кнопку Рассчитать, чтобы получить помощь в вычислении нового значения.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="344"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="344"/>
       <source>Amps per volt</source>
-      <translation type="unfinished">Amps per volt</translation>
+      <translation>Ампер на Вольт</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="472"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="472"/>
       <source>Calculate Amps per Volt</source>
-      <translation type="unfinished">Calculate Amps per Volt</translation>
+      <translation>Рассчитать коэффициент Ампер на Вольт</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="363"/>
@@ -13667,17 +13667,17 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="39"/>
       <source>Failure. Airspeed sensor issues. Check console.</source>
-      <translation type="unfinished">Failure. Airspeed sensor issues. Check console.</translation>
+      <translation>Ошибка. Проблемы с датчиком скорости. Проверьте консоль.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="40"/>
       <source>Failure. AHRS issues. Check console.</source>
-      <translation type="unfinished">Failure. AHRS issues. Check console.</translation>
+      <translation>Ошибка. Ошибки AHRS. Проверьте консоль.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="41"/>
       <source>Failure. GPS issues. Check console.</source>
-      <translation type="unfinished">Failure. GPS issues. Check console.</translation>
+      <translation>Ошибка GPS. Проверьте консоль.</translation>
     </message>
   </context>
   <context>
@@ -13685,12 +13685,12 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSoundCheck.qml" line="16"/>
       <source>Sound output</source>
-      <translation type="unfinished">Sound output</translation>
+      <translation>Вывод звука</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSoundCheck.qml" line="17"/>
       <source>QGC audio output enabled. System audio output enabled, too?</source>
-      <translation type="unfinished">QGC audio output enabled. System audio output enabled, too?</translation>
+      <translation>QGC аудио выход включен. Системный аудиовыход включен?</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSoundCheck.qml" line="18"/>
