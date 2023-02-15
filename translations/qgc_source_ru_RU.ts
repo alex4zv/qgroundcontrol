@@ -13716,47 +13716,47 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/QGCApplication.cc" line="214"/>
       <source>The current user does not have the correct permissions to access serial devices. You should also remove modemmanager since it also interferes.&lt;br/&gt;&lt;br/&gt;If you are using Ubuntu, execute the following commands to fix these issues:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</source>
-      <translation type="unfinished">The current user does not have the correct permissions to access serial devices. You should also remove modemmanager since it also interferes.&lt;br/&gt;&lt;br/&gt;If you are using Ubuntu, execute the following commands to fix these issues:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</translation>
+      <translation>Текущий пользователь не имеет разрешения на доступ к последовательным устройствам. Вы также должны удалить модем-менеджер, поскольку он также препятствует этому.&lt;br/&gt;&lt;br/&gt;Если вы используете Ubuntu, выполните следующие команды для решения этих проблем:&lt;br/&gt;&lt;pre&gt;sudo usermod -a -G dialout $USER&lt;br/&gt;sudo apt-get remove modemmanager&lt;/pre&gt;</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="580"/>
       <source>The format for %1 saved settings has been modified. Your saved settings have been reset to defaults.</source>
-      <translation type="unfinished">The format for %1 saved settings has been modified. Your saved settings have been reset to defaults.</translation>
+      <translation>Формат сохраненных настроек %1 изменен. Ваши сохраненные настройки были сброшены по умолчанию.</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="588"/>
       <source>The Offline Map Cache database has been upgraded. Your old map cache sets have been reset.</source>
-      <translation type="unfinished">The Offline Map Cache database has been upgraded. Your old map cache sets have been reset.</translation>
+      <translation>База данных Оффлайн кэша Карт была обновлена. Ваши старые наборы кэша карт были сброшены.</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="656"/>
       <source>Unable to save telemetry log. Error copying telemetry to &apos;%1&apos;: &apos;%2&apos;.</source>
-      <translation type="unfinished">Unable to save telemetry log. Error copying telemetry to &apos;%1&apos;: &apos;%2&apos;.</translation>
+      <translation>Не удалось сохранить журнал телеметрии. Ошибка копирования телеметрии в &apos;%1&apos;: &apos;%2&apos;.</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="714"/>
       <source>Parameters are missing from firmware. You may be running a version of firmware which is not fully supported or your firmware has a bug in it. Missing params: %1</source>
-      <translation type="unfinished">Parameters are missing from firmware. You may be running a version of firmware which is not fully supported or your firmware has a bug in it. Missing params: %1</translation>
+      <translation>В прошивке отсутствуют параметры. Возможно, вы используете версию прошивки, которая не полностью поддерживается или у вашей прошивки есть баг. Отсутствуют параметры: %1</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="855"/>
       <source>There is a newer version of %1 available. You can download it from %2.</source>
-      <translation type="unfinished">There is a newer version of %1 available. You can download it from %2.</translation>
+      <translation>Доступна новая версия %1 . Вы можете скачать ее с %2.</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="855"/>
       <source>New Version Available</source>
-      <translation type="unfinished">New Version Available</translation>
+      <translation>Доступна новая версия</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="673"/>
       <source>Unable to save telemetry log. Application save directory is not set.</source>
-      <translation type="unfinished">Unable to save telemetry log. Application save directory is not set.</translation>
+      <translation>Не удалось сохранить журнал телеметрии. Директория для сохранения  не установлена.</translation>
     </message>
     <message>
       <location filename="../src/QGCApplication.cc" line="680"/>
       <source>Unable to save telemetry log. Telemetry save directory &quot;%1&quot; does not exist.</source>
-      <translation type="unfinished">Unable to save telemetry log. Telemetry save directory &quot;%1&quot; does not exist.</translation>
+      <translation>Не удалось сохранить журнал телеметрии. Каталог сохранения телеметрии &quot;%1&quot; не существует.</translation>
     </message>
   </context>
   <context>
@@ -13765,7 +13765,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/QmlControls/QGCControlDebug.qml" line="22"/>
       <source>%1 x:%2 y:%3 width:%4 height:%5 visible:%6 enabled:%7 z:%8 parent:%9 implicitWidth/Height:%10:%11</source>
       <comment>Do not translate</comment>
-      <translation type="unfinished">%1 x:%2 y:%3 width:%4 height:%5 visible:%6 enabled:%7 z:%8 parent:%9 implicitWidth/Height:%10:%11</translation>
+      <translation>%1 x:%2 y:%3 ширина:%4 высота:%5 видимых:%6 включен:%7 z:%8 parent:%9 implicitWidth/Height:%10:%11</translation>
     </message>
   </context>
   <context>
@@ -13773,92 +13773,92 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="134"/>
       <source>General</source>
-      <translation type="unfinished">General</translation>
+      <translation>Основные</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="138"/>
       <source>Comm Links</source>
-      <translation type="unfinished">Comm Links</translation>
+      <translation>Коммуникац. подключения</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="142"/>
       <source>Offline Maps</source>
-      <translation type="unfinished">Offline Maps</translation>
+      <translation>Оффлайн карты</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="147"/>
       <source>Taisync</source>
-      <translation type="unfinished">Taisync</translation>
+      <translation>Taisync</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="153"/>
       <source>Microhard</source>
-      <translation type="unfinished">Microhard</translation>
+      <translation>Microhard</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="159"/>
       <source>AirMap</source>
-      <translation type="unfinished">AirMap</translation>
+      <translation>AirMap</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="164"/>
       <source>MAVLink</source>
-      <translation type="unfinished">MAVLink</translation>
+      <translation>MAVLink</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="168"/>
       <source>Console</source>
-      <translation type="unfinished">Console</translation>
+      <translation>Консоль</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="171"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>Помощь</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="176"/>
       <source>Mock Link</source>
-      <translation type="unfinished">Mock Link</translation>
+      <translation>Mock Link</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="179"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Debug</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="182"/>
       <source>Palette Test</source>
-      <translation type="unfinished">Palette Test</translation>
+      <translation>Тест Палитры</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="201"/>
       <source>Vibration</source>
-      <translation type="unfinished">Vibration</translation>
+      <translation>Вибрация</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="193"/>
       <source>Log Download</source>
-      <translation type="unfinished">Log Download</translation>
+      <translation>Загрузка логов</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="195"/>
       <source>GeoTag Images</source>
-      <translation type="unfinished">GeoTag Images</translation>
+      <translation>Изображения GeoTag</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="197"/>
       <source>MAVLink Console</source>
-      <translation type="unfinished">MAVLink Console</translation>
+      <translation>Консоль MAVLink</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="199"/>
       <source>MAVLink Inspector</source>
-      <translation type="unfinished">MAVLink Inspector</translation>
+      <translation>Инспектор MAVLink</translation>
     </message>
     <message>
       <location filename="../src/api/QGCCorePlugin.cc" line="286"/>
       <source>WARNING: You are about to enter Advanced Mode. If used incorrectly, this may cause your vehicle to malfunction thus voiding your warranty. You should do so only if instructed by customer support. Are you sure you want to enable Advanced Mode?</source>
-      <translation type="unfinished">WARNING: You are about to enter Advanced Mode. If used incorrectly, this may cause your vehicle to malfunction thus voiding your warranty. You should do so only if instructed by customer support. Are you sure you want to enable Advanced Mode?</translation>
+      <translation>ПРЕДУПРЕЖДЕНИЕ: Вы собираетесь перейти в расширенный режим. При неправильном использовании это может привести к неисправности вашего аппарата, что приведет к аннулированию вашей гарантии. Вы должны делать это только по указанию службы поддержки клиентов. Вы уверены, что хотите включить расширенный режим?</translation>
     </message>
   </context>
   <context>
@@ -13866,7 +13866,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/MissionManager/QGCFenceCircle.cc" line="75"/>
       <source>GeoFence Circle only supports version %1</source>
-      <translation type="unfinished">GeoFence Circle only supports version %1</translation>
+      <translation>GeoFence Круг поддерживает только версию %1</translation>
     </message>
   </context>
   <context>
