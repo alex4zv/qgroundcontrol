@@ -7967,47 +7967,47 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="59"/>
       <source>WARNING: This will force arming of the vehicle bypassing any safety checks.</source>
-      <translation type="unfinished">WARNING: This will force arming of the vehicle bypassing any safety checks.</translation>
+      <translation>ПРЕДУПРЕЖДЕНИЕ: Это приведёт к использованию аппарата без проверки безопасности.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="60"/>
       <source>Disarm the vehicle</source>
-      <translation type="unfinished">Disarm the vehicle</translation>
+      <translation>Деактивировать (disarm) аппарат.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="61"/>
       <source>WARNING: THIS WILL STOP ALL MOTORS. IF VEHICLE IS CURRENTLY IN THE AIR IT WILL CRASH.</source>
-      <translation type="unfinished">WARNING: THIS WILL STOP ALL MOTORS. IF VEHICLE IS CURRENTLY IN THE AIR IT WILL CRASH.</translation>
+      <translation>ВНИМАНИЕ: МОТОРЫ БУДУТ ОСТАНОВЛЕНЫ. ЕСЛИ АППАРАТ СЕЙЧАС В ВОЗДУХЕ, ОН РАЗОБЬЕТСЯ.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="62"/>
       <source>Takeoff from ground and hold position.</source>
-      <translation type="unfinished">Takeoff from ground and hold position.</translation>
+      <translation>Взлететь и удерживать позицию.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="63"/>
       <source>Takeoff from ground and start the current mission.</source>
-      <translation type="unfinished">Takeoff from ground and start the current mission.</translation>
+      <translation>Взлетать и начать текущую миссию.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="64"/>
       <source>Continue the mission from the current waypoint.</source>
-      <translation type="unfinished">Continue the mission from the current waypoint.</translation>
+      <translation>Продолжить миссию с текущей путевой точки.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="65"/>
       <source>Upload of resume mission failed. Confirm to retry upload</source>
-      <translation type="unfinished">Upload of resume mission failed. Confirm to retry upload</translation>
+      <translation>Не удалось загрузить миссию для возобновления. Подтвердите повторную попытку</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="66"/>
       <source>Land the vehicle at the current position.</source>
-      <translation type="unfinished">Land the vehicle at the current position.</translation>
+      <translation>Посадить БПЛА в текущем местоположении.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="68"/>
       <source>Change the altitude of the vehicle up or down.</source>
-      <translation type="unfinished">Change the altitude of the vehicle up or down.</translation>
+      <translation>Увеличить или уменьшить высоту аппарата.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="69"/>
@@ -9753,22 +9753,22 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="263"/>
       <source>Extra 2</source>
-      <translation type="unfinished">Extra 2</translation>
+      <translation>Экстра 2</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="270"/>
       <source>Extra 3</source>
-      <translation type="unfinished">Extra 3</translation>
+      <translation>Экстра 3</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="288"/>
       <source>MAVLink Link Status (Current Vehicle)</source>
-      <translation type="unfinished">MAVLink Link Status (Current Vehicle)</translation>
+      <translation>Статус связи MAVLink (текущий аппарат)</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="309"/>
       <source>Total messages sent (computed):</source>
-      <translation type="unfinished">Total messages sent (computed):</translation>
+      <translation>Всего отправленных сообщений (рассчитано):</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="314"/>
@@ -9776,42 +9776,42 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="344"/>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="359"/>
       <source>Not Connected</source>
-      <translation type="unfinished">Not Connected</translation>
+      <translation>Не подключен</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="324"/>
       <source>Total messages received:</source>
-      <translation type="unfinished">Total messages received:</translation>
+      <translation>Всего полученных сообщений:</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="339"/>
       <source>Total message loss:</source>
-      <translation type="unfinished">Total message loss:</translation>
+      <translation>Всего потеряно сообщений:</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="354"/>
       <source>Loss rate:</source>
-      <translation type="unfinished">Loss rate:</translation>
+      <translation>Процент потерь:</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="375"/>
       <source>MAVLink 2.0 Logging (PX4 Pro Only)</source>
-      <translation type="unfinished">MAVLink 2.0 Logging (PX4 Pro Only)</translation>
+      <translation>Логирование MAVLink 2.0 (только для прошивки PX4)</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="398"/>
       <source>Manual Start/Stop:</source>
-      <translation type="unfinished">Manual Start/Stop:</translation>
+      <translation>Запуск/остановка вручную:</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="402"/>
       <source>Start Logging</source>
-      <translation type="unfinished">Start Logging</translation>
+      <translation>Начать логирование</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="409"/>
       <source>Stop Logging</source>
-      <translation type="unfinished">Stop Logging</translation>
+      <translation>Остановить логирование</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/MavlinkSettings.qml" line="419"/>
@@ -10084,19 +10084,19 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/MissionController.cc" line="973"/>
       <source>The mission file is corrupted.</source>
-      <translation type="unfinished">The mission file is corrupted.</translation>
+      <translation>Файл миссии повреждён.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/MissionController.cc" line="978"/>
       <source>The mission file is not compatible with this version of %1.</source>
-      <translation type="unfinished">The mission file is not compatible with this version of %1.</translation>
+      <translation>Данный языковой файл не совместим с этой версией  %1.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/MissionController.cc" line="1026"/>
       <location filename="../src/MissionManager/MissionController.cc" line="1041"/>
       <location filename="../src/MissionManager/MissionController.cc" line="1065"/>
       <source>Mission: %1</source>
-      <translation type="unfinished">Mission: %1</translation>
+      <translation>Миссия: %1</translation>
     </message>
   </context>
   <context>
@@ -10104,17 +10104,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/MissionItem.cc" line="285"/>
       <source>Type found: %1 must be: %2</source>
-      <translation type="unfinished">Type found: %1 must be: %2</translation>
+      <translation>Найденный тип: %1 должен быть: %2</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/MissionItem.cc" line="291"/>
       <source>%1 key must contains 7 values</source>
-      <translation type="unfinished">%1 key must contains 7 values</translation>
+      <translation>Ключ %1 должен содержать 7 значений</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/MissionItem.cc" line="297"/>
       <source>Param %1 incorrect type %2, must be double or null</source>
-      <translation type="unfinished">Param %1 incorrect type %2, must be double or null</translation>
+      <translation>Параметр %1 неверный тип %2, должен быть двойным или нулевым</translation>
     </message>
   </context>
   <context>
@@ -10123,22 +10123,22 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/PlanView/MissionItemEditor.qml" line="101"/>
       <source>?</source>
       <extracomment>Indicator in Plan view to show mission item is not ready for save/send</extracomment>
-      <translation type="unfinished">?</translation>
+      <translation>?</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="206"/>
       <source>Move to vehicle position</source>
-      <translation type="unfinished">Move to vehicle position</translation>
+      <translation>Переместить в положение аппарата</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="215"/>
       <source>Move to previous item position</source>
-      <translation type="unfinished">Move to previous item position</translation>
+      <translation>Переместить в предыдущий элемент позиции </translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="221"/>
       <source>Edit position...</source>
-      <translation type="unfinished">Edit position...</translation>
+      <translation>Изменить позицию...</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="223"/>
