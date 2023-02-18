@@ -8661,18 +8661,18 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/KMLHelper.cc" line="77"/>
       <source>Unable to find Polygon node in KML</source>
-      <translation type="unfinished">Unable to find Polygon node in KML</translation>
+      <translation>Не удалось найти узел Полигона в KML</translation>
     </message>
     <message>
       <location filename="../src/KMLHelper.cc" line="83"/>
       <location filename="../src/KMLHelper.cc" line="144"/>
       <source>Internal error: Unable to find coordinates node in KML</source>
-      <translation type="unfinished">Internal error: Unable to find coordinates node in KML</translation>
+      <translation>Внутренняя ошибка: Невозможно найти узел координат в KML</translation>
     </message>
     <message>
       <location filename="../src/KMLHelper.cc" line="138"/>
       <source>Unable to find LineString node in KML</source>
-      <translation type="unfinished">Unable to find LineString node in KML</translation>
+      <translation>Не удалось найти узел LineString в KML</translation>
     </message>
   </context>
   <context>
@@ -8680,7 +8680,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/KMLOrSHPFileDialog.qml" line="19"/>
       <source>Select Polygon File</source>
-      <translation type="unfinished">Select Polygon File</translation>
+      <translation>Выберите файл Полигона</translation>
     </message>
   </context>
   <context>
@@ -8688,7 +8688,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/LandingComplexItem.cc" line="635"/>
       <source>%1 does not support loading this complex mission item type: %2:%3</source>
-      <translation type="unfinished">%1 does not support loading this complex mission item type: %2:%3</translation>
+      <translation>%1 не поддерживает загрузку этого сложного типа миссии: %2:%3</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/LandingComplexItem.cc" line="655"/>
