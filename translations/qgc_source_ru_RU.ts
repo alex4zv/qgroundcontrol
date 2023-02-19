@@ -8693,7 +8693,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/LandingComplexItem.cc" line="655"/>
       <source>Fixed Wing Landing Pattern: Setting the loiter and landing altitudes with different settings for altitude relative is no longer supported. Both have been set to relative altitude. Be sure to adjust/check your plan prior to flight.</source>
-      <translation type="unfinished">Fixed Wing Landing Pattern: Setting the loiter and landing altitudes with different settings for altitude relative is no longer supported. Both have been set to relative altitude. Be sure to adjust/check your plan prior to flight.</translation>
+      <translation>Исправленный шаблон посадки крыльев: Настройка высот loiter  и посадки с различными настройками для относительной высоты больше не поддерживается. Оба были установлены на относительную высоту. Убедитесь, что настроены/проверьте ваш план до полета.</translation>
     </message>
   </context>
   <context>
@@ -8701,7 +8701,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/LinkManager.cc" line="235"/>
       <source>Connect not allowed: %1</source>
-      <translation type="unfinished">Connect not allowed: %1</translation>
+      <translation>Соединение запрещено: %1</translation>
     </message>
     <message>
       <location filename="../src/comm/LinkManager.cc" line="607"/>
@@ -8709,27 +8709,27 @@ Click Ok to start the auto-tuning process.
       <location filename="../src/comm/LinkManager.cc" line="618"/>
       <location filename="../src/comm/LinkManager.cc" line="623"/>
       <source>%1 on %2 (AutoConnect)</source>
-      <translation type="unfinished">%1 on %2 (AutoConnect)</translation>
+      <translation>%1 на %2 (Автосоединение)</translation>
     </message>
     <message>
       <location filename="../src/comm/LinkManager.cc" line="667"/>
       <source>Shutdown</source>
-      <translation type="unfinished">Shutdown</translation>
+      <translation>Выключить</translation>
     </message>
     <message>
       <location filename="../src/comm/LinkManager.cc" line="683"/>
       <source>Serial</source>
-      <translation type="unfinished">Serial</translation>
+      <translation>Serial</translation>
     </message>
     <message>
       <location filename="../src/comm/LinkManager.cc" line="685"/>
       <source>UDP</source>
-      <translation type="unfinished">UDP</translation>
+      <translation>UDP</translation>
     </message>
     <message>
       <location filename="../src/comm/LinkManager.cc" line="686"/>
       <source>TCP</source>
-      <translation type="unfinished">TCP</translation>
+      <translation>TCP</translation>
     </message>
     <message>
       <location filename="../src/comm/LinkManager.cc" line="691"/>
@@ -9003,13 +9003,13 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/LogReplayLink.cc" line="358"/>
       <source>Connect not allowed during Flight Data replay.</source>
-      <translation type="unfinished">Connect not allowed during Flight Data replay.</translation>
+      <translation>Подключение не допускается во время воспроизведения полета.</translation>
     </message>
     <message>
       <location filename="../src/comm/LogReplayLink.cc" line="425"/>
       <location filename="../src/comm/LogReplayLink.cc" line="445"/>
       <source>Unable to seek to new position</source>
-      <translation type="unfinished">Unable to seek to new position</translation>
+      <translation>Не удается найти новую позицию</translation>
     </message>
   </context>
   <context>
@@ -9017,7 +9017,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/LogReplayLink.h" line="40"/>
       <source>Log Replay Link Settings</source>
-      <translation type="unfinished">Log Replay Link Settings</translation>
+      <translation>Настройки соединения Log Replay</translation>
     </message>
   </context>
   <context>
@@ -9025,12 +9025,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/LogReplayLink.cc" line="593"/>
       <source>%2m:%3s</source>
-      <translation type="unfinished">%2m:%3s</translation>
+      <translation>%2м:%3s</translation>
     </message>
     <message>
       <location filename="../src/comm/LogReplayLink.cc" line="595"/>
       <source>%1h:%2m:%3s</source>
-      <translation type="unfinished">%1h:%2m:%3s</translation>
+      <translation>%1ч:%2м:%3с</translation>
     </message>
   </context>
   <context>
@@ -9038,27 +9038,27 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/LogReplaySettings.qml" line="26"/>
       <source>Log File</source>
-      <translation type="unfinished">Log File</translation>
+      <translation>Лог-файл</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/LogReplaySettings.qml" line="35"/>
       <source>Browse</source>
-      <translation type="unfinished">Browse</translation>
+      <translation>Обзор</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/LogReplaySettings.qml" line="41"/>
       <source>Select Telemetery Log</source>
-      <translation type="unfinished">Select Telemetery Log</translation>
+      <translation>Выберите журнал телеметрии</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/LogReplaySettings.qml" line="42"/>
       <source>Telemetry Logs (*.%1)</source>
-      <translation type="unfinished">Telemetry Logs (*.%1)</translation>
+      <translation>Журнал телеметрии (*.%1)</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/LogReplaySettings.qml" line="42"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>Все файлы (*)</translation>
     </message>
   </context>
   <context>
@@ -9066,47 +9066,47 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="19"/>
       <source>Log Replay</source>
-      <translation type="unfinished">Log Replay</translation>
+      <translation>Воспроизведение логов (Log Replay)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="19"/>
       <source>You must close all connections prior to replaying a log.</source>
-      <translation type="unfinished">You must close all connections prior to replaying a log.</translation>
+      <translation>Необходимо закрыть все подключения перед тем, как воспроизвести лог.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="30"/>
       <source>Select Telemetery Log</source>
-      <translation type="unfinished">Select Telemetery Log</translation>
+      <translation>Выберите журнал телеметрии</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="31"/>
       <source>Telemetry Logs (*.%1)</source>
-      <translation type="unfinished">Telemetry Logs (*.%1)</translation>
+      <translation>Журнал телеметрии (*.%1)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="31"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>Все файлы (*)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="56"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>Пауза</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="56"/>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>Воспроизвести</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="104"/>
       <source>Load Telemetry Log</source>
-      <translation type="unfinished">Load Telemetry Log</translation>
+      <translation>Загрузить журнал телеметрии</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="110"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>Закрыть</translation>
     </message>
   </context>
   <context>
@@ -9114,97 +9114,97 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="195"/>
       <source>Gyro</source>
-      <translation type="unfinished">Gyro</translation>
+      <translation>Гироскоп</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="196"/>
       <source>Accelerometer</source>
-      <translation type="unfinished">Accelerometer</translation>
+      <translation>Акселерометр</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="197"/>
       <source>Magnetometer</source>
-      <translation type="unfinished">Magnetometer</translation>
+      <translation>Магнитометр</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="198"/>
       <source>Absolute pressure</source>
-      <translation type="unfinished">Absolute pressure</translation>
+      <translation>Абсолютное давление</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="199"/>
       <source>Differential pressure</source>
-      <translation type="unfinished">Differential pressure</translation>
+      <translation>Дифференциальное давление</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="200"/>
       <source>GPS</source>
-      <translation type="unfinished">GPS</translation>
+      <translation>GPS</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="201"/>
       <source>Optical flow</source>
-      <translation type="unfinished">Optical flow</translation>
+      <translation>Optical flow</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="202"/>
       <source>Computer vision position</source>
-      <translation type="unfinished">Computer vision position</translation>
+      <translation>Позиция компьютерного зрения</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="203"/>
       <source>Laser based position</source>
-      <translation type="unfinished">Laser based position</translation>
+      <translation>Позиция на основе лазера</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="204"/>
       <source>External ground truth</source>
-      <translation type="unfinished">External ground truth</translation>
+      <translation>External ground truth</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="205"/>
       <source>Angular rate control</source>
-      <translation type="unfinished">Angular rate control</translation>
+      <translation>Контроль угловой скорости</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="206"/>
       <source>Attitude stabilization</source>
-      <translation type="unfinished">Attitude stabilization</translation>
+      <translation>Стабилизация высоты</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="207"/>
       <source>Yaw position</source>
-      <translation type="unfinished">Yaw position</translation>
+      <translation>Положение Yaw</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="208"/>
       <source>Z/altitude control</source>
-      <translation type="unfinished">Z/altitude control</translation>
+      <translation>Контроль высоты Z/altitude</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="209"/>
       <source>X/Y position control</source>
-      <translation type="unfinished">X/Y position control</translation>
+      <translation>Управление позицией X/Y</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="210"/>
       <source>Motor outputs / control</source>
-      <translation type="unfinished">Motor outputs / control</translation>
+      <translation>Выходы моторов / управление</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="211"/>
       <source>RC receiver</source>
-      <translation type="unfinished">RC receiver</translation>
+      <translation>RC приемник</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="212"/>
       <source>Gyro 2</source>
-      <translation type="unfinished">Gyro 2</translation>
+      <translation>Гиро 2</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="213"/>
       <source>Accelerometer 2</source>
-      <translation type="unfinished">Accelerometer 2</translation>
+      <translation>Акселерометр 2</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="214"/>
@@ -11276,102 +11276,102 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="37"/>
       <source>Manual</source>
-      <translation type="unfinished">Manual</translation>
+      <translation>Ручной</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="38"/>
       <source>Acro</source>
-      <translation type="unfinished">Acro</translation>
+      <translation>Acro</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="39"/>
       <source>Stabilized</source>
-      <translation type="unfinished">Stabilized</translation>
+      <translation>Стабилизация</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="40"/>
       <source>Rattitude</source>
-      <translation type="unfinished">Rattitude</translation>
+      <translation>Rattitude</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="41"/>
       <source>Altitude</source>
-      <translation type="unfinished">Altitude</translation>
+      <translation>Высота</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="42"/>
       <source>Position</source>
-      <translation type="unfinished">Position</translation>
+      <translation>Позиция</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="43"/>
       <source>Offboard</source>
-      <translation type="unfinished">Offboard</translation>
+      <translation>Offboard</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="44"/>
       <source>Ready</source>
-      <translation type="unfinished">Ready</translation>
+      <translation>Готов</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="45"/>
       <source>Takeoff</source>
-      <translation type="unfinished">Takeoff</translation>
+      <translation>Взлет</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="46"/>
       <source>Hold</source>
-      <translation type="unfinished">Hold</translation>
+      <translation>Удержание</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="47"/>
       <source>Mission</source>
-      <translation type="unfinished">Mission</translation>
+      <translation>Миссия</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="48"/>
       <source>Return</source>
-      <translation type="unfinished">Return</translation>
+      <translation>Возврат</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="49"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation>Посадка</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="50"/>
       <source>Precision Land</source>
-      <translation type="unfinished">Precision Land</translation>
+      <translation>Точная посадка</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="51"/>
       <source>Return to Groundstation</source>
-      <translation type="unfinished">Return to Groundstation</translation>
+      <translation>Вернуться к наземной станции</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="52"/>
       <source>Follow Me</source>
-      <translation type="unfinished">Follow Me</translation>
+      <translation>Следовать за мной</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="53"/>
       <source>Simple</source>
-      <translation type="unfinished">Simple</translation>
+      <translation>Простой Simple</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="54"/>
       <source>Orbit</source>
-      <translation type="unfinished">Orbit</translation>
+      <translation>Орбита</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="187"/>
       <source>Unknown %1:%2</source>
-      <translation type="unfinished">Unknown %1:%2</translation>
+      <translation>Неизвестный %1:%2</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="396"/>
       <source>Unable to takeoff, vehicle position not known.</source>
-      <translation type="unfinished">Unable to takeoff, vehicle position not known.</translation>
+      <translation>Невозможно осуществить взлет, позиция БПЛА не известна.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="416"/>
