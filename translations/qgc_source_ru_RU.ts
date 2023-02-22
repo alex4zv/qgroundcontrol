@@ -10143,32 +10143,32 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="223"/>
       <source>Edit Position</source>
-      <translation type="unfinished">Edit Position</translation>
+      <translation>Редактировать позицию</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="231"/>
       <source>Show all values</source>
-      <translation type="unfinished">Show all values</translation>
+      <translation>Показать все значения</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="241"/>
       <source>Mission Edit</source>
-      <translation type="unfinished">Mission Edit</translation>
+      <translation>Редактор миссии</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="241"/>
       <source>You have made changes to the mission item which cannot be shown in Simple Mode</source>
-      <translation type="unfinished">You have made changes to the mission item which cannot be shown in Simple Mode</translation>
+      <translation>Вы внесли изменения в задание, которое не может быть показано в простом режиме</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="251"/>
       <source>Item #%1</source>
-      <translation type="unfinished">Item #%1</translation>
+      <translation>Элемент #%1</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionItemEditor.qml" line="155"/>
       <source>Select Mission Command</source>
-      <translation type="unfinished">Select Mission Command</translation>
+      <translation>Выберите команду миссии</translation>
     </message>
   </context>
   <context>
@@ -10176,7 +10176,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/MissionItemStatus.qml" line="46"/>
       <source>Terrain Altitude</source>
-      <translation type="unfinished">Terrain Altitude</translation>
+      <translation>Высота поверхности</translation>
     </message>
   </context>
   <context>
@@ -10184,7 +10184,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/MissionManager/MissionManager.cc" line="92"/>
       <source>Unable to generate resume mission due to MAV_CMD_DO_JUMP command.</source>
-      <translation type="unfinished">Unable to generate resume mission due to MAV_CMD_DO_JUMP command.</translation>
+      <translation>Невозможно возобновить миссию из-за команды MAV_CMD_DO_JUMP.</translation>
     </message>
   </context>
   <context>
@@ -10192,57 +10192,57 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="42"/>
       <source>Firmware</source>
-      <translation type="unfinished">Firmware</translation>
+      <translation>Прошивка</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="43"/>
       <source>Vehicle</source>
-      <translation type="unfinished">Vehicle</translation>
+      <translation>Аппарат</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="119"/>
       <source>Flight speed</source>
-      <translation type="unfinished">Flight speed</translation>
+      <translation>Скорость полета</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="146"/>
       <source>Above camera commands will take affect immediately upon mission start.</source>
-      <translation type="unfinished">Above camera commands will take affect immediately upon mission start.</translation>
+      <translation>Вышеприведенные команды камеры будут использованы сразу же при запуске миссии.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="239"/>
       <source>Launch Position</source>
-      <translation type="unfinished">Launch Position</translation>
+      <translation>Позиция запуска</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="275"/>
       <source>Set To Map Center</source>
-      <translation type="unfinished">Set To Map Center</translation>
+      <translation>Установить в Центр Карты</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="157"/>
       <source>Vehicle Info</source>
-      <translation type="unfinished">Vehicle Info</translation>
+      <translation>Информация об аппарате</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="68"/>
       <source>All Altitudes</source>
-      <translation type="unfinished">All Altitudes</translation>
+      <translation>Все высоты</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="103"/>
       <source>Initial Waypoint Alt</source>
-      <translation type="unfinished">Initial Waypoint Alt</translation>
+      <translation>Высота начальной путевой точки</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="208"/>
       <source>The following speed values are used to calculate total mission time. They do not affect the flight speed for the mission.</source>
-      <translation type="unfinished">The following speed values are used to calculate total mission time. They do not affect the flight speed for the mission.</translation>
+      <translation>Следующие значения скорости используются для расчета общего времени миссии. Они не влияют на скорость полета по миссии.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="213"/>
       <source>Cruise speed</source>
-      <translation type="unfinished">Cruise speed</translation>
+      <translation>Крейсерская скорость</translation>
     </message>
     <message>
       <location filename="../src/PlanView/MissionSettingsEditor.qml" line="224"/>
