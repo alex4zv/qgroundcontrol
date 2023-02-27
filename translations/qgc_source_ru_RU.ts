@@ -11268,7 +11268,7 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AutoPilotPlugin.cc" line="144"/>
       <source>Warning: Hardware In The Loop (HITL) simulation is enabled for this vehicle.</source>
-      <translation type="unfinished">Warning: Hardware In The Loop (HITL) simulation is enabled for this vehicle.</translation>
+      <translation>Предупреждение: Для этого транспортного средства включена аппаратная симуляция в цикле (HITL).</translation>
     </message>
   </context>
   <context>
@@ -11376,37 +11376,37 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="416"/>
       <source>Unable to go to location, vehicle position not known.</source>
-      <translation type="unfinished">Unable to go to location, vehicle position not known.</translation>
+      <translation>Не удалось отправиться в указанное местоположение, координаты аппарата неизвестны.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="489"/>
       <source>Unable to pause vehicle.</source>
-      <translation type="unfinished">Unable to pause vehicle.</translation>
+      <translation>Невозможно приостановить аппарат.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="498"/>
       <source>Unable to change altitude, home position unknown.</source>
-      <translation type="unfinished">Unable to change altitude, home position unknown.</translation>
+      <translation>Невозможно изменить высоту, неизвестны координаты точки взлета.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="502"/>
       <source>Unable to change altitude, home position altitude unknown.</source>
-      <translation type="unfinished">Unable to change altitude, home position altitude unknown.</translation>
+      <translation>Невозможно изменить высоту, неизвестная высота положения точки взлета.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="533"/>
       <source>Unable to start mission: Vehicle rejected arming.</source>
-      <translation type="unfinished">Unable to start mission: Vehicle rejected arming.</translation>
+      <translation>Невозможно начать миссию: БПЛА не осуществил арминг.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="537"/>
       <source>Unable to start mission: Vehicle not changing to %1 flight mode.</source>
-      <translation type="unfinished">Unable to start mission: Vehicle not changing to %1 flight mode.</translation>
+      <translation>Невозможно начать миссию: БПЛА не перешел в режим %1.</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="609"/>
       <source>QGroundControl supports PX4 Pro firmware Version %1.%2.%3 and above. You are using a version prior to that which will lead to unpredictable results. Please upgrade your firmware.</source>
-      <translation type="unfinished">QGroundControl supports PX4 Pro firmware Version %1.%2.%3 and above. You are using a version prior to that which will lead to unpredictable results. Please upgrade your firmware.</translation>
+      <translation>GroundControl поддерживает прошивку PX4 Pro версии %1.%2.%3 и выше. Вы используете версию, которая приведет к непредсказуемым результатам. Пожалуйста, обновите вашу прошивку.</translation>
     </message>
   </context>
   <context>
@@ -11414,7 +11414,7 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/VehicleSetup/PX4FirmwareUpgradeThread.cc" line="153"/>
       <source>Programming new version...</source>
-      <translation type="unfinished">Programming new version...</translation>
+      <translation>Прошивка новой версии...</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/PX4FirmwareUpgradeThread.cc" line="163"/>
@@ -12078,18 +12078,18 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="461"/>
       <source>NFC</source>
-      <translation type="unfinished">NFC</translation>
+      <translation>NFC</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="465"/>
       <source>Microhard</source>
-      <translation type="unfinished">Microhard</translation>
+      <translation>Microhard</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/PairingManager.cc" line="495"/>
       <location filename="../src/PairingManager/PairingManager.cc" line="517"/>
       <source>Pairing...</source>
-      <translation type="unfinished">Pairing...</translation>
+      <translation>Сопряжение...</translation>
     </message>
   </context>
   <context>
@@ -12097,17 +12097,17 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/PairingManager/QtNFC.cc" line="30"/>
       <source>Waiting for NFC connection</source>
-      <translation type="unfinished">Waiting for NFC connection</translation>
+      <translation>Ожидается подключение NFC</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/QtNFC.cc" line="78"/>
       <source>Device detected</source>
-      <translation type="unfinished">Device detected</translation>
+      <translation>GОбнаружено устройство</translation>
     </message>
     <message>
       <location filename="../src/PairingManager/QtNFC.cc" line="114"/>
       <source>Device removed</source>
-      <translation type="unfinished">Device removed</translation>
+      <translation>Устройство удалено</translation>
     </message>
   </context>
   <context>
@@ -12115,32 +12115,32 @@ Is this really what you want?</source>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="23"/>
       <source>Load Parameters</source>
-      <translation type="unfinished">Load Parameters</translation>
+      <translation>Загрузка параметров</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="42"/>
       <source>The following parameters from the loaded file differ from what is currently set on the Vehicle. Click &apos;Ok&apos; to update them on the Vehicle.</source>
-      <translation type="unfinished">The following parameters from the loaded file differ from what is currently set on the Vehicle. Click &apos;Ok&apos; to update them on the Vehicle.</translation>
+      <translation>Следующие параметры из загруженного файла отличаются от параметров, установленных в настоящее время на аппарате. Нажмите &apos;Ок&apos; , чтобы обновить их.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="43"/>
       <source>There are no differences between the file loaded and the current settings on the Vehicle.</source>
-      <translation type="unfinished">There are no differences between the file loaded and the current settings on the Vehicle.</translation>
+      <translation>Нет различий между загруженным файлом и текущими настройками на аппарате.</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="71"/>
       <source>Comp ID</source>
-      <translation type="unfinished">Comp ID</translation>
+      <translation>Comp ID</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="78"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Имя</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="84"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>Файл</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/ParameterDiffDialog.qml" line="90"/>
