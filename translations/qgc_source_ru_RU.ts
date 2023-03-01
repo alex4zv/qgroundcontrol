@@ -12338,39 +12338,38 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="678"/>
       <source>Parameter write failed: veh:%1 comp:%2 param:%3</source>
-      <translation type="unfinished">Parameter write failed: veh:%1 comp:%2 param:%3</translation>
+      <translation>Не удалось записать параметр: veh:%1 comp:%2 param:%3</translation>
     </message>
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="700"/>
       <source>Parameter read failed: veh:%1 comp:%2 param:%3</source>
-      <translation type="unfinished">Parameter read failed: veh:%1 comp:%2 param:%3</translation>
+      <translation>Не удалось прочитать параметр: veh:%1 comp:%2 param:%3</translation>
     </message>
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="926"/>
       <source>Parameter cache CRC match failed</source>
-      <translation type="unfinished">Parameter cache CRC match failed</translation>
+      <translation>Ошибка сопоставления CRC кэша параметров</translation>
     </message>
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="977"/>
       <source>Parameters not loaded since they are not currently on the vehicle: %1
 </source>
-      <translation type="unfinished">Parameters not loaded since they are not currently on the vehicle: %1
-</translation>
+      <translation>Параметры не загружены, поскольку в данный момент они отсутствуют в аппарате: %1</translation>
     </message>
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="981"/>
       <source>Parameters not loaded due to type mismatch: %1</source>
-      <translation type="unfinished">Parameters not loaded due to type mismatch: %1</translation>
+      <translation>Параметры не загружены из-за несовпадения типов: %1</translation>
     </message>
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="1149"/>
       <source>%1 was unable to retrieve the full set of parameters from vehicle %2. This will cause %1 to be unable to display its full user interface. If you are using modified firmware, you may need to resolve any vehicle startup errors to resolve the issue. If you are using standard firmware, you may need to upgrade to a newer version to resolve the issue.</source>
-      <translation type="unfinished">%1 was unable to retrieve the full set of parameters from vehicle %2. This will cause %1 to be unable to display its full user interface. If you are using modified firmware, you may need to resolve any vehicle startup errors to resolve the issue. If you are using standard firmware, you may need to upgrade to a newer version to resolve the issue.</translation>
+      <translation>%1 не удалось получить полный набор параметров аппарата %2. Это приведет к тому, что %1 не сможет отобразить свой полный пользовательский интерфейс. Если вы используете модифицированную прошивку, вам может потребоваться устранить любые ошибки при запуске аппарата, чтобы устранить проблему. Если вы используете стандартную прошивку, вам может потребоваться обновление до более новой версии, чтобы устранить проблему.</translation>
     </message>
     <message>
       <location filename="../src/FactSystem/ParameterManager.cc" line="1175"/>
       <source>Vehicle %1 did not respond to request for parameters. This will cause %2 to be unable to display its full user interface.</source>
-      <translation type="unfinished">Vehicle %1 did not respond to request for parameters. This will cause %2 to be unable to display its full user interface.</translation>
+      <translation>Аппарат %1 не ответил на запрос параметров. Это приведет к тому, что %2 не сможет отобразить весь пользовательский интерфейс.</translation>
     </message>
   </context>
   <context>
@@ -12378,47 +12377,47 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="239"/>
       <source>Video Grab</source>
-      <translation type="unfinished">Video Grab</translation>
+      <translation>Захват видео</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="243"/>
       <source>Camera Trigger</source>
-      <translation type="unfinished">Camera Trigger</translation>
+      <translation>Триггер камеры</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="299"/>
       <source>Free Space: </source>
-      <translation type="unfinished">Free Space: </translation>
+      <translation>Свободно: </translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="305"/>
       <source>Battery: </source>
-      <translation type="unfinished">Battery: </translation>
+      <translation>Батарея: </translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="316"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>Настройки</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="331"/>
       <source>Camera</source>
-      <translation type="unfinished">Camera</translation>
+      <translation>Камера</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="337"/>
       <source>Video Stream</source>
-      <translation type="unfinished">Video Stream</translation>
+      <translation>Видеопоток</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="343"/>
       <source>Thermal View Mode</source>
-      <translation type="unfinished">Thermal View Mode</translation>
+      <translation>Режим термального просмотра</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="349"/>
       <source>Blend Opacity</source>
-      <translation type="unfinished">Blend Opacity</translation>
+      <translation>Прозрачность наложения</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="364"/>
