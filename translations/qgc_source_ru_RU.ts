@@ -12520,17 +12520,17 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="183"/>
       <source>Mission request list failed, maximum retries exceeded.</source>
-      <translation type="unfinished">Mission request list failed, maximum retries exceeded.</translation>
+      <translation>Не удалось записать миссию, превышено максимальное количество попыток.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="187"/>
       <source>Retrying %1 REQUEST_LIST retry Count</source>
-      <translation type="unfinished">Retrying %1 REQUEST_LIST retry Count</translation>
+      <translation>Повтор %1 REQUEST_LIST попытка</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="194"/>
       <source>Mission read failed, maximum retries exceeded.</source>
-      <translation type="unfinished">Mission read failed, maximum retries exceeded.</translation>
+      <translation>Миссия не прочитана, превышено максимальное количество попыток.</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/PlanManager.cc" line="198"/>
@@ -12799,17 +12799,17 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="246"/>
       <source>Upload</source>
-      <translation type="unfinished">Upload</translation>
+      <translation>Закачка</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="308"/>
       <source>Syncing Mission</source>
-      <translation type="unfinished">Syncing Mission</translation>
+      <translation>Синхронизация миссии</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="316"/>
       <source>Click anywhere to hide</source>
-      <translation type="unfinished">Click anywhere to hide</translation>
+      <translation>Нажмите в любое место, чтобы скрыть</translation>
     </message>
   </context>
   <context>
@@ -12817,227 +12817,227 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="62"/>
       <source>Vehicle is currently armed. Do you want to upload the mission to the vehicle?</source>
-      <translation type="unfinished">Vehicle is currently armed. Do you want to upload the mission to the vehicle?</translation>
+      <translation>БПЛА Активирован. Хотите загрузить полетное задание?</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="129"/>
       <source>You have changed the default altitude for mission items. Would you like to apply that altitude to all the items in the current mission?</source>
-      <translation type="unfinished">You have changed the default altitude for mission items. Would you like to apply that altitude to all the items in the current mission?</translation>
+      <translation>Вы изменили высоту по умолчанию для элементов миссии. Вы хотите применить эту высоту ко всем элементам текущей миссии?</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="209"/>
       <source>You need at least one item to create a KML.</source>
-      <translation type="unfinished">You need at least one item to create a KML.</translation>
+      <translation>Чтобы создать KML, вам нужен хотя бы один элемент.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="237"/>
       <source>Plan is waiting on terrain data from server for correct altitude values.</source>
-      <translation type="unfinished">Plan is waiting on terrain data from server for correct altitude values.</translation>
+      <translation>Ожидание данных местности с сервера для правильных значений высоты.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="263"/>
       <source>Plan Upload</source>
-      <translation type="unfinished">Plan Upload</translation>
+      <translation>Запланировать выгрузку</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="269"/>
       <source>Select Plan File</source>
-      <translation type="unfinished">Select Plan File</translation>
+      <translation>Выберите файл Плана</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="280"/>
       <source>Save Plan</source>
-      <translation type="unfinished">Save Plan</translation>
+      <translation>Сохранить План</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="295"/>
       <source>Save KML</source>
-      <translation type="unfinished">Save KML</translation>
+      <translation>Сохранить KML</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="401"/>
       <source>Move the selected mission item to the be after following mission item:</source>
-      <translation type="unfinished">Move the selected mission item to the be after following mission item:</translation>
+      <translation>Переместить выбранный элемент миссии после следующего элемента:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="642"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>Файл</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="662"/>
       <source>Waypoint</source>
-      <translation type="unfinished">Waypoint</translation>
+      <translation>Путевая точка</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="669"/>
       <source>ROI</source>
-      <translation type="unfinished">ROI</translation>
+      <translation>Точка интереса</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="685"/>
       <source>Pattern</source>
-      <translation type="unfinished">Pattern</translation>
+      <translation>Шаблон</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="708"/>
       <source>Center</source>
-      <translation type="unfinished">Center</translation>
+      <translation>Центр</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="619"/>
       <location filename="../src/PlanView/PlanView.qml" line="785"/>
       <source>Plan</source>
-      <translation type="unfinished">Plan</translation>
+      <translation>План</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="121"/>
       <source>Apply new altitude</source>
-      <translation type="unfinished">Apply new altitude</translation>
+      <translation>Применить новую высоту</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="140"/>
       <source>Plan View - Vehicle Disconnected</source>
-      <translation type="unfinished">Plan View - Vehicle Disconnected</translation>
+      <translation>Просмотр плана - Аппарат Отключен</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="140"/>
       <source>Plan View - Vehicle Changed</source>
-      <translation type="unfinished">Plan View - Vehicle Changed</translation>
+      <translation>Просмотр плана - Аппарат изменен</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="148"/>
       <source>The vehicle associated with the plan in the Plan View is no longer available. What would you like to do with that plan?</source>
-      <translation type="unfinished">The vehicle associated with the plan in the Plan View is no longer available. What would you like to do with that plan?</translation>
+      <translation>Аппарат, связанный с планом в Plan View, больше не доступен. Что бы вы хотели сделать с этим планом?</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="149"/>
       <source>The plan being worked on in the Plan View is not from the current vehicle. What would you like to do with that plan?</source>
-      <translation type="unfinished">The plan being worked on in the Plan View is not from the current vehicle. What would you like to do with that plan?</translation>
+      <translation>План, над которым ведется работа в Plan View, не относится к текущему аппарату. Что бы вы хотели сделать с этим планом?</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="156"/>
       <source>Discard Unsaved Changes</source>
-      <translation type="unfinished">Discard Unsaved Changes</translation>
+      <translation>Отменить несохраненные изменения</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="157"/>
       <source>Discard Unsaved Changes, Load New Plan From Vehicle</source>
-      <translation type="unfinished">Discard Unsaved Changes, Load New Plan From Vehicle</translation>
+      <translation>Отменить несохраненные изменения, загрузить новый план с аппарата</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="158"/>
       <source>Load New Plan From Vehicle</source>
-      <translation type="unfinished">Load New Plan From Vehicle</translation>
+      <translation>Загрузить новый план с аппарата</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="169"/>
       <source>Keep Current Plan</source>
-      <translation type="unfinished">Keep Current Plan</translation>
+      <translation>Оставить текущий План</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="170"/>
       <source>Keep Current Plan, Don&apos;t Update From Vehicle</source>
-      <translation type="unfinished">Keep Current Plan, Don&apos;t Update From Vehicle</translation>
+      <translation>Оставить текущий План, не обновлять с аппарата</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="187"/>
       <source>This Plan was created for a different firmware or vehicle type than the firmware/vehicle type of vehicle you are uploading to. This can lead to errors or incorrect behavior. It is recommended to recreate the Plan for the correct firmware/vehicle type.
 
 Click &apos;Ok&apos; to upload the Plan anyway.</source>
-      <translation type="unfinished">This Plan was created for a different firmware or vehicle type than the firmware/vehicle type of vehicle you are uploading to. This can lead to errors or incorrect behavior. It is recommended to recreate the Plan for the correct firmware/vehicle type.
+      <translation>Этот план был создан для прошивки аппарата, отличного от прошивки аппарата, на который вы его загружаете. Это может привести к ошибкам или неправильному поведению. Рекомендуется создать план для правильной прошивки/типа аппарата.
 
-Click &apos;Ok&apos; to upload the Plan anyway.</translation>
+Нажмите &apos;Ok &apos;, чтобы загрузить план в любом случае.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="260"/>
       <source>Send To Vehicle</source>
-      <translation type="unfinished">Send To Vehicle</translation>
+      <translation>Отправить в аппарат</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="260"/>
       <source>Current mission must be paused prior to uploading a new Plan</source>
-      <translation type="unfinished">Current mission must be paused prior to uploading a new Plan</translation>
+      <translation>Текущая миссия должна быть приостановлена до загрузки нового Плана</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="637"/>
       <source>Fly</source>
-      <translation type="unfinished">Fly</translation>
+      <translation>Полёт</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="651"/>
       <source>Takeoff</source>
-      <translation type="unfinished">Takeoff</translation>
+      <translation>Взлет</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="662"/>
       <source>Rally Point</source>
-      <translation type="unfinished">Rally Point</translation>
+      <translation>Точка сбора</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="669"/>
       <source>Cancel ROI</source>
-      <translation type="unfinished">Cancel ROI</translation>
+      <translation>Отменить ROI</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="698"/>
       <source>Return</source>
-      <translation type="unfinished">Return</translation>
+      <translation>Возврат</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="698"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation>Посадка</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="817"/>
       <source>Mission</source>
-      <translation type="unfinished">Mission</translation>
+      <translation>Миссия</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="820"/>
       <source>Fence</source>
-      <translation type="unfinished">Fence</translation>
+      <translation>Ограждение</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="824"/>
       <source>Rally</source>
-      <translation type="unfinished">Rally</translation>
+      <translation>Rally</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="942"/>
       <source>You have unsaved/unsent changes. Loading from the Vehicle will lose these changes. Are you sure you want to load from the Vehicle?</source>
-      <translation type="unfinished">You have unsaved/unsent changes. Loading from the Vehicle will lose these changes. Are you sure you want to load from the Vehicle?</translation>
+      <translation>У вас есть несохраненные / неотправленные изменения. Загрузка из аппарата отменит эти изменения, уверены, что хотите загрузить?</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="954"/>
       <source>You have unsaved/unsent changes. Loading from a file will lose these changes. Are you sure you want to load from a file?</source>
-      <translation type="unfinished">You have unsaved/unsent changes. Loading from a file will lose these changes. Are you sure you want to load from a file?</translation>
+      <translation>У вас есть несохраненные/неотправленные изменения. Загрузка из файла утратит эти изменения. Вы уверены, что хотите загрузить из файла?</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1228"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Очистить</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="978"/>
       <source>Are you sure you want to remove all mission items and clear the mission from the vehicle?</source>
-      <translation type="unfinished">Are you sure you want to remove all mission items and clear the mission from the vehicle?</translation>
+      <translation>Вы уверены, что хотите удалить все элементы миссии и очистить миссию?</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1004"/>
       <source>Create complex pattern:</source>
-      <translation type="unfinished">Create complex pattern:</translation>
+      <translation>Создать сложный шаблон:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1029"/>
       <source>Mission overwrite</source>
-      <translation type="unfinished">Mission overwrite</translation>
+      <translation>Перезапись миссии</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1029"/>
       <source>GeoFence overwrite</source>
-      <translation type="unfinished">GeoFence overwrite</translation>
+      <translation>Перезаписать GeoFence</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1029"/>
@@ -13651,7 +13651,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="36"/>
       <source>Failure. Accelerometer issues. Check console.</source>
-      <translation type="unfinished">Failure. Accelerometer issues. Check console.</translation>
+      <translation>Ошибка. Проблемы с акселерометром. Проверьте консоль.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightSensorsHealthCheck.qml" line="37"/>
