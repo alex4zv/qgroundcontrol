@@ -13042,17 +13042,17 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1029"/>
       <source>Rally Points overwrite</source>
-      <translation type="unfinished">Rally Points overwrite</translation>
+      <translation>Перезаписать точки сбора</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1037"/>
       <source>You have unsaved changes.</source>
-      <translation type="unfinished">You have unsaved changes.</translation>
+      <translation>У вас есть несохраненные изменения.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="1136"/>
       <source>Open...</source>
-      <translation type="unfinished">Open...</translation>
+      <translation>Открыть...</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="231"/>
@@ -13366,61 +13366,61 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="363"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="363"/>
       <source>If the current draw reported by the vehicle is largely different than the current read externally using a current meter you can adjust the amps per volt value to correct this. </source>
-      <translation type="unfinished">If the current draw reported by the vehicle is largely different than the current read externally using a current meter you can adjust the amps per volt value to correct this. </translation>
+      <translation>Если потребляемый аппаратом ток сильно отличается от тока, считываемого с помощью амперметра, то вы можете подобрать значение ампер на вольт, чтобы исправить значение. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="110"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="110"/>
       <source>ESC PWM Minimum and Maximum Calibration</source>
-      <translation type="unfinished">ESC PWM Minimum and Maximum Calibration</translation>
+      <translation>Калибровка ESC PWM Минимум-Максимум</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="120"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="120"/>
       <source>WARNING: Propellers must be removed from vehicle prior to performing ESC calibration.</source>
-      <translation type="unfinished">WARNING: Propellers must be removed from vehicle prior to performing ESC calibration.</translation>
+      <translation>ПРЕДУПРЕЖДЕНИЕ: Перед проведением калибровки ESC следует снять пропеллеры с аппарата.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="125"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="125"/>
       <source>You must use USB connection for this operation.</source>
-      <translation type="unfinished">You must use USB connection for this operation.</translation>
+      <translation>Для этой операции необходимо использовать USB-подключение.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="129"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="129"/>
       <source>Calibrate</source>
-      <translation type="unfinished">Calibrate</translation>
+      <translation>Калибровать</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="138"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="138"/>
       <source>Show UAVCAN Settings</source>
-      <translation type="unfinished">Show UAVCAN Settings</translation>
+      <translation>Показать настройки UAVCAN</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="144"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="144"/>
       <source>UAVCAN Bus Configuration</source>
-      <translation type="unfinished">UAVCAN Bus Configuration</translation>
+      <translation>Конфигурация шины UAVCAN</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="160"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="160"/>
       <source>Change required restart</source>
-      <translation type="unfinished">Change required restart</translation>
+      <translation>Изменения требуют перезагрузки</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="167"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="167"/>
       <source>UAVCAN Motor Index and Direction Assignment</source>
-      <translation type="unfinished">UAVCAN Motor Index and Direction Assignment</translation>
+      <translation>Назначение индекса и направления моторов UAVCAN</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="178"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="178"/>
       <source>WARNING: Propellers must be removed from vehicle prior to performing UAVCAN ESC configuration.</source>
-      <translation type="unfinished">WARNING: Propellers must be removed from vehicle prior to performing UAVCAN ESC configuration.</translation>
+      <translation>ПРЕДУПРЕЖДЕНИЕ: Перед проведением калибровки UAVCAN ESC следует снять пропеллеры с аппарата.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="184"/>
