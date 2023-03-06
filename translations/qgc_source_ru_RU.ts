@@ -13426,77 +13426,77 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="184"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="184"/>
       <source>ESC parameters will only be accessible in the editor after assignment.</source>
-      <translation type="unfinished">ESC parameters will only be accessible in the editor after assignment.</translation>
+      <translation>Параметры ESC будут доступны в редакторе после назначения.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="190"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="190"/>
       <source>Start the process, then turn each motor into its turn direction, in the order of their motor indices.</source>
-      <translation type="unfinished">Start the process, then turn each motor into its turn direction, in the order of their motor indices.</translation>
+      <translation>Запустите процесс, затем поверните каждый двигатель в нужном направлении в порядке их индексов.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="195"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="195"/>
       <source>Start Assignment</source>
-      <translation type="unfinished">Start Assignment</translation>
+      <translation>Начать назначение</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="201"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="201"/>
       <source>Stop Assignment</source>
-      <translation type="unfinished">Stop Assignment</translation>
+      <translation>Остановить назначение</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="371"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="371"/>
       <source>Show Advanced Settings</source>
-      <translation type="unfinished">Show Advanced Settings</translation>
+      <translation>Показать расширенные настройки</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="375"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="375"/>
       <source>Voltage Drop on Full Load (per cell)</source>
-      <translation type="unfinished">Voltage Drop on Full Load (per cell)</translation>
+      <translation>Падение напряжения при полной нагрузке (на ячейку)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="391"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="391"/>
       <source>Batteries show less voltage at high throttle. Enter the difference in Volts between idle throttle and full </source>
-      <translation type="unfinished">Batteries show less voltage at high throttle. Enter the difference in Volts between idle throttle and full </translation>
+      <translation>Батареи показывают меньшее напряжение при высоком уровне газа. Введите разницу в вольтах между холостым ходом и максимальном уровне газа </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="392"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="392"/>
       <source>throttle, divided by the number of battery cells. Leave at the default if unsure. </source>
-      <translation type="unfinished">throttle, divided by the number of battery cells. Leave at the default if unsure. </translation>
+      <translation>уровень газа, деленный на количество элементов батареи. Оставьте значение по умолчанию, если не уверены. </translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="393"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="393"/>
       <source>If this value is set too high, the battery might be deep discharged and damaged.</source>
-      <translation type="unfinished">If this value is set too high, the battery might be deep discharged and damaged.</translation>
+      <translation>Если это значение установлено слишком высоко, батарея может быть разряжена и повреждена.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="398"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="398"/>
       <source>Compensated Minimum Voltage:</source>
-      <translation type="unfinished">Compensated Minimum Voltage:</translation>
+      <translation>Компенсированный минимальный вольтаж:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="402"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.qml" line="402"/>
       <source> V</source>
-      <translation type="unfinished"> V</translation>
+      <translation> В</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.cc" line="19"/>
       <source>Power</source>
-      <translation type="unfinished">Power</translation>
+      <translation>Электропитание</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponent.cc" line="30"/>
       <source>Power Setup is used to setup battery parameters as well as advanced settings for propellers.</source>
-      <translation type="unfinished">Power Setup is used to setup battery parameters as well as advanced settings for propellers.</translation>
+      <translation>Настройка питания используется для настройки параметров батареи, а также дополнительных настроек для пропеллеров.</translation>
     </message>
   </context>
   <context>
@@ -13505,19 +13505,19 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="37"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="37"/>
       <source>Battery Full</source>
-      <translation type="unfinished">Battery Full</translation>
+      <translation>Батарея заряжена</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="42"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="42"/>
       <source>Battery Empty</source>
-      <translation type="unfinished">Battery Empty</translation>
+      <translation>Батарея разряжена</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="47"/>
       <location filename="../src/AutoPilotPlugins/PX4/PowerComponentSummary.qml" line="47"/>
       <source>Number of Cells</source>
-      <translation type="unfinished">Number of Cells</translation>
+      <translation>Количество Ячеек</translation>
     </message>
   </context>
   <context>
@@ -13525,22 +13525,22 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/FlightDisplay/PreFlightBatteryCheck.qml" line="18"/>
       <source>Battery</source>
-      <translation type="unfinished">Battery</translation>
+      <translation>Батарея</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightBatteryCheck.qml" line="19"/>
       <source>Battery connector firmly plugged?</source>
-      <translation type="unfinished">Battery connector firmly plugged?</translation>
+      <translation>Аккумулятор крепко подсоединен?</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightBatteryCheck.qml" line="22"/>
       <source>Warning - Battery charge below %1%.</source>
-      <translation type="unfinished">Warning - Battery charge below %1%.</translation>
+      <translation>Предупреждение - заряд батареи ниже %1%.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightBatteryCheck.qml" line="23"/>
       <source>Battery charge below %1%. Please recharge.</source>
-      <translation type="unfinished">Battery charge below %1%. Please recharge.</translation>
+      <translation>Батарея разряжена ниже %1%. Пожалуйста, зарядите батарею.</translation>
     </message>
   </context>
   <context>
@@ -13548,7 +13548,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/QmlControls/PreFlightCheckButton.qml" line="54"/>
       <source>Passed</source>
-      <translation type="unfinished">Passed</translation>
+      <translation>Проверено</translation>
     </message>
   </context>
   <context>
@@ -13556,7 +13556,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/QmlControls/PreFlightCheckGroup.qml" line="50"/>
       <source> (passed)</source>
-      <translation type="unfinished"> (passed)</translation>
+      <translation> (проверено)</translation>
     </message>
   </context>
   <context>
@@ -13564,27 +13564,27 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/QmlControls/PreFlightCheckList.qml" line="81"/>
       <source>Pre-Flight Checklist %1</source>
-      <translation type="unfinished">Pre-Flight Checklist %1</translation>
+      <translation>Предполетный чек-лист %1</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/PreFlightCheckList.qml" line="81"/>
       <source>(passed)</source>
-      <translation type="unfinished">(passed)</translation>
+      <translation>(проверено)</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/PreFlightCheckList.qml" line="93"/>
       <source>Reset the checklist (e.g. after a vehicle reboot)</source>
-      <translation type="unfinished">Reset the checklist (e.g. after a vehicle reboot)</translation>
+      <translation>Сбросить чек-лист (например, после перезагрузки автомобиля)</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightCheckList.qml" line="134"/>
       <source>(Passed)</source>
-      <translation type="unfinished">(Passed)</translation>
+      <translation>(Проверено)</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightCheckList.qml" line="134"/>
       <source>In Progress</source>
-      <translation type="unfinished">In Progress</translation>
+      <translation>В процессе</translation>
     </message>
   </context>
   <context>
@@ -13592,7 +13592,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/FlightDisplay/PreFlightCheckListShowAction.qml" line="14"/>
       <source>Checklist</source>
-      <translation type="unfinished">Checklist</translation>
+      <translation>Чек-лист</translation>
     </message>
   </context>
   <context>
@@ -13600,22 +13600,22 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/FlightDisplay/PreFlightGPSCheck.qml" line="17"/>
       <source>GPS</source>
-      <translation type="unfinished">GPS</translation>
+      <translation>GPS</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightGPSCheck.qml" line="20"/>
       <source>Waiting for 3D lock.</source>
-      <translation type="unfinished">Waiting for 3D lock.</translation>
+      <translation>Ожидание захвата Gps.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightGPSCheck.qml" line="31"/>
       <source>Warning - Sat count below %1.</source>
-      <translation type="unfinished">Warning - Sat count below %1.</translation>
+      <translation>Предупреждение - Кол-во спутников ниже %1.</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightGPSCheck.qml" line="31"/>
       <source>Waiting for sat count above %1.</source>
-      <translation type="unfinished">Waiting for sat count above %1.</translation>
+      <translation>Ждем, пока кол-во спутников превысит %1.</translation>
     </message>
   </context>
   <context>
@@ -13623,7 +13623,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/FlightDisplay/PreFlightRCCheck.qml" line="17"/>
       <source>Radio Control</source>
-      <translation type="unfinished">Radio Control</translation>
+      <translation>Радио управление</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/PreFlightRCCheck.qml" line="18"/>
