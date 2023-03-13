@@ -14690,86 +14690,86 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="61"/>
       <source>Center your sticks and move throttle all the way down, then press Ok to copy trims. After pressing Ok, reset the trims on your radio back to zero.</source>
-      <translation type="unfinished">Center your sticks and move throttle all the way down, then press Ok to copy trims. After pressing Ok, reset the trims on your radio back to zero.</translation>
+      <translation>Выровняйте стики и переместите газ до упора вниз, затем нажмите Ok, чтобы скопировать тримы. После нажатия кнопки Ok сбросьте настройки вашего радиоприемника обратно на ноль.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="72"/>
       <source>Before calibrating you should zero all your trims and subtrims. Click Ok to start Calibration.
 
 %1</source>
-      <translation type="unfinished">Before calibrating you should zero all your trims and subtrims. Click Ok to start Calibration.
+      <translation>Перед калибровкой вы должны обнулить все ваши тримы и субтримы. Нажмите Ок, чтобы начать калибровку.
 
 %1</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="73"/>
       <source>Please ensure all motor power is disconnected AND all props are removed from the vehicle.</source>
-      <translation type="unfinished">Please ensure all motor power is disconnected AND all props are removed from the vehicle.</translation>
+      <translation>Убедитесь, что питание моторов отключено и все пропеллеры сняты с аппарата.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="84"/>
       <source>Please turn on transmitter.</source>
-      <translation type="unfinished">Please turn on transmitter.</translation>
+      <translation>Пожалуйста, включите передатчик.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="84"/>
       <source>%1 channels or more are needed to fly.</source>
-      <translation type="unfinished">%1 channels or more are needed to fly.</translation>
+      <translation>Для полета необходимы %1 или более каналов.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="110"/>
       <source>Click Ok to place your Spektrum receiver in the bind mode. Select the specific receiver type below:</source>
-      <translation type="unfinished">Click Ok to place your Spektrum receiver in the bind mode. Select the specific receiver type below:</translation>
+      <translation>Нажмите OK, чтобы включить приемник Spektrum в режиме привязки. Выберите тип приемника ниже:</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="114"/>
       <source>DSM2 Mode</source>
-      <translation type="unfinished">DSM2 Mode</translation>
+      <translation>Режим DSM2</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="120"/>
       <source>DSMX (7 channels or less)</source>
-      <translation type="unfinished">DSMX (7 channels or less)</translation>
+      <translation>DSMX (7 каналов или меньше)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="127"/>
       <source>DSMX (8 channels or more)</source>
-      <translation type="unfinished">DSMX (8 channels or more)</translation>
+      <translation>DSMX (8 каналов или более)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="183"/>
       <source>Not Mapped</source>
-      <translation type="unfinished">Not Mapped</translation>
+      <translation>Не сопоставлено</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="209"/>
       <source>Attitude Controls</source>
-      <translation type="unfinished">Attitude Controls</translation>
+      <translation>Управление высотой</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="217"/>
       <source>Roll</source>
-      <translation type="unfinished">Roll</translation>
+      <translation>Крен Roll</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="246"/>
       <source>Pitch</source>
-      <translation type="unfinished">Pitch</translation>
+      <translation>Тангаж Pitch</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="275"/>
       <source>Yaw</source>
-      <translation type="unfinished">Yaw</translation>
+      <translation>Рысканье yaw</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="304"/>
       <source>Throttle</source>
-      <translation type="unfinished">Throttle</translation>
+      <translation>Газ</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="332"/>
       <source>Skip</source>
-      <translation type="unfinished">Skip</translation>
+      <translation>Пропустить</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/RadioComponent.qml" line="338"/>
@@ -15079,17 +15079,17 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
       <location filename="../src/SHPFileHelper.cc" line="79"/>
       <source>SHPOpen failed.</source>
-      <translation type="unfinished">SHPOpen failed.</translation>
+      <translation>Ошибка SHPOpen.</translation>
     </message>
     <message>
       <location filename="../src/SHPFileHelper.cc" line="101"/>
       <source>More than one entity found.</source>
-      <translation type="unfinished">More than one entity found.</translation>
+      <translation>Найдено более одного объекта.</translation>
     </message>
     <message>
       <location filename="../src/SHPFileHelper.cc" line="105"/>
       <source>No supported types found.</source>
-      <translation type="unfinished">No supported types found.</translation>
+      <translation>Поддерживаемых файлов не найдено.</translation>
     </message>
     <message>
       <location filename="../src/SHPFileHelper.cc" line="133"/>
@@ -15607,61 +15607,61 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="206"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="206"/>
       <source>Calibration Cancel</source>
-      <translation type="unfinished">Calibration Cancel</translation>
+      <translation>Отмена калибровки</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="214"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="214"/>
       <source>Sensor Calibration</source>
-      <translation type="unfinished">Sensor Calibration</translation>
+      <translation>Калибровка датчиков</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="214"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="214"/>
       <source>Performing sensor calibration over a WiFi connection is known to be unreliable. You should disconnect and perform calibration using a direct USB connection instead.</source>
-      <translation type="unfinished">Performing sensor calibration over a WiFi connection is known to be unreliable. You should disconnect and perform calibration using a direct USB connection instead.</translation>
+      <translation>Проведение калибровки датчика по WiFi, как известно, является ненадежным. Вам следует отключиться и выполнить калибровку с помощью прямого подключения USB.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="222"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="222"/>
       <source>Waiting for Vehicle to response to Cancel. This may take a few seconds.</source>
-      <translation type="unfinished">Waiting for Vehicle to response to Cancel. This may take a few seconds.</translation>
+      <translation>Ожидаем ответа аппарата для отмены. Это может занять несколько секунд.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="272"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="272"/>
       <source>Set autopilot orientation before calibrating.</source>
-      <translation type="unfinished">Set autopilot orientation before calibrating.</translation>
+      <translation>Установите ориентацию автопилота перед калибровкой.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="332"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="332"/>
       <source>Reboot Vehicle</source>
-      <translation type="unfinished">Reboot Vehicle</translation>
+      <translation>Перезагрузить аппарат</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="44"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="44"/>
       <source>For Compass calibration you will need to rotate your vehicle through a number of positions.</source>
-      <translation type="unfinished">For Compass calibration you will need to rotate your vehicle through a number of positions.</translation>
+      <translation>Для калибровки компаса вам понадобится повернуть аппарат в несколько позиций.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="45"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="45"/>
       <source>For Gyroscope calibration you will need to place your vehicle on a surface and leave it still.</source>
-      <translation type="unfinished">For Gyroscope calibration you will need to place your vehicle on a surface and leave it still.</translation>
+      <translation>Для калибровки гироскопа вам понадобится установить аппарат на плоскую поверхность и оставить неподвижным.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="46"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="46"/>
       <source>For Accelerometer calibration you will need to place your vehicle on all six sides on a perfectly level surface and hold it still in each orientation for a few seconds.</source>
-      <translation type="unfinished">For Accelerometer calibration you will need to place your vehicle on all six sides on a perfectly level surface and hold it still in each orientation for a few seconds.</translation>
+      <translation>Для калибровки акселерометра вам понадобится устанавливать аппарат на 6 его сторон на идеально горизонтальной поверхности и держать его в каждом положении несколько секунд.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="47"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="47"/>
       <source>To level the horizon you need to place the vehicle in its level flight position and leave still.</source>
-      <translation type="unfinished">To level the horizon you need to place the vehicle in its level flight position and leave still.</translation>
+      <translation>Чтобы выровнять горизонт, вам необходимо установить дрон в горизонтальное положение и нажать "Ок".</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="278"/>
@@ -15669,25 +15669,25 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="278"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="353"/>
       <source>Autopilot Orientation</source>
-      <translation type="unfinished">Autopilot Orientation</translation>
+      <translation>Ориентация полетного контроллера</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="289"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="289"/>
       <source>ROTATION_NONE indicates component points in direction of flight.</source>
-      <translation type="unfinished">ROTATION_NONE indicates component points in direction of flight.</translation>
+      <translation>ROTATION_NONE указывает на составляющие точки в направлении полета.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="296"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="296"/>
       <source>Click Ok to start calibration.</source>
-      <translation type="unfinished">Click Ok to start calibration.</translation>
+      <translation>Нажмите OK, чтобы начать калибровку.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="327"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="327"/>
       <source>Reboot the vehicle prior to flight.</source>
-      <translation type="unfinished">Reboot the vehicle prior to flight.</translation>
+      <translation>Перезагрузите автомобиль перед полетом.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="343"/>
@@ -15695,51 +15695,51 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
       <source>Adjust orientations as needed.
 
 ROTATION_NONE indicates component points in direction of flight.</source>
-      <translation type="unfinished">Adjust orientations as needed.
+      <translation>Настройте ориентацию по мере необходимости.
 
-ROTATION_NONE indicates component points in direction of flight.</translation>
+ROTATION_NONE указывает точки компонента в направлении полета.</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="374"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="374"/>
       <source>Mag %1 Orientation</source>
-      <translation type="unfinished">Mag %1 Orientation</translation>
+      <translation>Маг %1 ориентация</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="403"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="403"/>
       <source>Compass</source>
-      <translation type="unfinished">Compass</translation>
+      <translation>Компас</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="410"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="410"/>
       <source>Calibrate Compass</source>
-      <translation type="unfinished">Calibrate Compass</translation>
+      <translation>Калибровка компаса</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="417"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="417"/>
       <source>Gyroscope</source>
-      <translation type="unfinished">Gyroscope</translation>
+      <translation>Гироскоп</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="424"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="424"/>
       <source>Calibrate Gyro</source>
-      <translation type="unfinished">Calibrate Gyro</translation>
+      <translation>Калибровка гироскопа</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="431"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="431"/>
       <source>Accelerometer</source>
-      <translation type="unfinished">Accelerometer</translation>
+      <translation>Акселерометр</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="438"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="438"/>
       <source>Calibrate Accelerometer</source>
-      <translation type="unfinished">Calibrate Accelerometer</translation>
+      <translation>Калибровка акселерометра</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="445"/>
@@ -15747,43 +15747,43 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="445"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="453"/>
       <source>Level Horizon</source>
-      <translation type="unfinished">Level Horizon</translation>
+      <translation>Выставление горизонта</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="460"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="460"/>
       <source>Airspeed</source>
-      <translation type="unfinished">Airspeed</translation>
+      <translation>Воздушная скорость</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="471"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="471"/>
       <source>Calibrate Airspeed</source>
-      <translation type="unfinished">Calibrate Airspeed</translation>
+      <translation>Калибровка датчика Воздушной скорости</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="478"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="478"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Отмена</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="487"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="487"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Далее</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="495"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="495"/>
       <source>Orientations</source>
-      <translation type="unfinished">Orientations</translation>
+      <translation>Ориентации</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="501"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="501"/>
       <source>Set Orientations</source>
-      <translation type="unfinished">Set Orientations</translation>
+      <translation>Установка Ориентаций</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="576"/>
@@ -15799,7 +15799,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="612"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="621"/>
       <source>Rotate</source>
-      <translation type="unfinished">Rotate</translation>
+      <translation>Повернуть</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="576"/>
@@ -15815,13 +15815,13 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="612"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="621"/>
       <source>Hold Still</source>
-      <translation type="unfinished">Hold Still</translation>
+      <translation>Удерживайте неподвижно</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="628"/>
       <location filename="../src/AutoPilotPlugins/PX4/SensorsSetup.qml" line="628"/>
       <source>Factory reset</source>
-      <translation type="unfinished">Factory reset</translation>
+      <translation>Сброс на заводские настройки</translation>
     </message>
   </context>
   <context>
@@ -15829,7 +15829,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/comm/SerialLink.h" line="83"/>
       <source>Serial Link Settings</source>
-      <translation type="unfinished">Serial Link Settings</translation>
+      <translation>Настройки последовательного соединения</translation>
     </message>
   </context>
   <context>
@@ -15837,22 +15837,22 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/comm/SerialLink.cc" line="75"/>
       <source>Could not send data - link %1 is disconnected!</source>
-      <translation type="unfinished">Could not send data - link %1 is disconnected!</translation>
+      <translation>Не удалось отправить данные - соединение %1 отключено!</translation>
     </message>
     <message>
       <location filename="../src/comm/SerialLink.cc" line="121"/>
       <source>Error connecting: Could not create port. %1</source>
-      <translation type="unfinished">Error connecting: Could not create port. %1</translation>
+      <translation>Ошибка соединения: Не удалось создать порт. %1</translation>
     </message>
     <message>
       <location filename="../src/comm/SerialLink.cc" line="244"/>
       <source>Could not read data - link %1 is disconnected!</source>
-      <translation type="unfinished">Could not read data - link %1 is disconnected!</translation>
+      <translation>Не удалось прочитать данные - соединение %1 отключено!</translation>
     </message>
     <message>
       <location filename="../src/comm/SerialLink.cc" line="282"/>
       <source>Link Error</source>
-      <translation type="unfinished">Link Error</translation>
+      <translation>Ошибка соединения</translation>
     </message>
   </context>
   <context>
@@ -15860,62 +15860,62 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="92"/>
       <source>Baud rate name not in combo box</source>
-      <translation type="unfinished">Baud rate name not in combo box</translation>
+      <translation>Baud rate нет в комбо</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="114"/>
       <source>Enable Flow Control</source>
-      <translation type="unfinished">Enable Flow Control</translation>
+      <translation>Включить управление потоком</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="31"/>
       <source>Serial Port</source>
-      <translation type="unfinished">Serial Port</translation>
+      <translation>Последовательный порт</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="65"/>
       <source>None Available</source>
-      <translation type="unfinished">None Available</translation>
+      <translation>Нет доступных</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="73"/>
       <source>Baud Rate</source>
-      <translation type="unfinished">Baud Rate</translation>
+      <translation>Скорость передачи</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="102"/>
       <source>Advanced Settings</source>
-      <translation type="unfinished">Advanced Settings</translation>
+      <translation>Расширенные настройки</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="119"/>
       <source>Parity</source>
-      <translation type="unfinished">Parity</translation>
+      <translation>Контроль чётности</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="122"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Нет</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="122"/>
       <source>Even</source>
-      <translation type="unfinished">Even</translation>
+      <translation>Чет</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="122"/>
       <source>Odd</source>
-      <translation type="unfinished">Odd</translation>
+      <translation>Нечет</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="157"/>
       <source>Data Bits</source>
-      <translation type="unfinished">Data Bits</translation>
+      <translation>Биты данных</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/SerialSettings.qml" line="165"/>
       <source>Stop Bits</source>
-      <translation type="unfinished">Stop Bits</translation>
+      <translation>Стоп-биты</translation>
     </message>
   </context>
   <context>
@@ -15923,7 +15923,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SetupPage.qml" line="42"/>
       <source>armed</source>
-      <translation type="unfinished">armed</translation>
+      <translation>активирован (Arm)</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/Common/SetupPage.qml" line="42"/>
@@ -16198,114 +16198,114 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="100"/>
       <source>Grid</source>
-      <translation type="unfinished">Grid</translation>
+      <translation>Сетка</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="101"/>
       <source>Camera</source>
-      <translation type="unfinished">Camera</translation>
+      <translation>Камера</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="113"/>
       <source>Note: Polygon respresents structure surface not vehicle flight path.</source>
-      <translation type="unfinished">Note: Polygon respresents structure surface not vehicle flight path.</translation>
+      <translation>Примечание: Полигон представляет собой поверхность конструкции, а не траекторию полета аппарата.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="121"/>
       <source>WARNING: Photo interval is below minimum interval (%1 secs) supported by camera.</source>
-      <translation type="unfinished">WARNING: Photo interval is below minimum interval (%1 secs) supported by camera.</translation>
+      <translation>ВНИМАНИЕ: Интервал фотографий ниже минимального интервала (%1 сек), поддерживаемого камерой.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="130"/>
       <source>Scan Distance</source>
-      <translation type="unfinished">Scan Distance</translation>
+      <translation>Расстояние сканирования</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="131"/>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="222"/>
       <source>Layer Height</source>
-      <translation type="unfinished">Layer Height</translation>
+      <translation>Высота слоя</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="132"/>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="237"/>
       <source>Trigger Distance</source>
-      <translation type="unfinished">Trigger Distance</translation>
+      <translation>Дистанция срабатывания</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="139"/>
       <source>Scan</source>
-      <translation type="unfinished">Scan</translation>
+      <translation>Сканировать</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="158"/>
       <source>Start Scan From Bottom</source>
-      <translation type="unfinished">Start Scan From Bottom</translation>
+      <translation>Начать сканирование снизу</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="158"/>
       <source>Start Scan From Top</source>
-      <translation type="unfinished">Start Scan From Top</translation>
+      <translation>Начать сканирование сверху</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="164"/>
       <source>Structure Height</source>
-      <translation type="unfinished">Structure Height</translation>
+      <translation>Высота конструкции</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="171"/>
       <source>Scan Bottom Alt</source>
-      <translation type="unfinished">Scan Bottom Alt</translation>
+      <translation>Сканировать Нижн. Alt</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="178"/>
       <source>Entrance/Exit Alt</source>
-      <translation type="unfinished">Entrance/Exit Alt</translation>
+      <translation>Вх./Вых. Alt</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="186"/>
       <source>Gimbal Pitch</source>
-      <translation type="unfinished">Gimbal Pitch</translation>
+      <translation>Наклон подвеса</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="202"/>
       <source>Rotate entry point</source>
-      <translation type="unfinished">Rotate entry point</translation>
+      <translation>Повернуть точку входа</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="211"/>
       <source>Statistics</source>
-      <translation type="unfinished">Statistics</translation>
+      <translation>Статистика</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="219"/>
       <source>Layers</source>
-      <translation type="unfinished">Layers</translation>
+      <translation>Слои</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="225"/>
       <source>Top Layer Alt</source>
-      <translation type="unfinished">Top Layer Alt</translation>
+      <translation>Верхний слой Alt</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="228"/>
       <source>Bottom Layer Alt</source>
-      <translation type="unfinished">Bottom Layer Alt</translation>
+      <translation>Нижний слой Alt</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="231"/>
       <source>Photo Count</source>
-      <translation type="unfinished">Photo Count</translation>
+      <translation>Счетчик фото</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="234"/>
       <source>Photo Interval</source>
-      <translation type="unfinished">Photo Interval</translation>
+      <translation>Интервал фото</translation>
     </message>
     <message>
       <location filename="../src/PlanView/StructureScanEditor.qml" line="235"/>
       <source>secs</source>
-      <translation type="unfinished">secs</translation>
+      <translation>сек.</translation>
     </message>
   </context>
   <context>
@@ -16313,67 +16313,67 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="25"/>
       <source>Submarine Initial checks</source>
-      <translation type="unfinished">Submarine Initial checks</translation>
+      <translation>Первоначальные проверки подводной лодки</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="28"/>
       <source>Hardware</source>
-      <translation type="unfinished">Hardware</translation>
+      <translation>Оборудование</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="29"/>
       <source>All seals in place?</source>
-      <translation type="unfinished">All seals in place?</translation>
+      <translation>Все пломбы на месте?</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="50"/>
       <source>Please arm the vehicle here</source>
-      <translation type="unfinished">Please arm the vehicle here</translation>
+      <translation>Пожалуйста, включите (Arm) аппарат здесь</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="53"/>
       <source>Actuators</source>
-      <translation type="unfinished">Actuators</translation>
+      <translation>Актюаторы</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="54"/>
       <source>Move all control surfaces. Did they work properly?</source>
-      <translation type="unfinished">Move all control surfaces. Did they work properly?</translation>
+      <translation>Подвигайте всеми управляющими поверхностями. Они работают правильно?</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="58"/>
       <source>Motors</source>
-      <translation type="unfinished">Motors</translation>
+      <translation>Моторы</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="59"/>
       <source>Propellers free? Then throttle up gently. Working properly?</source>
-      <translation type="unfinished">Propellers free? Then throttle up gently. Working properly?</translation>
+      <translation>Нет препятствий для пропеллеров? Затем плавно добавьте газ. Работает правильно?</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="63"/>
       <source>Mission</source>
-      <translation type="unfinished">Mission</translation>
+      <translation>Миссия</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="64"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation type="unfinished">Please confirm mission is valid (waypoints valid, no terrain collision).</translation>
+      <translation>Подтвердите корректность миссии (правильные путевые точки, нет препятствий).</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="72"/>
       <source>Last preparations before launch</source>
-      <translation type="unfinished">Last preparations before launch</translation>
+      <translation>Последние приготовления перед запуском</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="76"/>
       <source>Payload</source>
-      <translation type="unfinished">Payload</translation>
+      <translation>Полезная нагрузка</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/SubChecklist.qml" line="77"/>
       <source>Configured and started? Payload lid closed?</source>
-      <translation type="unfinished">Configured and started? Payload lid closed?</translation>
+      <translation>Настроен и запущен? Крышка полезной нагрузки закрыта?</translation>
     </message>
   </context>
   <context>
@@ -16381,30 +16381,30 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/MissionManager/SurveyComplexItem.cc" line="169"/>
       <source>Survey items do not support version %1</source>
-      <translation type="unfinished">Survey items do not support version %1</translation>
+      <translation>Элементы опроса не поддерживают версию %1</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SurveyComplexItem.cc" line="226"/>
       <location filename="../src/MissionManager/SurveyComplexItem.cc" line="282"/>
       <source>%1 does not support loading this complex mission item type: %2:%3</source>
-      <translation type="unfinished">%1 does not support loading this complex mission item type: %2:%3</translation>
+      <translation>%1 не поддерживает загрузку этого сложного типа миссии: %2:%3</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SurveyComplexItem.cc" line="330"/>
       <source>%1 but %2 object is missing</source>
-      <translation type="unfinished">%1 but %2 object is missing</translation>
+      <translation>%1 но %2 объекта отсутствует</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SurveyComplexItem.cc" line="25"/>
       <location filename="../src/MissionManager/SurveyComplexItem.h" line="58"/>
       <location filename="../src/MissionManager/SurveyComplexItem.h" line="59"/>
       <source>Survey</source>
-      <translation type="unfinished">Survey</translation>
+      <translation>Опрос</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SurveyComplexItem.h" line="60"/>
       <source>S</source>
-      <translation type="unfinished">S</translation>
+      <translation>Ю</translation>
     </message>
   </context>
   <context>
@@ -16412,47 +16412,47 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="18"/>
       <source>Use the Polygon Tools to create the polygon which outlines your survey area.</source>
-      <translation type="unfinished">Use the Polygon Tools to create the polygon which outlines your survey area.</translation>
+      <translation>Используйте Инструменты Полигона для создания многоугольника, который очерчивает структуру.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="19"/>
       <source>Transects</source>
-      <translation type="unfinished">Transects</translation>
+      <translation>Пересечения</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="39"/>
       <source>Angle</source>
-      <translation type="unfinished">Angle</translation>
+      <translation>Угол</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="61"/>
       <source>Turnaround dist</source>
-      <translation type="unfinished">Turnaround dist</translation>
+      <translation>Расстояние поворота</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="77"/>
       <source>Hover and capture image</source>
-      <translation type="unfinished">Hover and capture image</translation>
+      <translation>Наведите и сделайте снимок</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="83"/>
       <source>Refly at 90 deg offset</source>
-      <translation type="unfinished">Refly at 90 deg offset</translation>
+      <translation>Повторите попытку со смещением на 90 градусов</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="89"/>
       <source>Images in turnarounds</source>
-      <translation type="unfinished">Images in turnarounds</translation>
+      <translation>Изображения при разворотах</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="95"/>
       <source>Fly alternate transects</source>
-      <translation type="unfinished">Fly alternate transects</translation>
+      <translation>Полет альтернативными путями</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SurveyItemEditor.qml" line="107"/>
       <source>Select Polygon File</source>
-      <translation type="unfinished">Select Polygon File</translation>
+      <translation>Выберите файл Полигона</translation>
     </message>
   </context>
   <context>
@@ -16460,7 +16460,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/Vehicle/SysStatusSensorInfo.cc" line="103"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Ошибка</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/SysStatusSensorInfo.cc" line="111"/>
@@ -17305,57 +17305,57 @@ Confirm change?</translation>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="54"/>
       <source>Move all control surfaces. Did they work properly?</source>
-      <translation type="unfinished">Move all control surfaces. Did they work properly?</translation>
+      <translation>Подвигайте всеми управляющими поверхностями. Они работают правильно?</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="58"/>
       <source>Motors</source>
-      <translation type="unfinished">Motors</translation>
+      <translation>Моторы</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="59"/>
       <source>Propellers free? Then throttle up gently. Working properly?</source>
-      <translation type="unfinished">Propellers free? Then throttle up gently. Working properly?</translation>
+      <translation>Нет препятствий для пропеллеров? Затем плавно добавьте газ. Работает правильно?</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="63"/>
       <source>Mission</source>
-      <translation type="unfinished">Mission</translation>
+      <translation>Миссия</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="64"/>
       <source>Please confirm mission is valid (waypoints valid, no terrain collision).</source>
-      <translation type="unfinished">Please confirm mission is valid (waypoints valid, no terrain collision).</translation>
+      <translation>Подтвердите корректность миссии (правильные путевые точки, нет препятствий).</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="72"/>
       <source>Last preparations before launch</source>
-      <translation type="unfinished">Last preparations before launch</translation>
+      <translation>Последние приготовления перед запуском</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="76"/>
       <source>Payload</source>
-      <translation type="unfinished">Payload</translation>
+      <translation>Полезная нагрузка</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="77"/>
       <source>Configured and started? Payload lid closed?</source>
-      <translation type="unfinished">Configured and started? Payload lid closed?</translation>
+      <translation>Настроен и запущен? Крышка полезной нагрузки закрыта?</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="82"/>
       <source>OK for your platform? Lauching into the wind?</source>
-      <translation type="unfinished">OK for your platform? Lauching into the wind?</translation>
+      <translation>ОК для вашей платформы? Запуск в ветер?</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="86"/>
       <source>Flight area</source>
-      <translation type="unfinished">Flight area</translation>
+      <translation>Зона полетов</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VTOLChecklist.qml" line="87"/>
       <source>Launch area and path free of obstacles/people?</source>
-      <translation type="unfinished">Launch area and path free of obstacles/people?</translation>
+      <translation>Область запуска и путь свободен от препятствий и людей?</translation>
     </message>
   </context>
   <context>
@@ -17363,12 +17363,12 @@ Confirm change?</translation>
     <message>
       <location filename="../src/MissionManager/VTOLLandingComplexItem.cc" line="23"/>
       <source>VTOL Landing</source>
-      <translation type="unfinished">VTOL Landing</translation>
+      <translation>VTOL посадка</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/VTOLLandingComplexItem.cc" line="82"/>
       <source>%1 complex item version %2 not supported</source>
-      <translation type="unfinished">%1 complex item version %2 not supported</translation>
+      <translation>%1 сложный вариант элемента %2 не поддерживается</translation>
     </message>
   </context>
   <context>
@@ -17376,98 +17376,98 @@ Confirm change?</translation>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="40"/>
       <source>Set to vehicle heading</source>
-      <translation type="unfinished">Set to vehicle heading</translation>
+      <translation>Установить по направлению ЛА</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="41"/>
       <source>Set to vehicle location</source>
-      <translation type="unfinished">Set to vehicle location</translation>
+      <translation>Установить по координатам ЛА</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="58"/>
       <source>Final approach</source>
-      <translation type="unfinished">Final approach</translation>
+      <translation>Заключительный подход</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="70"/>
       <source>Use loiter to altitude</source>
-      <translation type="unfinished">Use loiter to altitude</translation>
+      <translation>Использовать зависание на высоте</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="80"/>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="142"/>
       <source>Altitude</source>
-      <translation type="unfinished">Altitude</translation>
+      <translation>Высота</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="89"/>
       <source>Radius</source>
-      <translation type="unfinished">Radius</translation>
+      <translation>Радиус</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="103"/>
       <source>Loiter clockwise</source>
-      <translation type="unfinished">Loiter clockwise</translation>
+      <translation>Вращаться по часовой стрелке</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="119"/>
       <source>Landing point</source>
-      <translation type="unfinished">Landing point</translation>
+      <translation>Точка посадки</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="135"/>
       <source>Heading</source>
-      <translation type="unfinished">Heading</translation>
+      <translation>Курс</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="150"/>
       <source>Landing Dist</source>
-      <translation type="unfinished">Landing Dist</translation>
+      <translation>Дистанция до посадки</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="170"/>
       <source>Altitudes relative to launch</source>
-      <translation type="unfinished">Altitudes relative to launch</translation>
+      <translation>Высота относительно точки старта</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="180"/>
       <source>Camera</source>
-      <translation type="unfinished">Camera</translation>
+      <translation>Камера</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="218"/>
       <source>* Actual flight path will vary.</source>
-      <translation type="unfinished">* Actual flight path will vary.</translation>
+      <translation>* Фактическая траектория полета будет отличаться.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="227"/>
       <source>* Avoid tailwind on approach to land.</source>
-      <translation type="unfinished">* Avoid tailwind on approach to land.</translation>
+      <translation>* Избегайте попутного ветра при заходе на посадку.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="236"/>
       <source>* Ensure landing distance is enough to complete transition.</source>
-      <translation type="unfinished">* Ensure landing distance is enough to complete transition.</translation>
+      <translation>* Убедитесь, что расстояние до посадки достаточно для завершения перехода.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="262"/>
       <source>Click in map to set landing point.</source>
-      <translation type="unfinished">Click in map to set landing point.</translation>
+      <translation>Нажмите на карту, чтобы установить точку посадки.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="269"/>
       <source>- or -</source>
-      <translation type="unfinished">- or -</translation>
+      <translation>- или -</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="301"/>
       <source>Drag the loiter point to adjust landing direction for wind and obstacles as well as distance to land point.</source>
-      <translation type="unfinished">Drag the loiter point to adjust landing direction for wind and obstacles as well as distance to land point.</translation>
+      <translation>Перетащите точку замедления (парения), чтобы настроить направление посадки с учетом ветра и препятствий, а также расстояние до точки приземления.</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternEditor.qml" line="305"/>
       <source>Done</source>
-      <translation type="unfinished">Done</translation>
+      <translation>Готово</translation>
     </message>
   </context>
   <context>
@@ -17475,17 +17475,17 @@ Confirm change?</translation>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternMapVisual.qml" line="238"/>
       <source>Loiter</source>
-      <translation type="unfinished">Loiter</translation>
+      <translation>Loiter (парить)</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternMapVisual.qml" line="238"/>
       <source>Approach</source>
-      <translation type="unfinished">Approach</translation>
+      <translation>Сближение</translation>
     </message>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternMapVisual.qml" line="259"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation>Посадка</translation>
     </message>
   </context>
   <context>
@@ -17493,22 +17493,22 @@ Confirm change?</translation>
     <message>
       <location filename="../src/ui/toolbar/VTOLModeIndicator.qml" line="24"/>
       <source>VTOL: FW</source>
-      <translation type="unfinished">VTOL: FW</translation>
+      <translation>VTOL: крыло</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/VTOLModeIndicator.qml" line="24"/>
       <source>VTOL: MR</source>
-      <translation type="unfinished">VTOL: MR</translation>
+      <translation>VTOL: МР</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/VTOLModeIndicator.qml" line="25"/>
       <source>VTOL: Fixed Wing</source>
-      <translation type="unfinished">VTOL: Fixed Wing</translation>
+      <translation>VTOL: Крыло</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/VTOLModeIndicator.qml" line="25"/>
       <source>VTOL: Multi-Rotor</source>
-      <translation type="unfinished">VTOL: Multi-Rotor</translation>
+      <translation>VTOL: Мульти-Ротор</translation>
     </message>
   </context>
   <context>
@@ -17516,58 +17516,58 @@ Confirm change?</translation>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="558"/>
       <source>MAVLink Generic</source>
-      <translation type="unfinished">MAVLink Generic</translation>
+      <translation>Общий MAVLink</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="565"/>
       <source>Airship</source>
-      <translation type="unfinished">Airship</translation>
+      <translation>Воздушное судно</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="567"/>
       <source>Fixed Wing</source>
-      <translation type="unfinished">Fixed Wing</translation>
+      <translation>Самолет</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="569"/>
       <source>Multi-Rotor</source>
-      <translation type="unfinished">Multi-Rotor</translation>
+      <translation>Мульти-ротор</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="571"/>
       <source>VTOL</source>
-      <translation type="unfinished">VTOL</translation>
+      <translation>VTOL</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="573"/>
       <source>Rover</source>
-      <translation type="unfinished">Rover</translation>
+      <translation>Ровер</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="575"/>
       <source>Sub</source>
-      <translation type="unfinished">Sub</translation>
+      <translation>Подлодка</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="577"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Неизвестно</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="866"/>
       <source> ... </source>
       <comment>Indicates missing chunk from chunked STATUS_TEXT</comment>
-      <translation type="unfinished"> ... </translation>
+      <translation> ... </translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2168"/>
       <source>Mission transfer failed. Error: %1</source>
-      <translation type="unfinished">Mission transfer failed. Error: %1</translation>
+      <translation>Передача миссии не удалась. Ошибка: %1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2174"/>
       <source>GeoFence transfer failed. Error: %1</source>
-      <translation type="unfinished">GeoFence transfer failed. Error: %1</translation>
+      <translation>Не удалось передать GeoFence. Ошибка: %1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/Vehicle.cc" line="2180"/>
@@ -17827,27 +17827,27 @@ Confirm change?</translation>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="155"/>
       <source>Sub</source>
-      <translation type="unfinished">Sub</translation>
+      <translation>Подлодка</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="157"/>
       <source>Multi-Rotor</source>
-      <translation type="unfinished">Multi-Rotor</translation>
+      <translation>Мульти-ротор</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="159"/>
       <source>VTOL</source>
-      <translation type="unfinished">VTOL</translation>
+      <translation>VTOL</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="161"/>
       <source>Generic</source>
-      <translation type="unfinished">Generic</translation>
+      <translation>Общие</translation>
     </message>
     <message>
       <location filename="../src/comm/QGCMAVLink.cc" line="163"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Неизвестно</translation>
     </message>
   </context>
   <context>
@@ -17855,49 +17855,49 @@ Confirm change?</translation>
     <message>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="62"/>
       <source>%1Communication regained on %2 link</source>
-      <translation type="unfinished">%1Communication regained on %2 link</translation>
+      <translation>%1 Связь восстановлена на %2</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="62"/>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="115"/>
       <source>primary</source>
-      <translation type="unfinished">primary</translation>
+      <translation>основной</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="62"/>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="115"/>
       <source>secondary</source>
-      <translation type="unfinished">secondary</translation>
+      <translation>дополнительный</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="64"/>
       <source>%1Communication regained</source>
-      <translation type="unfinished">%1Communication regained</translation>
+      <translation>Восстановлено связи %1</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="69"/>
       <source>%1Switching communication to new primary link</source>
-      <translation type="unfinished">%1Switching communication to new primary link</translation>
+      <translation>%1 переключение связи на новый основной канал</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="115"/>
       <source>%1Communication lost on %2 link.</source>
-      <translation type="unfinished">%1Communication lost on %2 link.</translation>
+      <translation>%1 связь потеряна на линке %2.</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="126"/>
       <source>%1Switching communication to secondary link.</source>
-      <translation type="unfinished">%1Switching communication to secondary link.</translation>
+      <translation>%1 переключение связи на новый основной канал.</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="146"/>
       <source>%1Communication lost</source>
-      <translation type="unfinished">%1Communication lost</translation>
+      <translation>%1 связь потеряна</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleLinkManager.cc" line="392"/>
       <source>Comm Lost</source>
-      <translation type="unfinished">Comm Lost</translation>
+      <translation>Связь потеряна</translation>
     </message>
   </context>
   <context>
@@ -17905,7 +17905,7 @@ Confirm change?</translation>
     <message>
       <location filename="../src/FlightMap/MapItems/VehicleMapItem.qml" line="89"/>
       <source>Vehicle %1</source>
-      <translation type="unfinished">Vehicle %1</translation>
+      <translation>Аппарат %1</translation>
     </message>
   </context>
   <context>
@@ -17913,17 +17913,17 @@ Confirm change?</translation>
     <message>
       <location filename="../src/QmlControls/VehicleRotationCal.qml" line="26"/>
       <source>Hold Still</source>
-      <translation type="unfinished">Hold Still</translation>
+      <translation>Удерживайте неподвижно</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/VehicleRotationCal.qml" line="58"/>
       <source>Completed</source>
-      <translation type="unfinished">Completed</translation>
+      <translation>Завершено</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/VehicleRotationCal.qml" line="58"/>
       <source>Incomplete</source>
-      <translation type="unfinished">Incomplete</translation>
+      <translation>Не завершённое</translation>
     </message>
   </context>
   <context>
@@ -17931,12 +17931,12 @@ Confirm change?</translation>
     <message>
       <location filename="../src/VehicleSetup/VehicleSummary.qml" line="87"/>
       <source>Below you will find a summary of the settings for your vehicle. To the left are the setup menus for each component.</source>
-      <translation type="unfinished">Below you will find a summary of the settings for your vehicle. To the left are the setup menus for each component.</translation>
+      <translation>Ниже вы найдете настройки для вашего аппарата. Слева находятся меню настройки для каждого компонента.</translation>
     </message>
     <message>
       <location filename="../src/VehicleSetup/VehicleSummary.qml" line="88"/>
       <source>WARNING: Your vehicle requires setup prior to flight. Please resolve the items marked in red using the menu on the left.</source>
-      <translation type="unfinished">WARNING: Your vehicle requires setup prior to flight. Please resolve the items marked in red using the menu on the left.</translation>
+      <translation>ПРЕДУПРЕЖДЕНИЕ: Ваш аппарат требует настройки перед полетом. Пожалуйста, исправьте пункты, отмеченные красным, используя меню слева.</translation>
     </message>
   </context>
   <context>
@@ -17944,12 +17944,12 @@ Confirm change?</translation>
     <message>
       <location filename="../src/FlightDisplay/VehicleWarnings.qml" line="37"/>
       <source>No GPS Lock for Vehicle</source>
-      <translation type="unfinished">No GPS Lock for Vehicle</translation>
+      <translation>Нет захвата GPS для ЛА</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/VehicleWarnings.qml" line="56"/>
       <source>The vehicle has failed a pre-arm check. In order to arm the vehicle, resolve the failure.</source>
-      <translation type="unfinished">The vehicle has failed a pre-arm check. In order to arm the vehicle, resolve the failure.</translation>
+      <translation>Аппарат не прошел проверку перед активацией (Arm). Чтобы активировать его, устраните неисправность.</translation>
     </message>
   </context>
   <context>
@@ -17957,47 +17957,47 @@ Confirm change?</translation>
     <message>
       <location filename="../src/AnalyzeView/VibrationPage.qml" line="26"/>
       <source>Analyze vibration associated with your vehicle.</source>
-      <translation type="unfinished">Analyze vibration associated with your vehicle.</translation>
+      <translation>Анализ вибрации, вашего аппарата.</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/VibrationPage.qml" line="74"/>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/VibrationPage.qml" line="96"/>
       <source>Y</source>
-      <translation type="unfinished">Y</translation>
+      <translation>Y</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/VibrationPage.qml" line="118"/>
       <source>Z</source>
-      <translation type="unfinished">Z</translation>
+      <translation>Z</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/VibrationPage.qml" line="139"/>
       <source>Clip count</source>
-      <translation type="unfinished">Clip count</translation>
+      <translation>Количество клипов</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/VibrationPage.qml" line="143"/>
       <source>Accel 1: </source>
-      <translation type="unfinished">Accel 1: </translation>
+      <translation>Accel 1: </translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/VibrationPage.qml" line="147"/>
       <source>Accel 2: </source>
-      <translation type="unfinished">Accel 2: </translation>
+      <translation>Accel 2: </translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/VibrationPage.qml" line="151"/>
       <source>Accel 3: </source>
-      <translation type="unfinished">Accel 3: </translation>
+      <translation>Accel 3: </translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/VibrationPage.qml" line="165"/>
       <source>Not Available</source>
-      <translation type="unfinished">Not Available</translation>
+      <translation>Недоступно</translation>
     </message>
   </context>
   <context>
@@ -18005,17 +18005,17 @@ Confirm change?</translation>
     <message>
       <location filename="../src/VideoManager/VideoManager.cc" line="288"/>
       <source>Video receiver is not ready.</source>
-      <translation type="unfinished">Video receiver is not ready.</translation>
+      <translation>Видеоприемник не готов.</translation>
     </message>
     <message>
       <location filename="../src/VideoManager/VideoManager.cc" line="295"/>
       <source>Invalid video format defined.</source>
-      <translation type="unfinished">Invalid video format defined.</translation>
+      <translation>Указан неверный формат видео.</translation>
     </message>
     <message>
       <location filename="../src/VideoManager/VideoManager.cc" line="306"/>
       <source>Unabled to record video. Video save path must be specified in Settings.</source>
-      <translation type="unfinished">Unabled to record video. Video save path must be specified in Settings.</translation>
+      <translation>Запись видео недоступна. Путь для сохранения видео должен быть указан в настройках.</translation>
     </message>
   </context>
   <context>
@@ -18023,22 +18023,22 @@ Confirm change?</translation>
     <message>
       <location filename="../src/Settings/VideoSettings.cc" line="22"/>
       <source>No Video Available</source>
-      <translation type="unfinished">No Video Available</translation>
+      <translation>Нет видео</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.cc" line="23"/>
       <source>Video Stream Disabled</source>
-      <translation type="unfinished">Video Stream Disabled</translation>
+      <translation>Видеопоток отключен</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.cc" line="24"/>
       <source>RTSP Video Stream</source>
-      <translation type="unfinished">RTSP Video Stream</translation>
+      <translation>RTSP Видео Поток</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.cc" line="25"/>
       <source>UDP h.264 Video Stream</source>
-      <translation type="unfinished">UDP h.264 Video Stream</translation>
+      <translation>UDP h.264 Видео поток</translation>
     </message>
     <message>
       <location filename="../src/Settings/VideoSettings.cc" line="26"/>
