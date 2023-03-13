@@ -7139,7 +7139,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
       <source>Area</source>
-      <translation>Район</translation>
+      <translation>Площадь</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
@@ -7584,7 +7584,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="121"/>
       <source>Polygon Fence</source>
-      <translation>Ограничения полигона</translation>
+      <translation>Ограничение полигона</translation>
     </message>
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="133"/>
@@ -7644,12 +7644,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="318"/>
       <source>Add Breach Return Point</source>
-      <translation>Добавить точку возврата при нарушении</translation>
+      <translation>Добавить точку возврата</translation>
     </message>
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="327"/>
       <source>Remove Breach Return Point</source>
-      <translation>Удалить точку возврата при нарушении</translation>
+      <translation>Удалить точку возврата</translation>
     </message>
     <message>
       <location filename="../src/PlanView/GeoFenceEditor.qml" line="342"/>
@@ -12774,7 +12774,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="206"/>
       <source>Max telem dist:</source>
-      <translation>Max telem dist:</translation>
+      <translation>Макс. дист. телем.:</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="213"/>
@@ -12972,7 +12972,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="662"/>
       <source>Rally Point</source>
-      <translation>Точка сбора</translation>
+      <translation>Место сбора</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="669"/>
@@ -12997,7 +12997,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</source>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="820"/>
       <source>Fence</source>
-      <translation>Ограждение</translation>
+      <translation>Огр.зоны</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="824"/>
@@ -14946,7 +14946,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
       <location filename="../src/PlanView/RallyPointEditorHeader.qml" line="30"/>
       <source>Rally Points</source>
-      <translation>Rally Points</translation>
+      <translation>Места сбора</translation>
     </message>
     <message>
       <location filename="../src/PlanView/RallyPointEditorHeader.qml" line="51"/>
@@ -14959,7 +14959,7 @@ Click the Next button to upload calibration to board. Click Cancel if you don&ap
     <message>
       <location filename="../src/PlanView/RallyPointItemEditor.qml" line="51"/>
       <source>Rally Point</source>
-      <translation>Rally Point</translation>
+      <translation>Место сбора</translation>
     </message>
     <message>
       <location filename="../src/PlanView/RallyPointItemEditor.qml" line="74"/>
